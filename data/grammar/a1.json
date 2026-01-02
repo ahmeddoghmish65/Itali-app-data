@@ -1,0 +1,46 @@
+[
+    {
+        "id": "essere",
+        "title": "فعل Essere (يكون)",
+        "subtitle": "أهم فعل في الإيطالية",
+        "icon": "book",
+        "content": {
+            "explanation": "فعل Essere يعني 'يكون' وهو من أهم الأفعال في اللغة الإيطالية. يستخدم للتعبير عن الهوية والصفات والجنسية والمهنة.",
+            "table": [
+                { "pronoun": "Io", "conjugation": "sono", "meaning": "أنا أكون" },
+                { "pronoun": "Tu", "conjugation": "sei", "meaning": "أنت تكون" },
+                { "pronoun": "Lui/Lei", "conjugation": "è", "meaning": "هو/هي يكون" },
+                { "pronoun": "Noi", "conjugation": "siamo", "meaning": "نحن نكون" },
+                { "pronoun": "Voi", "conjugation": "siete", "meaning": "أنتم تكونون" },
+                { "pronoun": "Loro", "conjugation": "sono", "meaning": "هم يكونون" }
+            ],
+            "examples": [
+                { "it": "Io sono italiano.", "ar": "أنا إيطالي." },
+                { "it": "Tu sei molto gentile.", "ar": "أنت لطيف جداً." },
+                { "it": "Lei è una studentessa.", "ar": "هي طالبة." }
+            ]
+        }
+    },
+    {
+        "id": "avere",
+        "title": "فعل Avere (يملك)",
+        "subtitle": "فعل الملكية",
+        "icon": "hand-holding",
+        "content": {
+            "explanation": "فعل Avere يعني 'يملك' ويستخدم للتعبير عن الملكية والعمر والحالات الجسدية.",
+            "table": [
+                { "pronoun": "Io", "conjugation": "ho", "meaning": "أنا أملك" },
+                { "pronoun": "Tu", "conjugation": "hai", "meaning": "أنت تملك" },
+                { "pronoun": "Lui/Lei", "conjugation": "ha", "meaning": "هو/هي يملك" },
+                { "pronoun": "Noi", "conjugation": "abbiamo", "meaning": "نحن نملك" },
+                { "pronoun": "Voi", "conjugation": "avete", "meaning": "أنتم تملكون" },
+                { "pronoun": "Loro", "conjugation": "hanno", "meaning": "هم يملكون" }
+            ],
+            "examples": [
+                { "it": "Ho venti anni.", "ar": "عمري عشرون سنة." },
+                { "it": "Hai fame?", "ar": "هل أنت جائع؟" },
+                { "it": "Abbiamo una casa grande.", "ar": "لدينا بيت كبير." }
+            ]
+        }
+    }
+]
