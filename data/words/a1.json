@@ -1,0 +1,129 @@
+{
+    "greetings": {
+        "name": "التحيات",
+        "icon": "hand-wave",
+        "words": [
+            {
+                "it": "Ciao",
+                "ar": "مرحباً",
+                "phonetic": "/ˈtʃaːo/",
+                "type": "تحية",
+                "example": { "it": "Ciao, come stai?", "ar": "مرحباً، كيف حالك؟" }
+            },
+            {
+                "it": "Buongiorno",
+                "ar": "صباح الخير",
+                "phonetic": "/bwonˈdʒorno/",
+                "type": "تحية",
+                "example": { "it": "Buongiorno signora!", "ar": "صباح الخير سيدتي!" }
+            },
+            {
+                "it": "Buonasera",
+                "ar": "مساء الخير",
+                "phonetic": "/bwonaˈsera/",
+                "type": "تحية",
+                "example": { "it": "Buonasera a tutti!", "ar": "مساء الخير للجميع!" }
+            },
+            {
+                "it": "Buonanotte",
+                "ar": "تصبح على خير",
+                "phonetic": "/bwonaˈnɔtte/",
+                "type": "تحية",
+                "example": { "it": "Buonanotte, dormi bene!", "ar": "تصبح على خير، نم جيداً!" }
+            },
+            {
+                "it": "Grazie",
+                "ar": "شكراً",
+                "phonetic": "/ˈɡrattsje/",
+                "type": "تعبير",
+                "example": { "it": "Grazie mille!", "ar": "شكراً جزيلاً!" }
+            },
+            {
+                "it": "Prego",
+                "ar": "عفواً",
+                "phonetic": "/ˈprɛɡo/",
+                "type": "تعبير",
+                "example": { "it": "Prego, si accomodi.", "ar": "عفواً، تفضل." }
+            },
+            {
+                "it": "Scusa",
+                "ar": "آسف / عذراً",
+                "phonetic": "/ˈskuza/",
+                "type": "تعبير",
+                "example": { "it": "Scusa, non ho capito.", "ar": "عذراً، لم أفهم." }
+            },
+            {
+                "it": "Arrivederci",
+                "ar": "إلى اللقاء",
+                "phonetic": "/arriˈvedertʃi/",
+                "type": "تحية",
+                "example": { "it": "Arrivederci a domani!", "ar": "إلى اللقاء غداً!" }
+            }
+        ]
+    },
+    "numbers": {
+        "name": "الأرقام",
+        "icon": "hashtag",
+        "words": [
+            { "it": "Zero", "ar": "صفر", "phonetic": "/ˈdzɛro/", "type": "رقم" },
+            { "it": "Uno", "ar": "واحد", "phonetic": "/ˈuno/", "type": "رقم", "example": { "it": "Numero uno.", "ar": "رقم واحد." } },
+            { "it": "Due", "ar": "اثنان", "phonetic": "/ˈdue/", "type": "رقم", "example": { "it": "Due caffè, per favore.", "ar": "قهوتان، من فضلك." } },
+            { "it": "Tre", "ar": "ثلاثة", "phonetic": "/tre/", "type": "رقم", "example": { "it": "Tre giorni.", "ar": "ثلاثة أيام." } },
+            { "it": "Quattro", "ar": "أربعة", "phonetic": "/ˈkwattro/", "type": "رقم" },
+            { "it": "Cinque", "ar": "خمسة", "phonetic": "/ˈtʃiŋkwe/", "type": "رقم" },
+            { "it": "Sei", "ar": "ستة", "phonetic": "/sɛi/", "type": "رقم" },
+            { "it": "Sette", "ar": "سبعة", "phonetic": "/ˈsɛtte/", "type": "رقم" },
+            { "it": "Otto", "ar": "ثمانية", "phonetic": "/ˈɔtto/", "type": "رقم" },
+            { "it": "Nove", "ar": "تسعة", "phonetic": "/ˈnɔve/", "type": "رقم" },
+            { "it": "Dieci", "ar": "عشرة", "phonetic": "/ˈdjɛtʃi/", "type": "رقم" }
+        ]
+    },
+    "colors": {
+        "name": "الألوان",
+        "icon": "palette",
+        "words": [
+            { "it": "Rosso", "ar": "أحمر", "phonetic": "/ˈrosso/", "type": "صفة", "example": { "it": "Il fiore è rosso.", "ar": "الزهرة حمراء." } },
+            { "it": "Blu", "ar": "أزرق", "phonetic": "/blu/", "type": "صفة", "example": { "it": "Il cielo è blu.", "ar": "السماء زرقاء." } },
+            { "it": "Verde", "ar": "أخضر", "phonetic": "/ˈverde/", "type": "صفة", "example": { "it": "L'erba è verde.", "ar": "العشب أخضر." } },
+            { "it": "Giallo", "ar": "أصفر", "phonetic": "/ˈdʒallo/", "type": "صفة" },
+            { "it": "Nero", "ar": "أسود", "phonetic": "/ˈnero/", "type": "صفة" },
+            { "it": "Bianco", "ar": "أبيض", "phonetic": "/ˈbjaŋko/", "type": "صفة" },
+            { "it": "Arancione", "ar": "برتقالي", "phonetic": "/aranˈtʃone/", "type": "صفة" },
+            { "it": "Rosa", "ar": "وردي", "phonetic": "/ˈrɔza/", "type": "صفة" },
+            { "it": "Viola", "ar": "بنفسجي", "phonetic": "/ˈvjɔla/", "type": "صفة" },
+            { "it": "Marrone", "ar": "بني", "phonetic": "/marˈrone/", "type": "صفة" }
+        ]
+    },
+    "family": {
+        "name": "العائلة",
+        "icon": "users",
+        "words": [
+            { "it": "Madre", "ar": "أم", "phonetic": "/ˈmadre/", "type": "اسم", "example": { "it": "Mia madre è italiana.", "ar": "أمي إيطالية." } },
+            { "it": "Padre", "ar": "أب", "phonetic": "/ˈpadre/", "type": "اسم" },
+            { "it": "Fratello", "ar": "أخ", "phonetic": "/fraˈtɛllo/", "type": "اسم" },
+            { "it": "Sorella", "ar": "أخت", "phonetic": "/soˈrɛlla/", "type": "اسم" },
+            { "it": "Figlio", "ar": "ابن", "phonetic": "/ˈfiʎʎo/", "type": "اسم" },
+            { "it": "Figlia", "ar": "ابنة", "phonetic": "/ˈfiʎʎa/", "type": "اسم" },
+            { "it": "Nonno", "ar": "جد", "phonetic": "/ˈnonno/", "type": "اسم" },
+            { "it": "Nonna", "ar": "جدة", "phonetic": "/ˈnonna/", "type": "اسم" },
+            { "it": "Zio", "ar": "عم / خال", "phonetic": "/ˈtsio/", "type": "اسم" },
+            { "it": "Zia", "ar": "عمة / خالة", "phonetic": "/ˈtsia/", "type": "اسم" }
+        ]
+    },
+    "food": {
+        "name": "الطعام",
+        "icon": "utensils",
+        "words": [
+            { "it": "Pane", "ar": "خبز", "phonetic": "/ˈpane/", "type": "اسم", "example": { "it": "Il pane è fresco.", "ar": "الخبز طازج." } },
+            { "it": "Acqua", "ar": "ماء", "phonetic": "/ˈakkwa/", "type": "اسم" },
+            { "it": "Caffè", "ar": "قهوة", "phonetic": "/kafˈfɛ/", "type": "اسم" },
+            { "it": "Latte", "ar": "حليب", "phonetic": "/ˈlatte/", "type": "اسم" },
+            { "it": "Pizza", "ar": "بيتزا", "phonetic": "/ˈpittsa/", "type": "اسم" },
+            { "it": "Pasta", "ar": "معكرونة", "phonetic": "/ˈpasta/", "type": "اسم" },
+            { "it": "Formaggio", "ar": "جبن", "phonetic": "/forˈmaddʒo/", "type": "اسم" },
+            { "it": "Frutta", "ar": "فاكهة", "phonetic": "/ˈfrutta/", "type": "اسم" },
+            { "it": "Verdura", "ar": "خضار", "phonetic": "/verˈdura/", "type": "اسم" },
+            { "it": "Carne", "ar": "لحم", "phonetic": "/ˈkarne/", "type": "اسم" }
+        ]
+    }
+}
