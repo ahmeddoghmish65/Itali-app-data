@@ -1,0 +1,38 @@
+[
+    {
+        "id": "greetings",
+        "title": "التحيات اليومية",
+        "icon": "hand-wave",
+        "phrases": [
+            { "it": "Come stai?", "ar": "كيف حالك؟", "phonetic": "/ˈkome stai/" },
+            { "it": "Sto bene, grazie.", "ar": "أنا بخير، شكراً.", "phonetic": "/sto ˈbɛne ˈɡrattsje/" },
+            { "it": "E tu?", "ar": "وأنت؟", "phonetic": "/e tu/" },
+            { "it": "Piacere di conoscerti.", "ar": "سعدت بمعرفتك.", "phonetic": "/pjaˈtʃere di konoˈʃerti/" },
+            { "it": "Come ti chiami?", "ar": "ما اسمك؟", "phonetic": "/ˈkome ti ˈkjami/" },
+            { "it": "Mi chiamo...", "ar": "اسمي...", "phonetic": "/mi ˈkjamo/" }
+        ]
+    },
+    {
+        "id": "restaurant",
+        "title": "في المطعم",
+        "icon": "utensils",
+        "phrases": [
+            { "it": "Un tavolo per due, per favore.", "ar": "طاولة لشخصين، من فضلك.", "phonetic": "/un ˈtavolo per ˈdue per faˈvore/" },
+            { "it": "Il menu, per favore.", "ar": "قائمة الطعام، من فضلك.", "phonetic": "/il meˈnu per faˈvore/" },
+            { "it": "Vorrei ordinare.", "ar": "أريد أن أطلب.", "phonetic": "/vorˈrɛi ordiˈnare/" },
+            { "it": "Il conto, per favore.", "ar": "الحساب، من فضلك.", "phonetic": "/il ˈkonto per faˈvore/" },
+            { "it": "È delizioso!", "ar": "إنه لذيذ!", "phonetic": "/ɛ deliˈtsjoso/" }
+        ]
+    },
+    {
+        "id": "shopping",
+        "title": "التسوق",
+        "icon": "shopping-cart",
+        "phrases": [
+            { "it": "Quanto costa?", "ar": "كم الثمن؟", "phonetic": "/ˈkwanto ˈkɔsta/" },
+            { "it": "È troppo caro.", "ar": "إنه غالي جداً.", "phonetic": "/ɛ ˈtrɔppo ˈkaro/" },
+            { "it": "Posso pagare con carta?", "ar": "هل يمكنني الدفع بالبطاقة؟", "phonetic": "/ˈpɔsso paˈɡare kon ˈkarta/" },
+            { "it": "Vorrei comprare questo.", "ar": "أريد شراء هذا.", "phonetic": "/vorˈrɛi komˈprare ˈkwesto/" }
+        ]
+    }
+]
