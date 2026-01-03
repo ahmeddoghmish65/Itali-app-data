@@ -1,4 +1,21 @@
 {
+        "greetings_extended": {
+      "name": "تحيات ومجاملات إضافية",
+      "icon": "handshake",
+      "words": [
+        { "it": "ciao", "ar": "أهلاً بك / مرحباً", "phonetic": "/benveˈnuto/", "type": "تحية", "example": { "it": "ciao io sono ahmed.", "ar": "مرحبا اسمي احمد." } },
+        { "it": "Benvenuto", "ar": "أهلاً بك / مرحباً", "phonetic": "/benveˈnuto/", "type": "تحية", "example": { "it": "Benvenuto a casa.", "ar": "مرحباً بك في المنزل." } },
+        { "it": "Piacere", "ar": "تشرفنا / سررت بلقائك", "phonetic": "/pjaˈtʃere/", "type": "تعبير", "example": { "it": "Piacere di conoscerti.", "ar": "تشرفت بمعرفتك." } },
+        { "it": "Buona giornata", "ar": "نهارك سعيد (عند الوداع نهاراً)", "phonetic": "/ˈbwɔna dʒorˈnata/", "type": "تحية", "example": { "it": "Ciao, buona giornata!", "ar": "وداعاً، نهارك سعيد!" } },
+        { "it": "Buona serata", "ar": "أمسية سعيدة (عند الوداع ليلاً)", "phonetic": "/ˈbwɔna seˈrata/", "type": "تحية", "example": { "it": "A domani, buona serata.", "ar": "أراك غداً، أمسية سعيدة." } },
+        { "it": "Buon appetito", "ar": "بالهناء والشفاء / شهية طيبة", "phonetic": "/bwon appeˈtito/", "type": "تعبير", "example": { "it": "Il pranzo è pronto, buon appetito!", "ar": "الغداء جاهز، بالهناء والشفاء!" } },
+        { "it": "Buon lavoro", "ar": "عملاً موفقاً (الله يعطيك العافية)", "phonetic": "/bwon laˈvoro/", "type": "تحية", "example": { "it": "Vado in ufficio, buon lavoro.", "ar": "ذاهب للمكتب، عملاً موفقاً." } },
+        { "it": "A presto", "ar": "أراك قريباً", "phonetic": "/a ˈprɛsto/", "type": "تحية", "example": { "it": "Devo andare, a presto.", "ar": "يجب أن أذهب، أراك قريباً." } },
+        { "it": "A dopo", "ar": "أراك لاحقاً", "phonetic": "/a ˈdopo/", "type": "تحية", "example": { "it": "Ci vediamo a dopo.", "ar": "نلتقي لاحقاً." } },
+        { "it": "Congratulazioni", "ar": "تهانينا / مبروك", "phonetic": "/kongratulaˈtsjoni/", "type": "تعبير", "example": { "it": "Congratulazioni per la laurea!", "ar": "مبروك التخرج!" } },
+        { "it": "Scusi", "ar": "عذراً / لو سمحت (بصيغة احترام)", "phonetic": "/ˈskuzy/", "type": "تعبير", "example": { "it": "Scusi, signore.", "ar": "عذراً يا سيدي." } }
+      ]
+    },
     "pronouns": {
       "name": "الضمائر",
       "icon": "user",
@@ -2049,5 +2066,56 @@
         { "it": "Sicuramente", "ar": "بالتأكيد (بشكل مؤكد)", "phonetic": "/ikuraˈmente/", "type": "ظرف", "example": { "it": "Vengo sicuramente.", "ar": "سآتي بالتأكيد." } },
         { "it": "Veramente", "ar": "حقاً / بصدق", "phonetic": "/veraˈmente/", "type": "ظرف", "example": { "it": "Mi piace veramente.", "ar": "يعجبني حقاً." } }
       ]
+    },
+    "ordinal_numbers_2": {
+      "name": "أرقام ترتيبية 2",
+      "icon": "list-ol",
+      "words": [
+        { "it": "Sesto", "ar": "السادس", "phonetic": "/ˈsɛsto/", "type": "رقم/صفة", "example": { "it": "Il sesto giorno.", "ar": "اليوم السادس." } },
+        { "it": "Settimo", "ar": "السابع", "phonetic": "/ˈsɛttimo/", "type": "رقم/صفة", "example": { "it": "Il settimo cielo.", "ar": "السماء السابعة." } },
+        { "it": "Ottavo", "ar": "الثامن", "phonetic": "/otˈtavo/", "type": "رقم/صفة", "example": { "it": "L'ottavo nano.", "ar": "القزم الثامن." } },
+        { "it": "Nono", "ar": "التاسع", "phonetic": "/ˈnɔno/", "type": "رقم/صفة", "example": { "it": "Il nono mese.", "ar": "الشهر التاسع." } },
+        { "it": "Decimo", "ar": "العاشر", "phonetic": "/ˈdɛtʃimo/", "type": "رقم/صفة", "example": { "it": "Il decimo anno.", "ar": "العام العاشر." } }
+      ]
+    },
+    "nature_phenomena": {
+      "name": "ظواهر طبيعية",
+      "icon": "bolt",
+      "words": [
+        { "it": "Arcobaleno", "ar": "قوس قزح", "phonetic": "/arkobaˈleno/", "type": "اسم", "example": { "it": "Guarda l'arcobaleno.", "ar": "انظر لقوس قزح." } },
+        { "it": "Fulmine", "ar": "برق", "phonetic": "/ˈfulmine/", "type": "اسم", "example": { "it": "Ho visto un fulmine.", "ar": "رأيت برقاً." } },
+        { "it": "Tuono", "ar": "رعد", "phonetic": "/ˈtwɔno/", "type": "اسم", "example": { "it": "Ho paura del tuono.", "ar": "أخاف من الرعد." } },
+        { "it": "Tempesta", "ar": "عاصفة (شديدة)", "phonetic": "/temˈpɛsta/", "type": "اسم", "example": { "it": "Una tempesta di neve.", "ar": "عاصفة ثلجية." } }
+      ]
+    },
+    "basic_tools_2": {
+      "name": "أدوات عمل بسيطة",
+      "icon": "tools",
+      "words": [
+        { "it": "Martello", "ar": "مطرقة", "phonetic": "/marˈtɛllo/", "type": "اسم", "example": { "it": "Usa il martello.", "ar": "استخدم المطرقة." } },
+        { "it": "Cacciavite", "ar": "مفك", "phonetic": "/kattʃaˈvite/", "type": "اسم", "example": { "it": "Mi serve un cacciavite.", "ar": "أحتاج مفكاً." } },
+        { "it": "Chiodo", "ar": "مسمار", "phonetic": "/ˈkjɔdo/", "type": "اسم", "example": { "it": "Un chiodo nel muro.", "ar": "مسمار في الحائط." } },
+        { "it": "Corda", "ar": "حبل", "phonetic": "/ˈkɔrda/", "type": "اسم", "example": { "it": "Tira la corda.", "ar": "اسحب الحبل." } },
+        { "it": "Secchio", "ar": "دلو", "phonetic": "/ˈsekkjo/", "type": "اسم", "example": { "it": "Un secchio d'acqua.", "ar": "دلو ماء." } }
+      ]
+    },
+    "camping_outdoor": {
+      "name": "تخييم وخارج المنزل",
+      "icon": "campground",
+      "words": [
+        { "it": "Tenda", "ar": "خيمة", "phonetic": "/ˈtɛnda/", "type": "اسم", "example": { "it": "Dormo in tenda.", "ar": "أنام في الخيمة." } },
+        { "it": "Torcia", "ar": "مصباح يدوي (كشاف)", "phonetic": "/ˈtɔrtʃa/", "type": "اسم", "example": { "it": "Accendi la torcia.", "ar": "أشعل الكشاف." } },
+        { "it": "Fuoco", "ar": "نار / موقد تخييم", "phonetic": "/ˈfwɔko/", "type": "اسم", "example": { "it": "Accendiamo il fuoco.", "ar": "نشعل النار." } }
+      ]
+    },
+    "geometric_shapes": {
+      "name": "أشكال هندسية",
+      "icon": "shapes",
+      "words": [
+        { "it": "Triangolo", "ar": "مثلث", "phonetic": "/triˈangolo/", "type": "اسم", "example": { "it": "Ha tre lati.", "ar": "له ثلاثة أضلاع." } },
+        { "it": "Rettangolo", "ar": "مستطيل", "phonetic": "/retˈtangolo/", "type": "اسم", "example": { "it": "Un tavolo rettangolo.", "ar": "طاولة مستطيلة." } },
+        { "it": "Punto", "ar": "نقطة", "phonetic": "/ˈpunto/", "type": "اسم", "example": { "it": "Un punto nero.", "ar": "نقطة سوداء." } }
+      ]
     }
+  }
   }
