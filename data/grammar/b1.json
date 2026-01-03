@@ -1,1 +1,868 @@
-ى
+[
+  {
+    "id": "b1_imperfetto",
+    "title": "الماضي المستمر",
+    "subtitle": "Imperfetto",
+    "icon": "history",
+    "content": {
+      "explanation": "Imperfetto يُستخدم لوصف عادات في الماضي، أو حالة مستمرة، أو وصف الخلفية (الوقت/الطقس/المشاعر) في قصة. يُترجم غالباً: (كنتُ أفعل / كان يفعل).",
+      "table": [
+        { "pronoun": "عادات", "conjugation": "Da piccolo, giocavo sempre.", "meaning": "وأنا صغير كنت ألعب دائماً." },
+        { "pronoun": "وصف/حالة", "conjugation": "Era tardi e avevo sonno.", "meaning": "كان الوقت متأخراً وكنت نعساناً." },
+        { "pronoun": "خلفية قصة", "conjugation": "Mentre camminavo, pioveva.", "meaning": "بينما كنت أمشي، كانت تمطر." }
+      ],
+      "examples": [
+        { "it": "Quando ero bambino, abitavo a Milano.", "ar": "عندما كنت طفلاً، كنت أسكن في ميلانو." },
+        { "it": "Ieri alle 8 guardavo la TV.", "ar": "أمس الساعة 8 كنت أشاهد التلفاز." },
+        { "it": "Faceva freddo.", "ar": "كان الجو بارداً." }
+      ]
+    }
+  },
+  {
+    "id": "b1_imperfetto_vs_passato_prossimo",
+    "title": "الفرق بين imperfetto و passato prossimo",
+    "subtitle": "خلفية vs حدث منتهٍ",
+    "icon": "exchange-alt",
+    "content": {
+      "explanation": "Passato prossimo لحدث محدد انتهى. Imperfetto لوصف الخلفية أو الحالة المستمرة أو العادة. غالباً في القصة: imperfetto للخلفية + passato prossimo للحدث.",
+      "table": [
+        { "pronoun": "Imperfetto", "conjugation": "Studiavo.", "meaning": "كنت أدرس (خلفية/استمرار)." },
+        { "pronoun": "Passato prossimo", "conjugation": "Ho studiato.", "meaning": "درستُ (حدث منتهٍ)." },
+        { "pronoun": "معاً", "conjugation": "Studiavo quando mi hai chiamato.", "meaning": "كنت أدرس عندما اتصلت بي." }
+      ],
+      "examples": [
+        { "it": "Pioveva e sono uscito/a.", "ar": "كانت تمطر وخرجتُ." },
+        { "it": "Ieri ho visto Marco.", "ar": "أمس رأيتُ ماركو." },
+        { "it": "Da piccolo andavo al mare ogni estate.", "ar": "عندما كنت صغيراً كنت أذهب للبحر كل صيف." }
+      ]
+    }
+  },
+  {
+    "id": "b1_futuro_semplice",
+    "title": "المستقبل البسيط",
+    "subtitle": "Futuro semplice",
+    "icon": "forward",
+    "content": {
+      "explanation": "Futuro semplice يُستخدم لما سيحدث لاحقاً. في الكلام اليومي يمكن استخدام الحاضر مع ظرف زمان، لكن المستقبل مهم في B1 خاصة للتوقع والوعود والخطط.",
+      "table": [
+        { "pronoun": "-are", "conjugation": "parlare → parlerò", "meaning": "سأتكلم" },
+        { "pronoun": "-ere", "conjugation": "prendere → prenderò", "meaning": "سآخذ" },
+        { "pronoun": "-ire", "conjugation": "dormire → dormirò", "meaning": "سأنام" },
+        { "pronoun": "شاذ", "conjugation": "essere → sarò / avere → avrò", "meaning": "سأكون / سيكون لدي" }
+      ],
+      "examples": [
+        { "it": "Domani andrò al lavoro.", "ar": "غداً سأذهب للعمل." },
+        { "it": "Ti chiamerò più tardi.", "ar": "سأتصل بك لاحقاً." },
+        { "it": "Sarà difficile.", "ar": "سيكون صعباً." }
+      ]
+    }
+  },
+  {
+    "id": "b1_future_for_assumption",
+    "title": "استخدام futuro للتوقع والافتراض",
+    "subtitle": "Sarà… / Avrà…",
+    "icon": "question-circle",
+    "content": {
+      "explanation": "في الإيطالية يُستخدم المستقبل أيضاً للتخمين/الافتراض في الحاضر: Sarà a casa (غالباً هو في البيت).",
+      "table": [
+        { "pronoun": "تخمين عن الحاضر", "conjugation": "Sarà a casa.", "meaning": "غالباً هو في البيت." },
+        { "pronoun": "تخمين عن الماضي القريب", "conjugation": "Avrà avuto un problema.", "meaning": "غالباً كان لديه مشكلة." },
+        { "pronoun": "سؤال", "conjugation": "Che sarà successo?", "meaning": "يا ترى ماذا حدث؟" }
+      ],
+      "examples": [
+        { "it": "Non risponde: sarà occupato.", "ar": "لا يرد: غالباً هو مشغول." },
+        { "it": "Sono le 9: sarà già arrivata.", "ar": "الساعة 9: غالباً وصلت بالفعل." },
+        { "it": "Dov'è Marco? Sarà in ufficio.", "ar": "أين ماركو؟ غالباً في المكتب." }
+      ]
+    }
+  },
+  {
+    "id": "b1_passato_remoto_intro",
+    "title": "الماضي البعيد",
+    "subtitle": "Passato remoto – تعرّف",
+    "icon": "book",
+    "content": {
+      "explanation": "Passato remoto يُستخدم أكثر في السرد والقصص والكتب، وفي بعض مناطق إيطاليا للكلام عن ماضٍ بعيد. في B1 يكفي التعرف عليه وفهمه عند القراءة.",
+      "table": [
+        { "pronoun": "مثال", "conjugation": "nacque / visse / morì", "meaning": "وُلِد / عاش / مات" },
+        { "pronoun": "مثال", "conjugation": "andò / disse / fece", "meaning": "ذهب / قال / فعل" },
+        { "pronoun": "أين يظهر", "conjugation": "storie, romanzi, biografie", "meaning": "قصص، روايات، سير" }
+      ],
+      "examples": [
+        { "it": "Garibaldi nacque a Nizza.", "ar": "غاريبالدي وُلد في نيس." },
+        { "it": "Poi andò via.", "ar": "ثم ذهب بعيداً." },
+        { "it": "Disse la verità.", "ar": "قال الحقيقة." }
+      ]
+    }
+  },
+  {
+    "id": "b1_sequence_of_tenses_intro",
+    "title": "تسلسل الأزمنة",
+    "subtitle": "Introduzione",
+    "icon": "stream",
+    "content": {
+      "explanation": "تسلسل الأزمنة يعني اختيار زمن مناسب في الجملة التابعة بحسب زمن الجملة الرئيسية. في B1 نبدأ بأكثر الأنماط شيوعاً: (قال إن… / ظننت أن…).",
+      "table": [
+        { "pronoun": "حاضر + تابع", "conjugation": "Penso che è / che sia…", "meaning": "أعتقد أنه…" },
+        { "pronoun": "ماضٍ + تابع", "conjugation": "Ho pensato che era…", "meaning": "اعتقدتُ أنه كان…" },
+        { "pronoun": "قال إن", "conjugation": "Ha detto che veniva.", "meaning": "قال إنه كان سيأتي/كان يأتي." }
+      ],
+      "examples": [
+        { "it": "Penso che domani piove.", "ar": "أعتقد أن غداً ستمطر." },
+        { "it": "Ho pensato che era tardi.", "ar": "اعتقدتُ أن الوقت متأخر." },
+        { "it": "Ha detto che arrivava alle otto.", "ar": "قال إنه سيصل الساعة الثامنة." }
+      ]
+    }
+  },
+  {
+    "id": "b1_condizionale_presente",
+    "title": "الشرط البسيط",
+    "subtitle": "Condizionale presente",
+    "icon": "balance-scale",
+    "content": {
+      "explanation": "Condizionale presente يُستخدم للتعبير عن (سوف/كنتُ سأ…) بطريقة شرطية أو مهذبة: vorrei (أود). يُبنى غالباً بإضافة نهايات خاصة.",
+      "table": [
+        { "pronoun": "-are", "conjugation": "parlare → parlerei", "meaning": "سأتكلم (لو…)" },
+        { "pronoun": "-ere", "conjugation": "prendere → prenderei", "meaning": "سآخذ (لو…)" },
+        { "pronoun": "-ire", "conjugation": "dormire → dormirei", "meaning": "سأنام (لو…)" },
+        { "pronoun": "شاذ", "conjugation": "essere → sarei / avere → avrei", "meaning": "سأكون / سيكون لدي" }
+      ],
+      "examples": [
+        { "it": "Vorrei un caffè.", "ar": "أود قهوة." },
+        { "it": "Andrei con te, ma lavoro.", "ar": "سأذهب معك لكنني أعمل." },
+        { "it": "Sarei felice di aiutarti.", "ar": "سأكون سعيداً بمساعدتك." }
+      ]
+    }
+  },
+  {
+    "id": "b1_condizionale_polite",
+    "title": "استخدام condizionale للأدب والطلب",
+    "subtitle": "Vorrei / Potrei / Dovrei",
+    "icon": "hands-helping",
+    "content": {
+      "explanation": "للطلب المؤدب نستخدم الشرط: vorrei (أود)، potrei (هل يمكنني)، potrebbe (هل يمكن حضرتك). للنصيحة: dovresti (ينبغي).",
+      "table": [
+        { "pronoun": "طلب", "conjugation": "Vorrei + اسم", "meaning": "أود…" },
+        { "pronoun": "استئذان", "conjugation": "Potrei + infinito?", "meaning": "هل يمكنني أن…؟" },
+        { "pronoun": "طلب مهذب", "conjugation": "Potrebbe + infinito?", "meaning": "هل يمكن حضرتك أن…؟" },
+        { "pronoun": "نصيحة", "conjugation": "Dovresti + infinito", "meaning": "ينبغي أن…" }
+      ],
+      "examples": [
+        { "it": "Potrei usare il bagno?", "ar": "هل يمكنني استخدام الحمّام؟" },
+        { "it": "Potrebbe ripetere, per favore?", "ar": "هل يمكن أن تعيد من فضلك؟" },
+        { "it": "Dovresti studiare di più.", "ar": "ينبغي أن تدرس أكثر." }
+      ]
+    }
+  },
+  {
+    "id": "b1_passive_voice",
+    "title": "المبني للمجهول",
+    "subtitle": "Forma passiva",
+    "icon": "shield-alt",
+    "content": {
+      "explanation": "المبني للمجهول يُستخدم عندما نركز على المفعول به لا الفاعل: Il libro è stato scritto… (تم كتابة الكتاب…). التركيب: essere + participio passato مع تطابق.",
+      "table": [
+        { "pronoun": "حاضر", "conjugation": "Il libro è scritto.", "meaning": "الكتاب مكتوب." },
+        { "pronoun": "ماضي قريب", "conjugation": "Il libro è stato scritto.", "meaning": "تمّت كتابة الكتاب." },
+        { "pronoun": "الفاعل (اختياري)", "conjugation": "da + شخص", "meaning": "بواسطة…" }
+      ],
+      "examples": [
+        { "it": "La porta è chiusa.", "ar": "الباب مغلق." },
+        { "it": "Il film è stato visto da molti.", "ar": "الفيلم شوهد من الكثيرين." },
+        { "it": "La lettera è stata scritta da Maria.", "ar": "الرسالة كُتبت بواسطة ماريا." }
+      ]
+    }
+  },
+  {
+    "id": "b1_si_impersonale",
+    "title": "si impersonale",
+    "subtitle": "أسلوب عام: \"يتم/يُقال\"",
+    "icon": "users",
+    "content": {
+      "explanation": "si impersonale يُستخدم للكلام بشكل عام بدون تحديد الفاعل: In Italia si mangia bene (في إيطاليا يُؤكل جيداً). الفعل غالباً يأتي بصيغة المفرد.",
+      "table": [
+        { "pronoun": "عام", "conjugation": "si + verbo (3ª sing.)", "meaning": "يُفعل/يتم" },
+        { "pronoun": "مع مفعول جمع", "conjugation": "Si comprano libri.", "meaning": "يتم شراء كتب." },
+        { "pronoun": "نفي", "conjugation": "Non si fuma.", "meaning": "ممنوع التدخين/لا يُدخن." }
+      ],
+      "examples": [
+        { "it": "Qui si parla italiano.", "ar": "هنا يُتحدث الإيطالية." },
+        { "it": "In questa città si vive bene.", "ar": "في هذه المدينة تُعاش حياة جيدة." },
+        { "it": "Non si entra.", "ar": "ممنوع الدخول." }
+      ]
+    }
+  },
+  {
+    "id": "b1_gerundio_advanced",
+    "title": "gerundio المتقدم",
+    "subtitle": "mentre / facendo / dicendo…",
+    "icon": "spinner",
+    "content": {
+      "explanation": "الـ gerundio يُستخدم لربط فعلين لهما نفس الفاعل، وغالباً بمعنى (بينما/عند القيام بـ). في B1 نستخدمه أكثر في الجمل الطويلة: Camminando, ho visto…",
+      "table": [
+        { "pronoun": "-are", "conjugation": "parlare → parlando", "meaning": "أثناء الكلام" },
+        { "pronoun": "-ere/-ire", "conjugation": "leggere → leggendo / dormire → dormendo", "meaning": "أثناء القراءة/النوم" },
+        { "pronoun": "شاذ", "conjugation": "fare → facendo / dire → dicendo", "meaning": "أثناء الفعل/القول" }
+      ],
+      "examples": [
+        { "it": "Camminando, ho incontrato un amico.", "ar": "وأنا أمشي، قابلت صديقاً." },
+        { "it": "Ho imparato molto ascoltando.", "ar": "تعلمت كثيراً عبر الاستماع." },
+        { "it": "Parlando piano, capisci meglio.", "ar": "عندما تتكلم ببطء، تفهم أفضل." }
+      ]
+    }
+  },
+  {
+    "id": "b1_infinito_passato",
+    "title": "infinito الماضي",
+    "subtitle": "aver fatto / essere andato",
+    "icon": "clock",
+    "content": {
+      "explanation": "infinito passato يُستخدم للتعبير عن فعل حدث قبل فعل آخر: Dopo aver mangiato, sono uscito. التركيب: avere/essere (مصدر) + participio passato (مع تطابق إذا كان essere).",
+      "table": [
+        { "pronoun": "مع avere", "conjugation": "aver + participio passato", "meaning": "بعد أن فعل (متعدّي غالباً)" },
+        { "pronoun": "مع essere", "conjugation": "essere + participio passato", "meaning": "بعد أن ذهب/وصل… (مع تطابق)" },
+        { "pronoun": "مثال", "conjugation": "dopo aver finito", "meaning": "بعد أن أنهيت" }
+      ],
+      "examples": [
+        { "it": "Dopo aver studiato, sono uscito/a.", "ar": "بعد أن درستُ، خرجتُ." },
+        { "it": "Grazie per avermi aiutato.", "ar": "شكراً لمساعدتي." },
+        { "it": "Dopo essere arrivati, abbiamo mangiato.", "ar": "بعد أن وصلنا، أكلنا." }
+      ]
+    }
+  },
+  {
+    "id": "b1_congiuntivo_presente_intro",
+    "title": "congiuntivo presente",
+    "subtitle": "تمهيدي",
+    "icon": "graduation-cap",
+    "content": {
+      "explanation": "congiuntivo يُستخدم غالباً بعد che للتعبير عن رأي/شك/رغبة/ضرورة. في B1 الهدف: التعرف على الصيغ الأساسية واستخدامها في عبارات شائعة.",
+      "table": [
+        { "pronoun": "essere", "conjugation": "che io sia / tu sia / lui sia / noi siamo / voi siate / loro siano", "meaning": "يكون (صيغة congiuntivo)" },
+        { "pronoun": "avere", "conjugation": "che io abbia / tu abbia / lui abbia / noi abbiamo / voi abbiate / loro abbiano", "meaning": "يملك (صيغة congiuntivo)" },
+        { "pronoun": "-are مثال", "conjugation": "che io parli / tu parli / lui parli / noi parliamo / voi parliate / loro parlino", "meaning": "يتكلم (congiuntivo)" }
+      ],
+      "examples": [
+        { "it": "Penso che sia importante.", "ar": "أعتقد أنه مهم." },
+        { "it": "Spero che tu abbia tempo.", "ar": "آمل أن يكون لديك وقت." },
+        { "it": "È possibile che piova.", "ar": "من الممكن أن تمطر." }
+      ]
+    }
+  },
+  {
+    "id": "b1_verbs_require_congiuntivo",
+    "title": "أفعال تتطلب congiuntivo",
+    "subtitle": "penso che / spero che / credo che…",
+    "icon": "list",
+    "content": {
+      "explanation": "بعض التعابير الشائعة تتبعها che + congiuntivo لأنها تعبّر عن رأي/عاطفة/شك/ضرورة.",
+      "table": [
+        { "pronoun": "رأي/اعتقاد", "conjugation": "penso che / credo che", "meaning": "أعتقد أن…" },
+        { "pronoun": "أمل/رغبة", "conjugation": "spero che / voglio che", "meaning": "آمل أن… / أريد أن…" },
+        { "pronoun": "خوف/شك", "conjugation": "temo che / dubito che", "meaning": "أخشى أن… / أشك أن…" },
+        { "pronoun": "ضرورة", "conjugation": "è necessario che / è importante che", "meaning": "من الضروري/المهم أن…" }
+      ],
+      "examples": [
+        { "it": "Credo che lui sia a casa.", "ar": "أعتقد أنه في البيت." },
+        { "it": "Spero che venga domani.", "ar": "آمل أن يأتي غداً." },
+        { "it": "È importante che tu studi.", "ar": "من المهم أن تدرس." }
+      ]
+    }
+  },
+  {
+    "id": "b1_congiuntivo_with_che",
+    "title": "congiuntivo مع che",
+    "subtitle": "che + congiuntivo",
+    "icon": "code",
+    "content": {
+      "explanation": "في كثير من الحالات يأتي congiuntivo بعد che عندما تكون الجملة الرئيسية غير مؤكدة أو تعبر عن موقف شخصي. إذا كانت حقيقة مؤكدة غالباً نستخدم indicativo.",
+      "table": [
+        { "pronoun": "غير مؤكد", "conjugation": "Penso che sia vero.", "meaning": "أعتقد أنه صحيح." },
+        { "pronoun": "مؤكد", "conjugation": "So che è vero.", "meaning": "أعرف أنه صحيح." },
+        { "pronoun": "رغبة", "conjugation": "Voglio che tu venga.", "meaning": "أريدك أن تأتي." }
+      ],
+      "examples": [
+        { "it": "Mi sembra che sia tardi.", "ar": "يبدو لي أنه متأخر." },
+        { "it": "So che hai ragione.", "ar": "أعرف أنك على حق." },
+        { "it": "Penso che tu possa farlo.", "ar": "أعتقد أنك تستطيع فعل ذلك." }
+      ]
+    }
+  },
+  {
+    "id": "b1_indicativo_vs_congiuntivo",
+    "title": "الفرق بين indicativo و congiuntivo",
+    "subtitle": "حقيقة vs رأي/شك/رغبة",
+    "icon": "adjust",
+    "content": {
+      "explanation": "Indicativo يُستخدم للحقائق والمعلومات المؤكدة. Congiuntivo يُستخدم لما هو غير مؤكد أو مرتبط برأي/مشاعر/رغبة/ضرورة.",
+      "table": [
+        { "pronoun": "Indicativo", "conjugation": "So che è qui.", "meaning": "أعرف أنه هنا (حقيقة)." },
+        { "pronoun": "Congiuntivo", "conjugation": "Penso che sia qui.", "meaning": "أعتقد أنه هنا (رأي)." },
+        { "pronoun": "قاعدة تذكّر", "conjugation": "certezza vs incertezza", "meaning": "يقين مقابل عدم يقين" }
+      ],
+      "examples": [
+        { "it": "È sicuro che arriva.", "ar": "مؤكد أنه سيصل." },
+        { "it": "È possibile che arrivi.", "ar": "ممكن أن يصل." },
+        { "it": "Credo che abbia ragione.", "ar": "أعتقد أنه على حق." }
+      ]
+    }
+  },
+  {
+    "id": "b1_combined_pronouns",
+    "title": "ضمائر المفعول المركبة",
+    "subtitle": "glielo / me ne / ce la…",
+    "icon": "object-group",
+    "content": {
+      "explanation": "في B1 نستخدم مجموعات ضمائر أكثر: غير مباشر + مباشر (glielo)، ومع ne/ci (me ne، ce la). الترتيب مهم.",
+      "table": [
+        { "pronoun": "gli + lo", "conjugation": "glielo", "meaning": "إياه له" },
+        { "pronoun": "mi + ne", "conjugation": "me ne", "meaning": "منه/عنها لي" },
+        { "pronoun": "ci + la", "conjugation": "ce la", "meaning": "إياها لنا/نفعلها" },
+        { "pronoun": "vi + lo", "conjugation": "ve lo", "meaning": "إياه لكم" }
+      ],
+      "examples": [
+        { "it": "Glielo dico domani.", "ar": "سأقوله له غداً." },
+        { "it": "Me ne vado.", "ar": "أنا ذاهب (من هنا)." },
+        { "it": "Ce la faccio.", "ar": "أستطيع/سأنجح." }
+      ]
+    }
+  },
+  {
+    "id": "b1_pronoun_order_advanced",
+    "title": "ترتيب الضمائر المتقدم",
+    "subtitle": "posizione con verbi servili e tempi composti",
+    "icon": "sort",
+    "content": {
+      "explanation": "مع الأفعال الناقصة (potere/dovere/volere) يمكن وضع الضمير قبل الفعل الناقص أو لصقه بالمصدر. مع الضمائر المركبة يكون الشكل غالباً قبل الفعل المصرف أو ملتصقاً في الأمر.",
+      "table": [
+        { "pronoun": "قبل الناقص", "conjugation": "Lo posso fare.", "meaning": "أستطيع فعله." },
+        { "pronoun": "ملتصق بالمصدر", "conjugation": "Posso farlo.", "meaning": "أستطيع أن أفعله." },
+        { "pronoun": "ضميران", "conjugation": "Te lo posso dire / Posso dirtelo", "meaning": "أستطيع أن أقوله لك" }
+      ],
+      "examples": [
+        { "it": "Non te lo voglio dire.", "ar": "لا أريد أن أقوله لك." },
+        { "it": "Voglio dirtelo.", "ar": "أريد أن أقوله لك." },
+        { "it": "Posso spiegartelo.", "ar": "أستطيع شرحه لك." }
+      ]
+    }
+  },
+  {
+    "id": "b1_pronouns_compound_tenses",
+    "title": "الضمائر مع الأزمنة المركبة",
+    "subtitle": "l'ho vista / gliel'ho detto",
+    "icon": "paperclip",
+    "content": {
+      "explanation": "في الأزمنة المركبة (مثل passato prossimo): الضمير يأتي قبل المساعد. مع lo/la/li/le قد يطابق اسم المفعول. ومع ضميرين: gliel'ho detto (قلتُه له).",
+      "table": [
+        { "pronoun": "ضمير واحد", "conjugation": "L'ho visto/a.", "meaning": "رأيته/رأيتها." },
+        { "pronoun": "ضميران", "conjugation": "Gliel'ho detto.", "meaning": "قلتُه له." },
+        { "pronoun": "تطابق", "conjugation": "Le ho comprate.", "meaning": "اشتريتهن." }
+      ],
+      "examples": [
+        { "it": "La lettera? L'ho scritta.", "ar": "الرسالة؟ كتبتُها." },
+        { "it": "Il segreto? Gliel'ho detto.", "ar": "السر؟ قلته له." },
+        { "it": "Le foto? Le ho viste.", "ar": "الصور؟ رأيتها." }
+      ]
+    }
+  },
+  {
+    "id": "b1_ci_ne_extended",
+    "title": "ci و ne",
+    "subtitle": "استخدام موسّع",
+    "icon": "map-marker-alt",
+    "content": {
+      "explanation": "ci يمكن أن يعني (هناك/إلى هناك) أو يعوّض مكاناً أو (فيه). ne يعوّض (di + شيء) أو كمية. في B1 تظهر تعابير ثابتة مثل: ce la fare, andarsene.",
+      "table": [
+        { "pronoun": "ci (مكان)", "conjugation": "Ci vado domani.", "meaning": "سأذهب إلى هناك غداً." },
+        { "pronoun": "ci (فيه)", "conjugation": "Ci penso.", "meaning": "سأفكر في الأمر." },
+        { "pronoun": "ne (كمية)", "conjugation": "Ne voglio due.", "meaning": "أريد اثنين." },
+        { "pronoun": "andarsene", "conjugation": "Me ne vado.", "meaning": "أنا ذاهب (من هنا)." }
+      ],
+      "examples": [
+        { "it": "Non ci credo.", "ar": "لا أصدق ذلك." },
+        { "it": "Ne parliamo dopo.", "ar": "سنتحدث عنه لاحقاً." },
+        { "it": "Ce la facciamo!", "ar": "سننجح/نقدر!" }
+      ]
+    }
+  },
+  {
+    "id": "b1_pronouns_imperative_advanced",
+    "title": "الضمائر مع الأمر المتقدم",
+    "subtitle": "Dimmelo / Non darmelo / Me lo dica",
+    "icon": "bullhorn",
+    "content": {
+      "explanation": "في الأمر الإيجابي (Tu/Noi/Voi) غالباً تلتحق الضمائر بالفعل: dimmelo. في النفي: non + infinito + ضمائر ملتصقة: non darmelo. مع Lei (المهذب) غالباً الضمير قبل الفعل: me lo dica.",
+      "table": [
+        { "pronoun": "Tu إيجابي", "conjugation": "Dimmelo!", "meaning": "قلْه لي!" },
+        { "pronoun": "Tu نفي", "conjugation": "Non darmelo!", "meaning": "لا تعطِه لي!" },
+        { "pronoun": "Lei مهذب", "conjugation": "Me lo dica, per favore.", "meaning": "قله لي من فضلك." }
+      ],
+      "examples": [
+        { "it": "Portamelo!", "ar": "أحضره لي!" },
+        { "it": "Non dirglielo!", "ar": "لا تقله له!" },
+        { "it": "Me lo spieghi, per favore.", "ar": "اشرحه لي من فضلك." }
+      ]
+    }
+  },
+  {
+    "id": "b1_causal_clauses",
+    "title": "الجمل السببية",
+    "subtitle": "perché / siccome / dato che",
+    "icon": "arrow-right",
+    "content": {
+      "explanation": "للتعبير عن السبب: perché (لأن) وهو الأكثر شيوعاً. siccome/dato che تُستخدم كثيراً في بداية الجملة وتعني (بما أن).",
+      "table": [
+        { "pronoun": "perché", "conjugation": "Non esco perché piove.", "meaning": "لا أخرج لأن تمطر." },
+        { "pronoun": "siccome", "conjugation": "Siccome piove, non esco.", "meaning": "بما أن تمطر، لا أخرج." },
+        { "pronoun": "dato che", "conjugation": "Dato che è tardi, vado.", "meaning": "بما أنه متأخر، سأذهب." }
+      ],
+      "examples": [
+        { "it": "Non ho studiato perché ero stanco.", "ar": "لم أدرس لأنني كنت متعباً." },
+        { "it": "Siccome non ho tempo, vado via.", "ar": "بما أن ليس لدي وقت، سأغادر." },
+        { "it": "Dato che sei qui, parliamo.", "ar": "بما أنك هنا، لنتحدث." }
+      ]
+    }
+  },
+  {
+    "id": "b1_purpose_clauses",
+    "title": "الجمل الغرضية",
+    "subtitle": "per / per + infinito / affinché (تعرّف)",
+    "icon": "bullseye",
+    "content": {
+      "explanation": "للتعبير عن الهدف: per + مصدر (Per imparare…). ومع جملة كاملة يمكن استخدام perché أو affinché (أكثر رسمية وغالباً مع congiuntivo).",
+      "table": [
+        { "pronoun": "per + infinito", "conjugation": "Studio per imparare.", "meaning": "أدرس لكي أتعلم." },
+        { "pronoun": "perché + جملة", "conjugation": "Lo faccio perché tu capisca.", "meaning": "أفعله لكي تفهم." },
+        { "pronoun": "affinché", "conjugation": "Affinché tu capisca…", "meaning": "لكي (رسمي)" }
+      ],
+      "examples": [
+        { "it": "Vado in Italia per studiare.", "ar": "أذهب إلى إيطاليا للدراسة." },
+        { "it": "Parlo piano perché tu capisca.", "ar": "أتكلم ببطء لكي تفهم." },
+        { "it": "Ti scrivo per chiederti una cosa.", "ar": "أكتب لك لأسألك شيئاً." }
+      ]
+    }
+  },
+  {
+    "id": "b1_simple_conditionals",
+    "title": "الجمل الشرطية البسيطة",
+    "subtitle": "se + presente + futuro/imperativo",
+    "icon": "code-branch",
+    "content": {
+      "explanation": "الشرط البسيط في B1: إذا + حاضر، النتيجة غالباً مستقبل أو أمر: Se hai tempo, vieni. يمكن أيضاً: Se piove, non usciamo.",
+      "table": [
+        { "pronoun": "حاضر + حاضر", "conjugation": "Se piove, non usciamo.", "meaning": "إذا أمطرت، لا نخرج." },
+        { "pronoun": "حاضر + مستقبل", "conjugation": "Se hai tempo, verrai.", "meaning": "إذا كان لديك وقت، ستأتي." },
+        { "pronoun": "حاضر + أمر", "conjugation": "Se puoi, chiamami.", "meaning": "إذا استطعت، اتصل بي." }
+      ],
+      "examples": [
+        { "it": "Se vuoi, ti aiuto.", "ar": "إذا أردت، أساعدك." },
+        { "it": "Se finisci presto, andiamo.", "ar": "إذا انتهيت مبكراً، نذهب." },
+        { "it": "Se sei libero, chiamami.", "ar": "إذا كنت فاضياً، اتصل بي." }
+      ]
+    }
+  },
+  {
+    "id": "b1_time_clauses_advanced",
+    "title": "الجمل الزمنية المتقدمة",
+    "subtitle": "mentre / appena / finché / dopo che",
+    "icon": "hourglass",
+    "content": {
+      "explanation": "روابط زمنية شائعة في B1: mentre (بينما)، appena (حالما)، finché (حتى أن/إلى أن)، dopo che (بعد أن).",
+      "table": [
+        { "pronoun": "mentre", "conjugation": "Mentre studiavo, lui lavorava.", "meaning": "بينما كنت أدرس، كان يعمل." },
+        { "pronoun": "appena", "conjugation": "Appena arrivo, ti chiamo.", "meaning": "حالما أصل، أتصل بك." },
+        { "pronoun": "finché", "conjugation": "Aspetto finché arrivi.", "meaning": "أنتظر حتى تصل." },
+        { "pronoun": "dopo che", "conjugation": "Dopo che abbiamo finito, usciamo.", "meaning": "بعد أن ننتهي، نخرج." }
+      ],
+      "examples": [
+        { "it": "Appena ho tempo, ti scrivo.", "ar": "حالما يتوفر لدي وقت، أكتب لك." },
+        { "it": "Resto qui finché torni.", "ar": "سأبقى هنا حتى تعود." },
+        { "it": "Dopo che ha chiamato, è uscito/a.", "ar": "بعد أن اتصل، خرج." }
+      ]
+    }
+  },
+  {
+    "id": "b1_relative_clauses",
+    "title": "الجمل الموصولة",
+    "subtitle": "che / cui",
+    "icon": "paperclip",
+    "content": {
+      "explanation": "الجمل الموصولة تربط اسم بجملة تعطي معلومات عنه. che تُستخدم كثيراً بمعنى (الذي/التي). cui تعني (الذي/التي) مع حرف جر: di cui, a cui, con cui…",
+      "table": [
+        { "pronoun": "che", "conjugation": "La persona che vedi…", "meaning": "الشخص الذي تراه…" },
+        { "pronoun": "di cui", "conjugation": "Il libro di cui parlo…", "meaning": "الكتاب الذي أتحدث عنه…" },
+        { "pronoun": "a cui", "conjugation": "L'amico a cui scrivo…", "meaning": "الصديق الذي أكتب له…" }
+      ],
+      "examples": [
+        { "it": "È il film che mi piace di più.", "ar": "إنه الفيلم الذي أحبه أكثر." },
+        { "it": "Questa è la ragazza di cui ti ho parlato.", "ar": "هذه هي الفتاة التي حدثتك عنها." },
+        { "it": "È la persona a cui ho scritto.", "ar": "إنه الشخص الذي كتبتُ له." }
+      ]
+    }
+  },
+  {
+    "id": "b1_connectors_advanced",
+    "title": "أدوات الربط المتقدمة",
+    "subtitle": "inoltre / però / comunque / invece / per esempio",
+    "icon": "link",
+    "content": {
+      "explanation": "روابط تساعد على تنظيم الكلام: inoltre (بالإضافة)، comunque (على أي حال)، invece (بالمقابل)، per esempio (مثلاً)، però (لكن).",
+      "table": [
+        { "pronoun": "inoltre", "conjugation": "Inoltre, è economico.", "meaning": "بالإضافة، هو رخيص." },
+        { "pronoun": "comunque", "conjugation": "Comunque, grazie.", "meaning": "على أي حال، شكراً." },
+        { "pronoun": "invece", "conjugation": "Io vado, invece lui resta.", "meaning": "أنا أذهب بينما هو يبقى." },
+        { "pronoun": "per esempio", "conjugation": "Per esempio, domani.", "meaning": "مثلاً، غداً." }
+      ],
+      "examples": [
+        { "it": "È caro, però è di qualità.", "ar": "هو غالٍ، لكنه ذو جودة." },
+        { "it": "Non ho tempo; comunque ci provo.", "ar": "ليس لدي وقت؛ على أي حال سأحاول." },
+        { "it": "A me piace il mare, invece lei preferisce la montagna.", "ar": "أنا أحب البحر، بينما هي تفضل الجبل." }
+      ]
+    }
+  },
+  {
+    "id": "b1_anche_se_nonostante",
+    "title": "رغم أن / بالرغم من",
+    "subtitle": "anche se / nonostante",
+    "icon": "minus",
+    "content": {
+      "explanation": "anche se تُتبع بجملة: Anche se piove, esco. nonostante تُتبع غالباً باسم أو مصدر: Nonostante la pioggia… / Nonostante essere stanco… (أحياناً).",
+      "table": [
+        { "pronoun": "anche se + جملة", "conjugation": "Anche se piove, esco.", "meaning": "حتى لو تمطر، أخرج." },
+        { "pronoun": "nonostante + اسم", "conjugation": "Nonostante la pioggia, esco.", "meaning": "بالرغم من المطر، أخرج." },
+        { "pronoun": "nonostante tutto", "conjugation": "Nonostante tutto, continuo.", "meaning": "رغم كل شيء، أستمر." }
+      ],
+      "examples": [
+        { "it": "Anche se è difficile, ci provo.", "ar": "حتى لو كان صعباً، سأحاول." },
+        { "it": "Nonostante il traffico, siamo arrivati in tempo.", "ar": "بالرغم من الزحام، وصلنا في الوقت." },
+        { "it": "Nonostante tutto, sono felice.", "ar": "رغم كل شيء، أنا سعيد." }
+      ]
+    }
+  },
+  {
+    "id": "b1_therefore",
+    "title": "لذلك / وبالتالي",
+    "subtitle": "quindi / perciò",
+    "icon": "arrow-circle-right",
+    "content": {
+      "explanation": "quindi و perciò تعنيان (لذلك/بالتالي). غالباً تأتيان بعد السبب أو في بداية جملة النتيجة.",
+      "table": [
+        { "pronoun": "quindi", "conjugation": "È tardi, quindi vado.", "meaning": "متأخر، لذلك سأذهب." },
+        { "pronoun": "perciò", "conjugation": "Non ho fame, perciò non mangio.", "meaning": "لست جائعاً، لذلك لا آكل." },
+        { "pronoun": "مع فاصلة", "conjugation": "..., quindi/perciò ...", "meaning": "ربط سبب بنتيجة" }
+      ],
+      "examples": [
+        { "it": "Piove, quindi restiamo a casa.", "ar": "تمطر، لذلك نبقى في البيت." },
+        { "it": "Non ho studiato, perciò ho sbagliato.", "ar": "لم أدرس، لذلك أخطأت." },
+        { "it": "È lontano, quindi prendiamo il treno.", "ar": "بعيد، لذلك نأخذ القطار." }
+      ]
+    }
+  },
+  {
+    "id": "b1_logical_linking",
+    "title": "الربط المنطقي للأفكار",
+    "subtitle": "prima… poi… / da una parte… dall'altra…",
+    "icon": "sitemap",
+    "content": {
+      "explanation": "لجعل كلامك منظم: استخدم تراكيب مثل (أولاً… ثم…) و(من جهة… من جهة أخرى…).",
+      "table": [
+        { "pronoun": "ترتيب", "conjugation": "prima... poi...", "meaning": "أولاً… ثم…" },
+        { "pronoun": "مقارنة أفكار", "conjugation": "da una parte... dall'altra...", "meaning": "من جهة… ومن جهة أخرى…" },
+        { "pronoun": "خلاصة", "conjugation": "in conclusione", "meaning": "في الختام" }
+      ],
+      "examples": [
+        { "it": "Prima studiamo, poi usciamo.", "ar": "أولاً ندرس ثم نخرج." },
+        { "it": "Da una parte è comodo, dall'altra è caro.", "ar": "من جهة هو مريح، ومن جهة أخرى هو غالٍ." },
+        { "it": "In conclusione, penso che sia meglio così.", "ar": "في الختام، أعتقد أنه أفضل هكذا." }
+      ]
+    }
+  },
+  {
+    "id": "b1_advanced_comparatives",
+    "title": "الصفات المقارنة المتقدمة",
+    "subtitle": "migliore/peggiore/minore/maggiore",
+    "icon": "balance-scale",
+    "content": {
+      "explanation": "هناك مقارنات غير منتظمة: buono→migliore، cattivo→peggiore، grande→maggiore، piccolo→minore (وأحياناً più grande/ più piccolo أيضاً صحيحة).",
+      "table": [
+        { "pronoun": "buono", "conjugation": "migliore", "meaning": "أفضل" },
+        { "pronoun": "cattivo", "conjugation": "peggiore", "meaning": "أسوأ" },
+        { "pronoun": "grande", "conjugation": "maggiore", "meaning": "أكبر/أعظم" },
+        { "pronoun": "piccolo", "conjugation": "minore", "meaning": "أصغر/أقل" }
+      ],
+      "examples": [
+        { "it": "Questo è migliore di quello.", "ar": "هذا أفضل من ذاك." },
+        { "it": "Oggi mi sento peggiore.", "ar": "اليوم أشعر بأسوأ." },
+        { "it": "Serve una maggiore attenzione.", "ar": "نحتاج انتباهاً أكبر." }
+      ]
+    }
+  },
+  {
+    "id": "b1_superlativo_advanced",
+    "title": "superlativo المتقدم",
+    "subtitle": "il massimo / il minimo / -issimo",
+    "icon": "trophy",
+    "content": {
+      "explanation": "إضافة إلى il più/il meno، توجد كلمات مثل massimo/minimo، وكذلك -issimo للتأكيد. بعض الصفات لها صيغة تفضيل شاذة: migliore, peggiore.",
+      "table": [
+        { "pronoun": "massimo/minimo", "conjugation": "il massimo / il minimo", "meaning": "الأقصى/الأدنى" },
+        { "pronoun": "-issimo", "conjugation": "comodissimo", "meaning": "مريح جداً جداً" },
+        { "pronoun": "شاذ", "conjugation": "il migliore / il peggiore", "meaning": "الأفضل/الأسوأ" }
+      ],
+      "examples": [
+        { "it": "È il massimo!", "ar": "إنه رائع جداً!" },
+        { "it": "È la peggiore idea.", "ar": "إنها أسوأ فكرة." },
+        { "it": "Questo posto è bellissimo.", "ar": "هذا المكان جميل جداً جداً." }
+      ]
+    }
+  },
+  {
+    "id": "b1_compound_adjectives",
+    "title": "الصفات المركبة",
+    "subtitle": "di moda / a basso costo / ben fatto",
+    "icon": "tags",
+    "content": {
+      "explanation": "الصفات المركبة هي تعابير تعمل كصفة: a basso costo (منخفض التكلفة)، di moda (رائج)، ben fatto (مصنوع جيداً). تساعدك في الوصف بشكل طبيعي.",
+      "table": [
+        { "pronoun": "a + اسم", "conjugation": "a basso costo", "meaning": "منخفض التكلفة" },
+        { "pronoun": "di + اسم", "conjugation": "di moda", "meaning": "على الموضة" },
+        { "pronoun": "ben + participio", "conjugation": "ben fatto", "meaning": "مصنوع جيداً" }
+      ],
+      "examples": [
+        { "it": "Cerco un hotel a basso costo.", "ar": "أبحث عن فندق منخفض التكلفة." },
+        { "it": "È un vestito di moda.", "ar": "إنه لباس رائج." },
+        { "it": "È un lavoro ben fatto.", "ar": "إنه عمل متقن." }
+      ]
+    }
+  },
+  {
+    "id": "b1_adverbs_mente",
+    "title": "الظروف المنتهية بـ -mente",
+    "subtitle": "rapidamente / facilmente / veramente",
+    "icon": "running",
+    "content": {
+      "explanation": "كثير من الظروف تُكوَّن بإضافة -mente إلى الصفة المؤنثة المفردة: lento→lentamente، facile→facilmente. تُستخدم لوصف كيف يحدث الفعل.",
+      "table": [
+        { "pronoun": "قاعدة", "conjugation": "aggettivo (fem.) + mente", "meaning": "تكوين الظرف" },
+        { "pronoun": "lento", "conjugation": "lentamente", "meaning": "ببطء" },
+        { "pronoun": "facile", "conjugation": "facilmente", "meaning": "بسهولة" },
+        { "pronoun": "vero", "conjugation": "veramente", "meaning": "حقاً" }
+      ],
+      "examples": [
+        { "it": "Parla lentamente.", "ar": "يتكلم ببطء." },
+        { "it": "Ho capito facilmente.", "ar": "فهمت بسهولة." },
+        { "it": "È veramente importante.", "ar": "إنه مهم حقاً." }
+      ]
+    }
+  },
+  {
+    "id": "b1_molto_poco_troppo_nuance",
+    "title": "molto / poco / troppo",
+    "subtitle": "استخدام دقيق",
+    "icon": "sliders-h",
+    "content": {
+      "explanation": "molto (كثير/جداً) محايد. poco (قليل) قد يعني (ليس كثيراً). troppo يعني (أكثر من اللازم) وغالباً يحمل معنى سلبي أو شكوى.",
+      "table": [
+        { "pronoun": "molto", "conjugation": "molto interessante", "meaning": "مثير جداً" },
+        { "pronoun": "poco", "conjugation": "poco tempo", "meaning": "وقت قليل" },
+        { "pronoun": "troppo", "conjugation": "troppo caro", "meaning": "غالي أكثر من اللازم" },
+        { "pronoun": "تركيب شائع", "conjugation": "non... molto", "meaning": "ليس كثيراً" }
+      ],
+      "examples": [
+        { "it": "Non è molto difficile.", "ar": "ليس صعباً جداً." },
+        { "it": "Ho poco tempo oggi.", "ar": "لدي وقت قليل اليوم." },
+        { "it": "Parli troppo veloce.", "ar": "تتكلم بسرعة أكثر من اللازم." }
+      ]
+    }
+  },
+  {
+    "id": "b1_stare_per",
+    "title": "stare per + infinito",
+    "subtitle": "على وشك",
+    "icon": "hourglass-start",
+    "content": {
+      "explanation": "stare per + infinito تعني (على وشك أن...). تُستخدم كثيراً في الكلام اليومي.",
+      "table": [
+        { "pronoun": "حاضر", "conjugation": "Sto per uscire.", "meaning": "أنا على وشك الخروج." },
+        { "pronoun": "ماضي", "conjugation": "Stavo per uscire.", "meaning": "كنت على وشك الخروج." },
+        { "pronoun": "مستقبل", "conjugation": "Starò per uscire.", "meaning": "سأكون على وشك الخروج." }
+      ],
+      "examples": [
+        { "it": "Sto per chiamarti.", "ar": "أنا على وشك الاتصال بك." },
+        { "it": "Stavamo per partire.", "ar": "كنا على وشك المغادرة." },
+        { "it": "Sto per finire.", "ar": "أنا على وشك الانتهاء." }
+      ]
+    }
+  },
+  {
+    "id": "b1_andare_a_infinito",
+    "title": "andare a + infinito",
+    "subtitle": "الذهاب لعمل شيء",
+    "icon": "route",
+    "content": {
+      "explanation": "andare a + infinito تعني (يذهب ليفعل شيئاً). تُستخدم كثيراً مع نشاطات يومية: andare a comprare…",
+      "table": [
+        { "pronoun": "حاضر", "conjugation": "Vado a comprare il pane.", "meaning": "سأذهب لأشتري الخبز." },
+        { "pronoun": "ماضي", "conjugation": "Sono andato/a a comprare…", "meaning": "ذهبتُ لأشتري…" },
+        { "pronoun": "سؤال", "conjugation": "Vai a lavorare?", "meaning": "هل تذهب للعمل؟" }
+      ],
+      "examples": [
+        { "it": "Vado a studiare.", "ar": "سأذهب لأدرس." },
+        { "it": "Siamo andati a mangiare fuori.", "ar": "ذهبنا لنأكل خارجاً." },
+        { "it": "Vai a prendere un caffè?", "ar": "هل تذهب لتأخذ قهوة؟" }
+      ]
+    }
+  },
+  {
+    "id": "b1_finire_smettere",
+    "title": "finire di / smettere di",
+    "subtitle": "ينهي / يتوقف عن",
+    "icon": "stop-circle",
+    "content": {
+      "explanation": "finire di + infinito = ينهي فعل. smettere di + infinito = يتوقف عن فعل (عادة عادة/سلوك).",
+      "table": [
+        { "pronoun": "finire di", "conjugation": "Finisco di lavorare.", "meaning": "أنهي العمل." },
+        { "pronoun": "smettere di", "conjugation": "Smetto di fumare.", "meaning": "أتوقف عن التدخين." },
+        { "pronoun": "في الماضي", "conjugation": "Ho finito di… / Ho smesso di…", "meaning": "أنهيت/توقفت" }
+      ],
+      "examples": [
+        { "it": "Ho finito di studiare.", "ar": "انتهيتُ من الدراسة." },
+        { "it": "Smetti di parlare!", "ar": "توقف عن الكلام!" },
+        { "it": "Ha smesso di fumare.", "ar": "توقف عن التدخين." }
+      ]
+    }
+  },
+  {
+    "id": "b1_fare_infinito",
+    "title": "fare + infinito",
+    "subtitle": "يجعل شخصاً يفعل شيئاً",
+    "icon": "handshake",
+    "content": {
+      "explanation": "fare + infinito تُستخدم للتسبب: جعل/دع شخصاً يفعل شيئاً. مثال: Mi fai aspettare (تجعلني أنتظر).",
+      "table": [
+        { "pronoun": "مع شخص", "conjugation": "fare + شخص + infinito", "meaning": "يجعل شخصاً يفعل" },
+        { "pronoun": "مثال", "conjugation": "Mi fai ridere.", "meaning": "تجعلني أضحك." },
+        { "pronoun": "في الماضي", "conjugation": "Mi hai fatto aspettare.", "meaning": "جعلتني أنتظر." }
+      ],
+      "examples": [
+        { "it": "Mi fai capire?", "ar": "هل تجعلني أفهم؟ (هل تشرح لي؟)" },
+        { "it": "Il film mi ha fatto piangere.", "ar": "الفيلم جعلني أبكي." },
+        { "it": "Ha fatto pulire la stanza.", "ar": "جعل (شخصاً) ينظف الغرفة." }
+      ]
+    }
+  },
+  {
+    "id": "b1_lasciare_infinito",
+    "title": "lasciare + infinito",
+    "subtitle": "يترك/يسمح",
+    "icon": "unlock",
+    "content": {
+      "explanation": "lasciare + infinito تعني (يترك/يسمح). مثال: Lasciami parlare (دعني أتكلم).",
+      "table": [
+        { "pronoun": "أمر", "conjugation": "Lasciami + infinito", "meaning": "دعني…" },
+        { "pronoun": "نفي", "conjugation": "Non lasciarmi + infinito", "meaning": "لا تتركني…" },
+        { "pronoun": "ماضي", "conjugation": "Mi ha lasciato entrare.", "meaning": "سمح لي بالدخول." }
+      ],
+      "examples": [
+        { "it": "Lasciami finire.", "ar": "دعني أنهي." },
+        { "it": "Non lasciarmi aspettare.", "ar": "لا تجعلني أنتظر." },
+        { "it": "Mi hanno lasciato passare.", "ar": "سمحوا لي بالمرور." }
+      ]
+    }
+  },
+  {
+    "id": "b1_discurso_indiretto",
+    "title": "الأسلوب غير المباشر",
+    "subtitle": "Discorso indiretto",
+    "icon": "quote-right",
+    "content": {
+      "explanation": "الأسلوب غير المباشر ينقل كلام شخص بدون اقتباس مباشر. غالباً نستخدم: ha detto che… / mi ha chiesto se… وتحدث تغييرات في الزمن (خصوصاً مع الماضي).",
+      "table": [
+        { "pronoun": "قال إن", "conjugation": "Ha detto che…", "meaning": "قال إن…" },
+        { "pronoun": "سأل إذا", "conjugation": "Mi ha chiesto se…", "meaning": "سألني هل…" },
+        { "pronoun": "طلب أن", "conjugation": "Mi ha detto di…", "meaning": "قال لي أن…" }
+      ],
+      "examples": [
+        { "it": "Ha detto che era stanco.", "ar": "قال إنه كان متعباً." },
+        { "it": "Mi ha chiesto se avevo tempo.", "ar": "سألني إن كان لدي وقت." },
+        { "it": "Mi ha detto di chiamarlo.", "ar": "قال لي أن أتصل به." }
+      ]
+    }
+  },
+  {
+    "id": "b1_opinion_argument",
+    "title": "التعبير عن الرأي والحجة",
+    "subtitle": "secondo me / penso che / infatti",
+    "icon": "comment-dots",
+    "content": {
+      "explanation": "للتعبير عن رأي مع سبب: secondo me… لأن… (perché). ويمكن دعم الرأي بكلمات مثل infatti (في الواقع) وinoltre (بالإضافة).",
+      "table": [
+        { "pronoun": "رأي", "conjugation": "Secondo me…", "meaning": "برأيي…" },
+        { "pronoun": "حجة/سبب", "conjugation": "perché…", "meaning": "لأن…" },
+        { "pronoun": "دعم", "conjugation": "infatti / inoltre", "meaning": "في الواقع / بالإضافة" }
+      ],
+      "examples": [
+        { "it": "Secondo me è meglio così, perché è più semplice.", "ar": "برأيي هذا أفضل لأنه أبسط." },
+        { "it": "Penso che sia utile; infatti lo uso ogni giorno.", "ar": "أعتقد أنه مفيد؛ في الواقع أستخدمه يومياً." },
+        { "it": "Inoltre, costa meno.", "ar": "بالإضافة، يكلف أقل." }
+      ]
+    }
+  },
+  {
+    "id": "b1_agree_disagree",
+    "title": "الموافقة والاعتراض",
+    "subtitle": "sono d'accordo / non sono d'accordo",
+    "icon": "comments",
+    "content": {
+      "explanation": "للموافقة: sono d'accordo. للاعتراض: non sono d'accordo. يمكن أيضاً: hai ragione / non è vero / dipende.",
+      "table": [
+        { "pronoun": "موافقة", "conjugation": "Sono d'accordo.", "meaning": "أنا موافق." },
+        { "pronoun": "اعتراض", "conjugation": "Non sono d'accordo.", "meaning": "أنا غير موافق." },
+        { "pronoun": "تلطيف", "conjugation": "Dipende.", "meaning": "يعتمد." }
+      ],
+      "examples": [
+        { "it": "Hai ragione.", "ar": "أنت على حق." },
+        { "it": "Non è vero.", "ar": "هذا غير صحيح." },
+        { "it": "Dipende dalla situazione.", "ar": "يعتمد على الوضع." }
+      ]
+    }
+  },
+  {
+    "id": "b1_probability",
+    "title": "التعبير عن الاحتمال",
+    "subtitle": "forse / probabilmente / può darsi",
+    "icon": "percentage",
+    "content": {
+      "explanation": "للاحتمال نستخدم: forse (ربما)، probabilmente (على الأرجح)، può darsi che… (قد يكون… وغالباً مع congiuntivo). ويمكن أيضاً استخدام المستقبل للتخمين: sarà…",
+      "table": [
+        { "pronoun": "forse", "conjugation": "Forse viene.", "meaning": "ربما يأتي." },
+        { "pronoun": "probabilmente", "conjugation": "Probabilmente è a casa.", "meaning": "غالباً هو في البيت." },
+        { "pronoun": "può darsi che", "conjugation": "Può darsi che sia vero.", "meaning": "قد يكون صحيحاً." }
+      ],
+      "examples": [
+        { "it": "Forse arrivo tardi.", "ar": "ربما أصل متأخراً." },
+        { "it": "Probabilmente ha dimenticato.", "ar": "غالباً نسي." },
+        { "it": "Può darsi che piova.", "ar": "قد تمطر." }
+      ]
+    }
+  },
+  {
+    "id": "b1_cause_effect",
+    "title": "التعبير عن السبب والنتيجه",
+    "subtitle": "perché / quindi / perciò",
+    "icon": "diagram-project",
+    "content": {
+      "explanation": "للسبب نستخدم perché/siccome/dato che. وللنتيجة نستخدم quindi/perciò/di conseguenza. هذا يساعد على شرح الأفكار بوضوح.",
+      "table": [
+        { "pronoun": "سبب", "conjugation": "perché / siccome / dato che", "meaning": "لأن / بما أن" },
+        { "pronoun": "نتيجة", "conjugation": "quindi / perciò", "meaning": "لذلك / وبالتالي" },
+        { "pronoun": "نتيجة (أقوى)", "conjugation": "di conseguenza", "meaning": "وبالتالي/نتيجة لذلك" }
+      ],
+      "examples": [
+        { "it": "Non ho studiato, quindi ho preso un brutto voto.", "ar": "لم أدرس، لذلك حصلت على علامة سيئة." },
+        { "it": "Siccome era tardi, siamo andati via.", "ar": "بما أنه كان متأخراً، ذهبنا." },
+        { "it": "Ha perso il treno; di conseguenza è arrivato tardi.", "ar": "فاته القطار؛ لذلك وصل متأخراً." }
+      ]
+    }
+  }
+]
