@@ -3,7 +3,7 @@
       "name": "تحيات ومجاملات إضافية",
       "icon": "handshake",
       "words": [
-        { "it": "ciao", "ar": "أهلاً بك / مرحباً", "phonetic": "/benveˈnuto/", "type": "تحية", "example": { "it": "ciao io sono ahmed.", "ar": "مرحبا اسمي احمد." } },
+        { "it": "ciao", "ar": "أهلاً بك / مرحباً", "phonetic": "/ciˈao/", "type": "تحية", "example": { "it": "ciao io sono ahmed.", "ar": "مرحبا اسمي احمد." } },
         { "it": "Benvenuto", "ar": "أهلاً بك / مرحباً", "phonetic": "/benveˈnuto/", "type": "تحية", "example": { "it": "Benvenuto a casa.", "ar": "مرحباً بك في المنزل." } },
         { "it": "Piacere", "ar": "تشرفنا / سررت بلقائك", "phonetic": "/pjaˈtʃere/", "type": "تعبير", "example": { "it": "Piacere di conoscerti.", "ar": "تشرفت بمعرفتك." } },
         { "it": "Buona giornata", "ar": "نهارك سعيد (عند الوداع نهاراً)", "phonetic": "/ˈbwɔna dʒorˈnata/", "type": "تحية", "example": { "it": "Ciao, buona giornata!", "ar": "وداعاً، نهارك سعيد!" } },
