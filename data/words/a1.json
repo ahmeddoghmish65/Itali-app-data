@@ -1829,5 +1829,225 @@
         { "it": "Presente", "ar": "حاضر", "phonetic": "/preˈzɛnte/", "type": "اسم", "example": { "it": "Il tempo presente.", "ar": "الزمن الحاضر." } },
         { "it": "Futuro", "ar": "مستقبل", "phonetic": "/fuˈturo/", "type": "اسم", "example": { "it": "Penso al futuro.", "ar": "أفكر في المستقبل." } }
       ]
+    },
+    "math_basics": {
+      "name": "حساب ورياضيات",
+      "icon": "calculator",
+      "words": [
+        { "it": "Matematica", "ar": "رياضيات", "phonetic": "/matemaˈtika/", "type": "اسم", "example": { "it": "Studio matematica.", "ar": "أدرس الرياضيات." } },
+        { "it": "Contare", "ar": "yāʿud / يعد (يحسب)", "phonetic": "/konˈtare/", "type": "فعل", "example": { "it": "Sai contare?", "ar": "هل تعرف العد؟" } },
+        { "it": "Totale", "ar": "مجموع / إجمالي", "phonetic": "/toˈtale/", "type": "اسم", "example": { "it": "Il totale è venti.", "ar": "المجموع عشرون." } },
+        { "it": "Metà", "ar": "نصف", "phonetic": "/meˈta/", "type": "اسم", "example": { "it": "Taglia a metà.", "ar": "اقطع للنصف." } }
+      ]
+    },
+    "stories_fantasy": {
+      "name": "قصص وحكايات",
+      "icon": "crown",
+      "words": [
+        { "it": "Re", "ar": "ملك", "phonetic": "/re/", "type": "اسم", "example": { "it": "Il re è ricco.", "ar": "الملك غني." } },
+        { "it": "Regina", "ar": "ملكة", "phonetic": "/reˈdʒina/", "type": "اسم", "example": { "it": "La regina d'Inghilterra.", "ar": "ملكة إنجلترا." } },
+        { "it": "Principe", "ar": "أمير", "phonetic": "/ˈprintʃipe/", "type": "اسم", "example": { "it": "Il piccolo principe.", "ar": "الأمير الصغير." } },
+        { "it": "Principessa", "ar": "أميرة", "phonetic": "/printʃiˈpessa/", "type": "اسم", "example": { "it": "Una bella principessa.", "ar": "أميرة جميلة." } },
+        { "it": "Storia", "ar": "قصة / تاريخ", "phonetic": "/ˈstɔrja/", "type": "اسم", "example": { "it": "Racconta una storia.", "ar": "احكِ قصة." } }
+      ]
+    },
+    "body_parts_3": {
+      "name": "أجزاء الجسم 3",
+      "icon": "user-injured",
+      "words": [
+        { "it": "Collo", "ar": "رقبة / عنق", "phonetic": "/ˈkɔllo/", "type": "اسم", "example": { "it": "Mi fa male il collo.", "ar": "رقبتي تؤلمني." } },
+        { "it": "Gola", "ar": "حلق / حنجرة", "phonetic": "/ˈgola/", "type": "اسم", "example": { "it": "Ho mal di gola.", "ar": "لدي ألم في الحلق." } },
+        { "it": "Spalla", "ar": "كتف", "phonetic": "/ˈspalla/", "type": "اسم", "example": { "it": "Ho male alla spalla.", "ar": "لدي ألم في الكتف." } },
+        { "it": "Ginocchio", "ar": "ركبة", "phonetic": "/dʒiˈnɔkkjo/", "type": "اسم", "example": { "it": "Il ginocchio destro.", "ar": "الركبة اليمنى." } },
+        { "it": "Orecchio", "ar": "أذن", "phonetic": "/oˈrekkjo/", "type": "اسم", "example": { "it": "Ho due orecchie.", "ar": "لدي أذنان." } }
+      ]
+    },
+    "underwear_sleepwear": {
+      "name": "ملابس نوم وداخلية",
+      "icon": "socks",
+      "words": [
+        { "it": "Pigiama", "ar": "بيجاما / ملابس نوم", "phonetic": "/piˈdʒama/", "type": "اسم", "example": { "it": "Metto il pigiama.", "ar": "أرتدي البيجاما." } },
+        { "it": "Calzini", "ar": "جوارب (شرابات)", "phonetic": "/kalˈtsini/", "type": "اسم", "example": { "it": "Calzini bianchi.", "ar": "جوارب بيضاء." } },
+        { "it": "Mutande", "ar": "ملابس داخلية", "phonetic": "/muˈtande/", "type": "اسم", "example": { "it": "Mutande pulite.", "ar": "ملابس داخلية نظيفة." } }
+      ]
+    },
+    "beach_sea": {
+      "name": "الشاطئ والبحر",
+      "icon": "umbrella-beach",
+      "words": [
+        { "it": "Onda", "ar": "موجة", "phonetic": "/ˈonda/", "type": "اسم", "example": { "it": "Un'onda alta.", "ar": "موجة عالية." } },
+        { "it": "Ombrellone", "ar": "مظلة شمسية (للشاطئ)", "phonetic": "/ombrelˈlone/", "type": "اسم", "example": { "it": "Sotto l'ombrellone.", "ar": "تحت المظلة." } },
+        { "it": "Costume", "ar": "زي سباحة (مايوه)", "phonetic": "/koˈstume/", "type": "اسم", "example": { "it": "Il mio costume da bagno.", "ar": "زي السباحة الخاص بي." } },
+        { "it": "Isola", "ar": "جزيرة", "phonetic": "/ˈizola/", "type": "اسم", "example": { "it": "Un'isola deserta.", "ar": "جزيرة مهجورة." } }
+      ]
+    },
+    "city_infrastructure": {
+      "name": "بنية المدينة",
+      "icon": "city",
+      "words": [
+        { "it": "Panchina", "ar": "مقعد عمومي (في الشارع)", "phonetic": "/paŋˈkina/", "type": "اسم", "example": { "it": "Siediti sulla panchina.", "ar": "اجلس على المقعد." } },
+        { "it": "Fontana", "ar": "نافورة", "phonetic": "/fonˈtana/", "type": "اسم", "example": { "it": "La Fontana di Trevi.", "ar": "نافورة تريفي." } },
+        { "it": "Statua", "ar": "تمثال", "phonetic": "/ˈstatwa/", "type": "اسم", "example": { "it": "Una statua antica.", "ar": "تمثال قديم." } },
+        { "it": "Muro", "ar": "سور / جدار", "phonetic": "/ˈmuro/", "type": "اسم", "example": { "it": "Un muro alto.", "ar": "سور عالٍ." } }
+      ]
+    },
+    "religion_places": {
+      "name": "أماكن عبادة",
+      "icon": "mosque",
+      "words": [
+        { "it": "Moschea", "ar": "مسجد", "phonetic": "/moˈskɛa/", "type": "اسم", "example": { "it": "Vado in moschea.", "ar": "أذهب للمسجد." } },
+        { "it": "Tempio", "ar": "معبد", "phonetic": "/ˈtɛmpjo/", "type": "اسم", "example": { "it": "Un tempio greco.", "ar": "معبد يوناني." } },
+        { "it": "Prete", "ar": "قسيس / كاهن", "phonetic": "/ˈprɛte/", "type": "اسم", "example": { "it": "Parlo con il prete.", "ar": "أتحدث مع القسيس." } }
+      ]
+    },
+    "nationalities_common": {
+      "name": "جنسيات شائعة",
+      "icon": "flag",
+      "words": [
+        { "it": "Inglese", "ar": "إنجليزي", "phonetic": "/inˈgleze/", "type": "صفة/اسم", "example": { "it": "Parlo inglese.", "ar": "أتحدث الإنجليزية." } },
+        { "it": "Francese", "ar": "فرنسي", "phonetic": "/franˈtʃeze/", "type": "صفة/اسم", "example": { "it": "Lui è francese.", "ar": "هو فرنسي." } },
+        { "it": "Spagnolo", "ar": "إسباني", "phonetic": "/spaˈɲɲɔlo/", "type": "صفة/اسم", "example": { "it": "Studio spagnolo.", "ar": "أدرس الإسبانية." } },
+        { "it": "Tedesco", "ar": "ألماني", "phonetic": "/teˈdesko/", "type": "صفة/اسم", "example": { "it": "Un'auto tedesca.", "ar": "سيارة ألمانية." } },
+        { "it": "Cinese", "ar": "صيني", "phonetic": "/tʃiˈneze/", "type": "صفة/اسم", "example": { "it": "Ristorante cinese.", "ar": "مطعم صيني." } },
+        { "it": "Americano", "ar": "أَمريكي", "phonetic": "/ameriˈkano/", "type": "صفة/اسم", "example": { "it": "Un film americano.", "ar": "فيلم أمريكي." } }
+      ]
+    },
+    "animals_exotic": {
+      "name": "حيوانات برية/بحرية",
+      "icon": "hippo",
+      "words": [
+        { "it": "Elefante", "ar": "فيل", "phonetic": "/eleˈfante/", "type": "اسم", "example": { "it": "Un elefante grande.", "ar": "فيل كبير." } },
+        { "it": "Tigre", "ar": "نمر", "phonetic": "/ˈtigre/", "type": "اسم", "example": { "it": "La tigre corre.", "ar": "النمر يركض." } },
+        { "it": "Serpente", "ar": "ثعبان", "phonetic": "/serˈpɛnte/", "type": "اسم", "example": { "it": "Un serpente lungo.", "ar": "ثعبان طويل." } },
+        { "it": "Scimmia", "ar": "قرد", "phonetic": "/ˈʃimmja/", "type": "اسم", "example": { "it": "La scimmia salta.", "ar": "القرد يقفز." } },
+        { "it": "Delfino", "ar": "دلفين", "phonetic": "/delˈfino/", "type": "اسم", "example": { "it": "Il delfino nuota.", "ar": "الدلفين يسبح." } }
+      ]
+    },
+    "furniture_storage": {
+      "name": "أثاث وتخزين",
+      "icon": "archive",
+      "words": [
+        { "it": "Armadio", "ar": "خزانة ملابس (دولاب)", "phonetic": "/arˈmadjo/", "type": "اسم", "example": { "it": "I vestiti sono nell'armadio.", "ar": "الملابس في الخزانة." } },
+        { "it": "Cassetto", "ar": "درج", "phonetic": "/kasˈsetto/", "type": "اسم", "example": { "it": "Apri il cassetto.", "ar": "افتح الدرج." } },
+        { "it": "Scaffale", "ar": "رف", "phonetic": "/skafˈfale/", "type": "اسم", "example": { "it": "Il libro è sullo scaffale.", "ar": "الكتاب على الرف." } },
+        { "it": "Lenzuolo", "ar": "ملاءة سرير (شرشف)", "phonetic": "/lenˈtswɔlo/", "type": "اسم", "example": { "it": "Lenzuolo bianco.", "ar": "ملاءة بيضاء." } }
+      ]
+    },
+    "places_travel_hubs": {
+      "name": "مراكز السفر",
+      "icon": "plane",
+      "words": [
+        { "it": "Aeroporto", "ar": "مطار", "phonetic": "/aeroˈpɔrto/", "type": "اسم", "example": { "it": "Vado all'aeroporto.", "ar": "أذهب للمطار." } },
+        { "it": "Porto", "ar": "ميناء", "phonetic": "/ˈpɔrto/", "type": "اسم", "example": { "it": "Le navi sono nel porto.", "ar": "السفن في الميناء." } },
+        { "it": "Biglietteria", "ar": "شباك التذاكر", "phonetic": "/biʎʎetteˈria/", "type": "اسم", "example": { "it": "Chiedi in biglietteria.", "ar": "اسأل في شباك التذاكر." } },
+        { "it": "Binario", "ar": "رصيف القطار (السكة)", "phonetic": "/biˈnarjo/", "type": "اسم", "example": { "it": "Il treno è al binario uno.", "ar": "القطار على الرصيف واحد." } }
+      ]
+    },
+    "condiments_food": {
+      "name": "صلصات وإضافات",
+      "icon": "wine-bottle",
+      "words": [
+        { "it": "Sugo", "ar": "صلصة (طماطم للباستا)", "phonetic": "/ˈsugo/", "type": "اسم", "example": { "it": "Pasta al sugo.", "ar": "معكرونة بالصلصة." } },
+        { "it": "Maionese", "ar": "مايونيز", "phonetic": "/majoˈneze/", "type": "اسم", "example": { "it": "Patatine con maionese.", "ar": "بطاطس مع مايونيز." } },
+        { "it": "Yogurt", "ar": "زبادي", "phonetic": "/ˈjɔgurt/", "type": "اسم", "example": { "it": "Yogurt alla frutta.", "ar": "زبادي بالفواكه." } },
+        { "it": "Zuppa", "ar": "حساء (شوربة)", "phonetic": "/ˈdzuppa/", "type": "اسم", "example": { "it": "Una zuppa calda.", "ar": "حساء ساخن." } }
+      ]
+    },
+    "conjunctions_logic_3": {
+      "name": "روابط منطقية",
+      "icon": "project-diagram",
+      "words": [
+        { "it": "Se", "ar": "إذا / لو", "phonetic": "/se/", "type": "رابط", "example": { "it": "Se vuoi, andiamo.", "ar": "إذا أردت، نذهب." } },
+        { "it": "Perché", "ar": "لماذا / لأن", "phonetic": "/perˈke/", "type": "رابط/أداة استفهام", "example": { "it": "Non esco perché piove.", "ar": "لن أخرج لأنها تمطر." } },
+        { "it": "Come", "ar": "مثل / كيف", "phonetic": "/ˈkome/", "type": "رابط/أداة استفهام", "example": { "it": "Rosso come il fuoco.", "ar": "أحمر مثل النار." } }
+      ]
+    },
+    "simple_actions_2": {
+      "name": "أفعال بسيطة 2",
+      "icon": "paint-brush",
+      "words": [
+        { "it": "Volare", "ar": "يطير", "phonetic": "/voˈlare/", "type": "فعل", "example": { "it": "L'uccello vuole volare.", "ar": "الطائر يريد أن يطير." } },
+        { "it": "Disegnare", "ar": "يرسم", "phonetic": "/diseˈɲɲare/", "type": "فعل", "example": { "it": "Il bambino disegna.", "ar": "الطفل يرسم." } },
+        { "it": "Imparare", "ar": "يتعلم", "phonetic": "/impaˈrare/", "type": "فعل", "example": { "it": "Imparo l'italiano.", "ar": "أتعلم الإيطالية." } },
+        { "it": "Insegnare", "ar": "يُعلم / يُدرس", "phonetic": "/inseˈɲɲare/", "type": "فعل", "example": { "it": "Lui insegna matematica.", "ar": "هو يدرس الرياضيات." } }
+      ]
+    },
+    "time_relative": {
+      "name": "الوقت النسبي",
+      "icon": "history",
+      "words": [
+        { "it": "L'altro ieri", "ar": "أول أمس", "phonetic": "/ˈlaltro ˈjɛri/", "type": "ظرف زمان", "example": { "it": "L'altro ieri ero a casa.", "ar": "أول أمس كنت في البيت." } },
+        { "it": "Dopodomani", "ar": "بعد غد", "phonetic": "/dopodoˈmani/", "type": "ظرف زمان", "example": { "it": "Parto dopodomani.", "ar": "سأغادر بعد غد." } },
+        { "it": "Stasera", "ar": "هذا المساء (الليلة)", "phonetic": "/staˈsera/", "type": "ظرف زمان", "example": { "it": "Cosa fai stasera?", "ar": "ماذا تفعل الليلة؟" } },
+        { "it": "Stamattina", "ar": "هذا الصباح", "phonetic": "/stamatˈtina/", "type": "ظرف زمان", "example": { "it": "Stamattina ho dormito.", "ar": "هذا الصباح نمت." } }
+      ]
+    },
+    "clothing_formal_winter": {
+      "name": "ملابس رسمية وشتوية",
+      "icon": "user-tie",
+      "words": [
+        { "it": "Camicia", "ar": "قميص (بأزرار)", "phonetic": "/kaˈmitʃa/", "type": "اسم", "example": { "it": "Una camicia bianca.", "ar": "قميص أبيض." } },
+        { "it": "Cravatta", "ar": "ربطة عنق", "phonetic": "/kraˈvatta/", "type": "اسم", "example": { "it": "Metto la cravatta.", "ar": "أضع ربطة العنق." } },
+        { "it": "Maglione", "ar": "سترة صوفية (بلوفر)", "phonetic": "/maʎˈʎone/", "type": "اسم", "example": { "it": "Fa freddo, metto il maglione.", "ar": "الجو بارد، أرتدي البلوفر." } },
+        { "it": "Giubbotto", "ar": "معطف قصير / سترة منتفخة", "phonetic": "/dʒubˈbɔtto/", "type": "اسم", "example": { "it": "Il mio giubbotto nuovo.", "ar": "سترتي الجديدة." } },
+        { "it": "Tuta", "ar": "بدلة رياضية", "phonetic": "/ˈtuta/", "type": "اسم", "example": { "it": "Tuta da ginnastica.", "ar": "بدلة رياضة." } }
+      ]
+    },
+    "city_infrastructure_2": {
+      "name": "بنية المدينة 2",
+      "icon": "road",
+      "words": [
+        { "it": "Marciapiede", "ar": "رصيف (للمشاة)", "phonetic": "/martʃaˈpjɛde/", "type": "اسم", "example": { "it": "Cammina sul marciapiede.", "ar": "امشِ على الرصيف." } },
+        { "it": "Incrocio", "ar": "تقاطع طرق", "phonetic": "/inˈkrotʃo/", "type": "اسم", "example": { "it": "Attento all'incrocio.", "ar": "انتبه عند التقاطع." } },
+        { "it": "Quartiere", "ar": "حي سكي", "phonetic": "/kwarˈtjɛre/", "type": "اسم", "example": { "it": "Vivo in questo quartiere.", "ar": "أعيش في هذا الحي." } },
+        { "it": "Palazzo", "ar": "مبنى / عمارة", "phonetic": "/paˈlattso/", "type": "اسم", "example": { "it": "Un palazzo alto.", "ar": "مبنى عالٍ." } }
+      ]
+    },
+    "abstract_opposites_2": {
+      "name": "متضادات مجردة",
+      "icon": "yin-yang",
+      "words": [
+        { "it": "Guerra", "ar": "حرب", "phonetic": "/ˈgwɛrra/", "type": "اسم", "example": { "it": "Odio la guerra.", "ar": "أكره الحرب." } },
+        { "it": "Bugia", "ar": "كذبة", "phonetic": "/buˈdʒia/", "type": "اسم", "example": { "it": "Non dire bugie.", "ar": "لا تقل أكاذيب." } },
+        { "it": "Verità", "ar": "حقيقة / صدق", "phonetic": "/veriˈta/", "type": "اسم", "example": { "it": "Dico la verità.", "ar": "أقول الحقيقة." } },
+        { "it": "Odio", "ar": "كره", "phonetic": "/ˈɔdjo/", "type": "اسم", "example": { "it": "Amore e odio.", "ar": "حب وكره." } }
+      ]
+    },
+    "fruits_summer": {
+      "name": "فواكه صيفية",
+      "icon": "lemon",
+      "words": [
+        { "it": "Melone", "ar": "شمام (بطيخ أصفر)", "phonetic": "/meˈlone/", "type": "اسم", "example": { "it": "Melone dolce.", "ar": "شمام حلو." } },
+        { "it": "Anguria", "ar": "بطيخ (أحمر)", "phonetic": "/anˈgurja/", "type": "اسم", "example": { "it": "Anguria fresca.", "ar": "بطيخ طازج." } },
+        { "it": "Mandarino", "ar": "يوسفي (مندرين)", "phonetic": "/mandaˈrino/", "type": "اسم", "example": { "it": "Mangio un mandarino.", "ar": "آكل يوسفي." } }
+      ]
+    },
+    "verbs_life_cycle": {
+      "name": "أفعال دورة الحياة",
+      "icon": "seedling",
+      "words": [
+        { "it": "Nascere", "ar": "يُولد", "phonetic": "/ˈnaʃʃere/", "type": "فعل", "example": { "it": "Quando sei nato?", "ar": "متى ولدت؟" } },
+        { "it": "Crescere", "ar": "ينمو / يكبر", "phonetic": "/ˈkreʃʃere/", "type": "فعل", "example": { "it": "I bambini crescono.", "ar": "الأطفال يكبرون." } },
+        { "it": "Invecchiare", "ar": "يعجز / يشيخ", "phonetic": "/invekˈkjare/", "type": "فعل", "example": { "it": "Tutti invecchiano.", "ar": "الجميع يشيخ." } }
+      ]
+    },
+    "media_reading": {
+      "name": "قراءة ووسائط",
+      "icon": "newspaper",
+      "words": [
+        { "it": "Rivista", "ar": "مجلة", "phonetic": "/riˈvista/", "type": "اسم", "example": { "it": "Leggo una rivista.", "ar": "أقرأ مجلة." } },
+        { "it": "Fumetto", "ar": "قصة مصورة (كوميكس)", "phonetic": "/fuˈmetto/", "type": "اسم", "example": { "it": "Un fumetto divertente.", "ar": "قصة مصورة مضحكة." } },
+        { "it": "Pagina", "ar": "صفحة", "phonetic": "/ˈpadʒina/", "type": "اسم", "example": { "it": "Gira la pagina.", "ar": "اقلب الصفحة." } }
+      ]
+    },
+    "adverbs_confirmation": {
+      "name": "ظروف التأكيد",
+      "icon": "check-double",
+      "words": [
+        { "it": "Certo", "ar": "بالتأكيد / طبعاً", "phonetic": "/ˈtʃɛrto/", "type": "ظرف", "example": { "it": "Sì, certo!", "ar": "نعم، بالتأكيد!" } },
+        { "it": "Davvero", "ar": "حقاً / فعلاً", "phonetic": "/davˈvero/", "type": "ظرف", "example": { "it": "Sei davvero bravo.", "ar": "أنت شاطر حقاً." } },
+        { "it": "Sicuramente", "ar": "بالتأكيد (بشكل مؤكد)", "phonetic": "/ikuraˈmente/", "type": "ظرف", "example": { "it": "Vengo sicuramente.", "ar": "سآتي بالتأكيد." } },
+        { "it": "Veramente", "ar": "حقاً / بصدق", "phonetic": "/veraˈmente/", "type": "ظرف", "example": { "it": "Mi piace veramente.", "ar": "يعجبني حقاً." } }
+      ]
     }
   }
