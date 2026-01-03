@@ -1673,7 +1673,7 @@
       { "it": "Narrativa", "ar": "سرد", "phonetic": "/narraˈtiva/", "type": "اسم", "example": { "it": "La narrativa contemporanea.", "ar": "السرد المعاصر." } },
       { "it": "Trama", "ar": "حبكة", "phonetic": "/ˈtrama/", "type": "اسم", "example": { "it": "La trama del romanzo.", "ar": "حبكة الرواية." } },
       { "it": "Intreccio", "ar": "تشابك الأحداث", "phonetic": "/inˈtrɛttʃo/", "type": "اسم", "example": { "it": "L'intreccio narrativo.", "ar": "تشابك الأحداث السردي." } },
-      { "it": "Personaggio", "ar": "شخصية", "phonetic": "/persoˈnaddʒo/", "type": "اسم", "example": { "it": "Il personaggio principale.", "ar": "الشخصية الرئيسية." } },
-     ]
-   }
- }
+      { "it": "Personaggio", "ar": "شخصية", "phonetic": "/persoˈnaddʒo/", "type": "اسم", "example": { "it": "Il personaggio principale.", "ar": "الشخصية الرئيسية." } }
+    ]
+  }
+}
