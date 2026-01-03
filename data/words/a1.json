@@ -1684,5 +1684,75 @@
         { "it": "Pianeta", "ar": "كوكب", "phonetic": "/pjaˈneta/", "type": "اسم", "example": { "it": "Il pianeta Terra.", "ar": "كوكب الأرض." } },
         { "it": "Spazio", "ar": "فضاء / مساحة", "phonetic": "/ˈspattsjo/", "type": "اسم", "example": { "it": "Nello spazio.", "ar": "في الفضاء." } }
       ]
+    },
+    "shopping_verbs_2": {
+      "name": "أفعال التسوق 2",
+      "icon": "shopping-bag",
+      "words": [
+        { "it": "Vendere", "ar": "ibīʿ / يبيع", "phonetic": "/ˈvendere/", "type": "فعل", "example": { "it": "Vende fiori.", "ar": "هو يبيع الزهور." } },
+        { "it": "Spendere", "ar": "yaṣrif / ينفق (مالاً)", "phonetic": "/ˈspɛndere/", "type": "فعل", "example": { "it": "Spendo troppo.", "ar": "أنا أنفق كثيراً." } },
+        { "it": "Costare", "ar": "yukallif / يكلف (سعر)", "phonetic": "/koˈstare/", "type": "فعل", "example": { "it": "Quanto costa?", "ar": "كم يكلف؟" } },
+        { "it": "Scegliere", "ar": "yaxtār / يختار", "phonetic": "/ˈʃeʎʎere/", "type": "فعل", "example": { "it": "Scegli un colore.", "ar": "اختر لوناً." } }
+      ]
+    },
+    "clothing_2": {
+      "name": "ملابس 2",
+      "icon": "tshirt",
+      "words": [
+        { "it": "Gonna", "ar": "تنورة (جيبة)", "phonetic": "/ˈgɔnna/", "type": "اسم", "example": { "it": "Una gonna lunga.", "ar": "تنورة طويلة." } },
+        { "it": "Cappotto", "ar": "معطف (بالطو)", "phonetic": "/kapˈpɔtto/", "type": "اسم", "example": { "it": "Metti il cappotto.", "ar": "ارتدِ المعطف." } },
+        { "it": "Tasca", "ar": "جيب", "phonetic": "/ˈtaska/", "type": "اسم", "example": { "it": "Metti in tasca.", "ar": "ضع في الجيب." } },
+        { "it": "Stivali", "ar": "حذاء طويل (بوت)", "phonetic": "/stiˈvali/", "type": "اسم", "example": { "it": "Stivali per la pioggia.", "ar": "حذاء للمطر." } },
+        { "it": "Bottone", "ar": "زر (ملابس)", "phonetic": "/botˈtone/", "type": "اسم", "example": { "it": "Ho perso un bottone.", "ar": "أضعت زراً." } }
+      ]
+    },
+    "sports_competition": {
+      "name": "منافسة ورياضة",
+      "icon": "trophy",
+      "words": [
+        { "it": "Squadra", "ar": "فريق", "phonetic": "/ˈskwadra/", "type": "اسم", "example": { "it": "La mia squadra.", "ar": "فريقي." } },
+        { "it": "Partita", "ar": "مباراة", "phonetic": "/parˈtita/", "type": "اسم", "example": { "it": "Guardo la partita.", "ar": "أشاهد المباراة." } },
+        { "it": "Vincere", "ar": "yaflūz / يفوز / يربح", "phonetic": "/ˈvintʃere/", "type": "فعل", "example": { "it": "Voglio vincere.", "ar": "أريد أن أفوز." } },
+        { "it": "Perdere", "ar": "yakhsar / يخسر", "phonetic": "/ˈpɛrdere/", "type": "فعل", "example": { "it": "Non mi piace perdere.", "ar": "لا أحب الخسارة." } }
+      ]
+    },
+    "life_concepts_2": {
+      "name": "مفاهيم الحياة",
+      "icon": "heart",
+      "words": [
+        { "it": "Vita", "ar": "حياة", "phonetic": "/ˈvita/", "type": "اسم", "example": { "it": "La vita è bella.", "ar": "الحياة جميلة." } },
+        { "it": "Morte", "ar": "موت", "phonetic": "/ˈmɔrte/", "type": "اسم", "example": { "it": "Vita e morte.", "ar": "حياة وموت." } },
+        { "it": "Amore", "ar": "حب", "phonetic": "/aˈmore/", "type": "اسم", "example": { "it": "Grande amore.", "ar": "حب كبير." } },
+        { "it": "Fortuna", "ar": "حظ", "phonetic": "/forˈtuna/", "type": "اسم", "example": { "it": "Buona fortuna!", "ar": "حظاً سعيداً!" } }
+      ]
+    },
+    "building_parts_2": {
+      "name": "أجزاء المبنى",
+      "icon": "home",
+      "words": [
+        { "it": "Tetto", "ar": "سطح / سقف خارجي", "phonetic": "/ˈtetto/", "type": "اسم", "example": { "it": "Il gatto è sul tetto.", "ar": "القط على السطح." } },
+        { "it": "Soffitto", "ar": "سقف (داخلي)", "phonetic": "/sofˈfitto/", "type": "اسم", "example": { "it": "Tocca il soffitto.", "ar": "المس السقف." } },
+        { "it": "Cantina", "ar": "قبو / مخزن", "phonetic": "/kanˈtina/", "type": "اسم", "example": { "it": "Il vino è in cantina.", "ar": "النبيذ في القبو." } },
+        { "it": "Garage", "ar": "مرآب (جراج)", "phonetic": "/gaˈraʒ/", "type": "اسم", "example": { "it": "La macchina è in garage.", "ar": "السيارة في المرآب." } }
+      ]
+    },
+    "simple_qualities": {
+      "name": "صفات بسيطة",
+      "icon": "star",
+      "words": [
+        { "it": "Semplice", "ar": "بسيط", "phonetic": "/ˈsɛmplitʃe/", "type": "صفة", "example": { "it": "È molto semplice.", "ar": "إنه بسيط جداً." } },
+        { "it": "Strano", "ar": "غريب", "phonetic": "/ˈstrano/", "type": "صفة", "example": { "it": "Che tipo strano.", "ar": "يا له من شخص غريب." } },
+        { "it": "Doppio", "ar": "مزدوج", "phonetic": "/ˈdoppjo/", "type": "صفة", "example": { "it": "Caffè doppio.", "ar": "قهوة مزدوجة." } },
+        { "it": "Intero", "ar": "كامل", "phonetic": "/inˈtero/", "type": "صفة", "example": { "it": "Un pollo intero.", "ar": "دجاجة كاملة." } }
+      ]
+    },
+    "drinks_2": {
+      "name": "مشروبات 2",
+      "icon": "glass-whiskey",
+      "words": [
+        { "it": "Bibita", "ar": "مشروب غازي / مرطبات", "phonetic": "/ˈbibita/", "type": "اسم", "example": { "it": "Vuoi una bibita?", "ar": "هل تريد مشروباً؟" } },
+        { "it": "Ghiaccio", "ar": "ثلج (للمشروب)", "phonetic": "/ˈgjattʃo/", "type": "اسم", "example": { "it": "Coca con ghiaccio.", "ar": "كولا مع ثلج." } },
+        { "it": "Aperitivo", "ar": "مشهيات (قبل الأكل)", "phonetic": "/aperiˈtivo/", "type": "اسم", "example": { "it": "Facciamo un aperitivo.", "ar": "لنأخذ فاتح شهية." } }
+      ]
     }
   }
