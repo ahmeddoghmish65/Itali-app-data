@@ -1754,5 +1754,80 @@
         { "it": "Ghiaccio", "ar": "ثلج (للمشروب)", "phonetic": "/ˈgjattʃo/", "type": "اسم", "example": { "it": "Coca con ghiaccio.", "ar": "كولا مع ثلج." } },
         { "it": "Aperitivo", "ar": "مشهيات (قبل الأكل)", "phonetic": "/aperiˈtivo/", "type": "اسم", "example": { "it": "Facciamo un aperitivo.", "ar": "لنأخذ فاتح شهية." } }
       ]
+    },
+    "big_numbers": {
+      "name": "أعداد كبيرة",
+      "icon": "infinity",
+      "words": [
+        { "it": "Zero", "ar": "صفر", "phonetic": "/ˈdzɛro/", "type": "رقم", "example": { "it": "Numero zero.", "ar": "رقم صفر." } },
+        { "it": "Mille", "ar": "ألف", "phonetic": "/ˈmille/", "type": "رقم", "example": { "it": "Mille grazie.", "ar": "ألف شكر." } },
+        { "it": "Duemila", "ar": "ألفين", "phonetic": "/dueˈmila/", "type": "رقم", "example": { "it": "Anno duemila.", "ar": "عام ألفين." } },
+        { "it": "Milione", "ar": "مليون", "phonetic": "/miˈljone/", "type": "رقم", "example": { "it": "Un milione di euro.", "ar": "مليون يورو." } }
+      ]
+    },
+    "fruits_2": {
+      "name": "فواكه 2",
+      "icon": "lemon",
+      "words": [
+        { "it": "Pera", "ar": "كمثرى", "phonetic": "/ˈpera/", "type": "اسم", "example": { "it": "Mangio una pera.", "ar": "آكل كمثرى." } },
+        { "it": "Pesca", "ar": "خوخ", "phonetic": "/ˈpɛska/", "type": "اسم", "example": { "it": "Una pesca dolce.", "ar": "خوخة حلوة." } },
+        { "it": "Fragola", "ar": "فراولة", "phonetic": "/ˈfragola/", "type": "اسم", "example": { "it": "Gelato alla fragola.", "ar": "آيس كريم فراولة." } },
+        { "it": "Ciliegia", "ar": "كرز", "phonetic": "/tʃiˈljɛdʒa/", "type": "اسم", "example": { "it": "Una ciliegia rossa.", "ar": "كرزة حمراء." } }
+      ]
+    },
+    "comparison_logic_2": {
+      "name": "مقارنة ومنطق",
+      "icon": "balance-scale-left",
+      "words": [
+        { "it": "Uguale", "ar": "مساوٍ / نفس الشيء", "phonetic": "/uˈgwale/", "type": "صفة", "example": { "it": "È uguale.", "ar": "إنه نفس الشيء (مساوٍ)." } },
+        { "it": "Diverso", "ar": "مختلف", "phonetic": "/diˈvɛrso/", "type": "صفة", "example": { "it": "Un colore diverso.", "ar": "لون مختلف." } },
+        { "it": "Simile", "ar": "مشابه", "phonetic": "/ˈsimile/", "type": "صفة", "example": { "it": "È molto simile.", "ar": "إنه مشابه جداً." } }
+      ]
+    },
+    "social_gestures": {
+      "name": "إيماءات اجتماعية",
+      "icon": "hand-holding-heart",
+      "words": [
+        { "it": "Bacio", "ar": "قبلة", "phonetic": "/ˈbatʃo/", "type": "اسم", "example": { "it": "Un bacio alla mamma.", "ar": "قبلة للأم." } },
+        { "it": "Abbraccio", "ar": "عناق (حضن)", "phonetic": "/abˈbrattʃo/", "type": "اسم", "example": { "it": "Un forte abbraccio.", "ar": "عناق قوي." } },
+        { "it": "Sorriso", "ar": "ابتسامة", "phonetic": "/sorˈrizo/", "type": "اسم", "example": { "it": "Hai un bel sorriso.", "ar": "لديك ابتسامة جميلة." } }
+      ]
+    },
+    "civic_law_basic": {
+      "name": "قانون ومجتمع",
+      "icon": "gavel",
+      "words": [
+        { "it": "Legge", "ar": "قانون", "phonetic": "/ˈleddʒe/", "type": "اسم", "example": { "it": "La legge è uguale per tutti.", "ar": "القانون سواسية للجميع." } },
+        { "it": "Regola", "ar": "قاعدة", "phonetic": "/ˈrɛgola/", "type": "اسم", "example": { "it": "Questa è la regola.", "ar": "هذه هي القاعدة." } },
+        { "it": "Ladro", "ar": "لص / حرامي", "phonetic": "/ˈladro/", "type": "اسم", "example": { "it": "Al ladro!", "ar": "أمسكوا الحرامي!" } },
+        { "it": "Polizia", "ar": "شرطة", "phonetic": "/poliˈtsia/", "type": "اسم", "example": { "it": "Chiamo la polizia.", "ar": "سأتصل بالشرطة." } }
+      ]
+    },
+    "professions_3": {
+      "name": "مهن ووظائف 3",
+      "icon": "hard-hat",
+      "words": [
+        { "it": "Operaio", "ar": "عامل", "phonetic": "/opeˈrajo/", "type": "اسم", "example": { "it": "Lavoro come operaio.", "ar": "أعمل كعامل." } },
+        { "it": "Contadino", "ar": "مزارع / فلاح", "phonetic": "/kontaˈdino/", "type": "اسم", "example": { "it": "Il contadino lavora.", "ar": "المزارع يعمل." } },
+        { "it": "Artista", "ar": "فنان", "phonetic": "/arˈtista/", "type": "اسم", "example": { "it": "Un grande artista.", "ar": "فنان عظيم." } }
+      ]
+    },
+    "weather_conditions_2": {
+      "name": "أحوال جوية 2",
+      "icon": "smog",
+      "words": [
+        { "it": "Nebbia", "ar": "ضباب", "phonetic": "/ˈnebbja/", "type": "اسم", "example": { "it": "C'è nebbia oggi.", "ar": "يوجد ضباب اليوم." } },
+        { "it": "Sereno", "ar": "صافٍ (للسماء)", "phonetic": "/seˈreno/", "type": "صفة", "example": { "it": "Il cielo è sereno.", "ar": "السماء صافية." } },
+        { "it": "Umido", "ar": "رطب", "phonetic": "/ˈumido/", "type": "صفة", "example": { "it": "Il clima è umido.", "ar": "الجو رطب." } }
+      ]
+    },
+    "time_concepts_2": {
+      "name": "مفاهيم الوقت",
+      "icon": "hourglass-start",
+      "words": [
+        { "it": "Passato", "ar": "ماضي", "phonetic": "/pasˈsato/", "type": "اسم", "example": { "it": "Nel passato.", "ar": "في الماضي." } },
+        { "it": "Presente", "ar": "حاضر", "phonetic": "/preˈzɛnte/", "type": "اسم", "example": { "it": "Il tempo presente.", "ar": "الزمن الحاضر." } },
+        { "it": "Futuro", "ar": "مستقبل", "phonetic": "/fuˈturo/", "type": "اسم", "example": { "it": "Penso al futuro.", "ar": "أفكر في المستقبل." } }
+      ]
     }
   }
