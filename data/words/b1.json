@@ -154,16 +154,4 @@
         { "it": "Passaporto", "ar": "جواز سفر", "phonetic": "/passaˈpɔrto/", "type": "اسم", "example": { "it": "Il passaporto.", "ar": "جواز السفر." } }
       ]
     }
-  },
-  "b1": {
-    "emotions": {
-      "name": "المشاعر",
-      "icon": "heart",
-      "words": [
-        { "it": "Felice", "ar": "سعيد", "phonetic": "/feˈlitʃe/", "type": "صفة", "example": { "it": "Sono felice.", "ar": "أنا سعيد." } },
-        { "it": "Triste", "ar": "حزين", "phonetic": "/ˈtriste/", "type": "صفة", "example": { "it": "Sono triste.", "ar": "أنا حزين." } },
-        { "it": "Arrabbiato", "ar": "غاضب", "phonetic": "/arrabˈbjato/", "type": "صفة", "example": { "it": "È arrabbiato.", "ar": "إنه غاضب." } },
-        { "it": "Stanco", "ar": "متعب", "phonetic": "/ˈstaŋko/", "type": "صفة", "example": { "it": "Sono stanco.", "ar": "أنا متعب." } }
-      ]
-    }
   }
