@@ -1651,29 +1651,5 @@
       { "it": "Diversificazione", "ar": "تنويع", "phonetic": "/diversifikaˈtsjone/", "type": "اسم", "example": { "it": "La diversificazione del portafoglio.", "ar": "تنويع المحفظة." } },
       { "it": "Concentrazione", "ar": "تركز", "phonetic": "/kontʃentraˈtsjone/", "type": "اسم", "example": { "it": "La concentrazione industriale.", "ar": "التركز الصناعي." } }
     ]
-  },
-  "literature_writing": {
-    "name": "الأدب والكتابة",
-    "icon": "book-open",
-    "words": [
-      { "it": "Prosa", "ar": "نثر", "phonetic": "/ˈprɔza/", "type": "اسم", "example": { "it": "La prosa letteraria.", "ar": "النثر الأدبي." } },
-      { "it": "Lirica", "ar": "شعر غنائي", "phonetic": "/ˈlirika/", "type": "اسم", "example": { "it": "La lirica.", "ar": "الشعر الغنائي." } },
-      { "it": "Epica", "ar": "شعر ملحمي", "phonetic": "/ˈɛpika/", "type": "اسم", "example": { "it": "L'epica omerica.", "ar": "الملحمة الهوميرية." } },
-      { "it": "Tragedia", "ar": "مأساة", "phonetic": "/traˈdʒɛdja/", "type": "اسم", "example": { "it": "La tragedia greca.", "ar": "المأساة الإغريقية." } },
-      { "it": "Commedia", "ar": "ملهاة", "phonetic": "/komˈmɛdja/", "type": "اسم", "example": { "it": "La commedia dell'arte.", "ar": "كوميديا الفن." } },
-      { "it": "Dramma", "ar": "دراما", "phonetic": "/ˈdramma/", "type": "اسم", "example": { "it": "Il dramma teatrale.", "ar": "الدراما المسرحية." } },
-      { "it": "Satira", "ar": "هجاء", "phonetic": "/ˈsatira/", "type": "اسم", "example": { "it": "La satira sociale.", "ar": "الهجاء الاجتماعي." } },
-      { "it": "Parodia", "ar": "محاكاة ساخرة", "phonetic": "/paroˈdia/", "type": "اسم", "example": { "it": "La parodia.", "ar": "المحاكاة الساخرة." } },
-      { "it": "Fiaba", "ar": "حكاية خرافية", "phonetic": "/ˈfjaba/", "type": "اسم", "example": { "it": "La fiaba.", "ar": "الحكاية الخرافية." } },
-      { "it": "Favola", "ar": "خرافة", "phonetic": "/ˈfavola/", "type": "اسم", "example": { "it": "La favola di Esopo.", "ar": "خرافة إيسوب." } },
-      { "it": "Leggenda", "ar": "أسطورة", "phonetic": "/ledˈdʒɛnda/", "type": "اسم", "example": { "it": "La leggenda.", "ar": "الأسطورة." } },
-      { "it": "Mito", "ar": "أسطورة/خرافة", "phonetic": "/ˈmito/", "type": "اسم", "example": { "it": "Il mito greco.", "ar": "الأسطورة الإغريقية." } },
-      { "it": "Saga", "ar": "ملحمة", "phonetic": "/ˈsaɡa/", "type": "اسم", "example": { "it": "La saga familiare.", "ar": "الملحمة العائلية." } },
-      { "it": "Racconto", "ar": "قصة", "phonetic": "/rakˈkonto/", "type": "اسم", "example": { "it": "Il racconto breve.", "ar": "القصة القصيرة." } },
-      { "it": "Narrativa", "ar": "سرد", "phonetic": "/narraˈtiva/", "type": "اسم", "example": { "it": "La narrativa contemporanea.", "ar": "السرد المعاصر." } },
-      { "it": "Trama", "ar": "حبكة", "phonetic": "/ˈtrama/", "type": "اسم", "example": { "it": "La trama del romanzo.", "ar": "حبكة الرواية." } },
-      { "it": "Intreccio", "ar": "تشابك الأحداث", "phonetic": "/inˈtrɛttʃo/", "type": "اسم", "example": { "it": "L'intreccio narrativo.", "ar": "تشابك الأحداث السردي." } },
-      { "it": "Personaggio", "ar": "شخصية", "phonetic": "/persoˈnaddʒo/", "type": "اسم", "example": { "it": "Il personaggio principale.", "ar": "الشخصية الرئيسية." } }
-    ]
   }
 }
