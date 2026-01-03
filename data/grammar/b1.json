@@ -1,570 +1,564 @@
 [
-    {
-        "id": "essere",
-        "title": "فعل Essere (يكون)",
-        "subtitle": "أهم فعل في الإيطالية",
-        "icon": "book",
-        "content": {
-            "explanation": "فعل Essere يعني 'يكون' وهو من أهم الأفعال في اللغة الإيطالية. يستخدم للتعبير عن الهوية والصفات والجنسية والمهنة.",
-            "table": [
-                { "pronoun": "Io", "conjugation": "sono", "meaning": "أنا أكون" },
-                { "pronoun": "Tu", "conjugation": "sei", "meaning": "أنت تكون" },
-                { "pronoun": "Lui/Lei", "conjugation": "è", "meaning": "هو/هي يكون" },
-                { "pronoun": "Noi", "conjugation": "siamo", "meaning": "نحن نكون" },
-                { "pronoun": "Voi", "conjugation": "siete", "meaning": "أنتم تكونون" },
-                { "pronoun": "Loro", "conjugation": "sono", "meaning": "هم يكونون" }
-            ],
-            "examples": [
-                { "it": "Io sono italiano.", "ar": "أنا إيطالي." },
-                { "it": "Tu sei molto gentile.", "ar": "أنت لطيف جداً." },
-                { "it": "Lei è una studentessa.", "ar": "هي طالبة." }
-            ]
-        }
-    },
-    {
-        "id": "avere",
-        "title": "فعل Avere (يملك)",
-        "subtitle": "فعل الملكية",
-        "icon": "hand-holding",
-        "content": {
-            "explanation": "فعل Avere يعني 'يملك' ويستخدم للتعبير عن الملكية والعمر والحالات الجسدية.",
-            "table": [
-                { "pronoun": "Io", "conjugation": "ho", "meaning": "أنا أملك" },
-                { "pronoun": "Tu", "conjugation": "hai", "meaning": "أنت تملك" },
-                { "pronoun": "Lui/Lei", "conjugation": "ha", "meaning": "هو/هي يملك" },
-                { "pronoun": "Noi", "conjugation": "abbiamo", "meaning": "نحن نملك" },
-                { "pronoun": "Voi", "conjugation": "avete", "meaning": "أنتم تملكون" },
-                { "pronoun": "Loro", "conjugation": "hanno", "meaning": "هم يملكون" }
-            ],
-            "examples": [
-                { "it": "Ho venti anni.", "ar": "عمري عشرون سنة." },
-                { "it": "Hai fame?", "ar": "هل أنت جائع؟" },
-                { "it": "Abbiamo una casa grande.", "ar": "لدينا بيت كبير." }
-            ]
-        }
-    },
-    {
-        "id": "articoli_determinativi",
-        "title": "أدوات التعريف (Articoli Determinativi)",
-        "subtitle": "الـ التعريف في الإيطالية",
-        "icon": "shapes",
-        "content": {
-            "explanation": "أدوات التعريف في الإيطالية تتغير حسب جنس الكلمة (مذكر/مؤنث) والعدد (مفرد/جمع) والحرف الذي تبدأ به الكلمة.",
-            "table": [
-                { "category": "مذكر مفرد (ساكن)", "article": "il", "example": "il ragazzo" },
-                { "category": "مذكر مفرد (s+ساكن/z)", "article": "lo", "example": "lo studente" },
-                { "category": "مذكر/مؤنث مفرد (متحرك)", "article": "l'", "example": "l'amico" },
-                { "category": "مؤنث مفرد (ساكن)", "article": "la", "example": "la casa" },
-                { "category": "مذكر جمع (الأغلبية)", "article": "i", "example": "i ragazzi" },
-                { "category": "مذكر جمع (s+ساكن/z/متحرك)", "article": "gli", "example": "gli studenti" },
-                { "category": "مؤنث جمع", "article": "le", "example": "le case" }
-            ],
-            "examples": [
-                { "it": "Il libro è sul tavolo.", "ar": "الكتاب على الطاولة." },
-                { "it": "Lo zio vive a Roma.", "ar": "العم يعيش في روما." },
-                { "it": "Le ragazze mangiano.", "ar": "الفتيات يأكلن." }
-            ]
-        }
-    },
-    {
-        "id": "articoli_indeterminativi",
-        "title": "أدوات النكرة (Articoli Indeterminativi)",
-        "subtitle": "للمفرد فقط",
-        "icon": "cube",
-        "content": {
-            "explanation": "تستخدم أدوات النكرة للإشارة إلى شيء غير محدد، وتستخدم فقط مع المفرد.",
-            "table": [
-                { "category": "مذكر (معظم الحالات)", "article": "un", "example": "un libro" },
-                { "category": "مذكر (يبدأ بـ s+ساكن أو z)", "article": "uno", "example": "uno zaino" },
-                { "category": "مؤنث (يبدأ بساكن)", "article": "una", "example": "una mela" },
-                { "category": "مؤنث (يبدأ بمتحرك)", "article": "un'", "example": "un'amica" }
-            ],
-            "examples": [
-                { "it": "Vorrei un caffè.", "ar": "أريد قهوة." },
-                { "it": "Ho una sorella.", "ar": "لدي أخت." },
-                { "it": "È uno studente bravo.", "ar": "إنه طالب جيد." }
-            ]
-        }
-    },
-    {
-        "id": "nomi_genere",
-        "title": "الأسماء (المذكر والمؤنث)",
-        "subtitle": "كيف نميز جنس الكلمة",
-        "icon": "venus-mars",
-        "content": {
-            "explanation": "تنتهي معظم الأسماء في الإيطالية بحروف تحدد جنسها (مذكر أو مؤنث) وعددها (مفرد أو جمع).",
-            "table": [
-                { "type": "مذكر مفرد", "ending": "-o", "example": "ragazzo (ولد)" },
-                { "type": "مؤنث مفرد", "ending": "-a", "example": "ragazza (بنت)" },
-                { "type": "مذكر جمع", "ending": "-i", "example": "ragazzi (أولاد)" },
-                { "type": "مؤنث جمع", "ending": "-e", "example": "ragazze (بنات)" },
-                { "type": "شاذ (مفرد)", "ending": "-e", "example": "fiore (مذكر) / chiave (مؤنث)" }
-            ],
-            "examples": [
-                { "it": "Il tavolo è nuovo.", "ar": "الطاولة (مذكر) جديدة." },
-                { "it": "La macchina è rossa.", "ar": "السيارة (مؤنث) حمراء." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_are",
-        "title": "المضارع: أفعال المجموعة الأولى (-are)",
-        "subtitle": "مثل Parlare (يتحدث)",
-        "icon": "comments",
-        "content": {
-            "explanation": "الأفعال المنتظمة التي تنتهي بـ -are يتم تصريفها بحذف النهاية وإضافة اللواحق التالية.",
-            "table": [
-                { "pronoun": "Io", "conjugation": "-o", "meaning": "parlo (أتحدث)" },
-                { "pronoun": "Tu", "conjugation": "-i", "meaning": "parli (تتحدث)" },
-                { "pronoun": "Lui/Lei", "conjugation": "-a", "meaning": "parla (يتحدث/تتحدث)" },
-                { "pronoun": "Noi", "conjugation": "-iamo", "meaning": "parliamo (نتحدث)" },
-                { "pronoun": "Voi", "conjugation": "-ate", "meaning": "parlate (تتحدثون)" },
-                { "pronoun": "Loro", "conjugation": "-ano", "meaning": "parlano (يتحدثون)" }
-            ],
-            "examples": [
-                { "it": "Io parlo arabo.", "ar": "أنا أتحدث العربية." },
-                { "it": "Noi mangiamo la pizza.", "ar": "نحن نأكل البيتزا." },
-                { "it": "Loro lavorano qui.", "ar": "هم يعملون هنا." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_ere",
-        "title": "المضارع: أفعال المجموعة الثانية (-ere)",
-        "subtitle": "مثل Leggere (يقرأ)",
-        "icon": "glasses",
-        "content": {
-            "explanation": "الأفعال المنتظمة التي تنتهي بـ -ere يتم تصريفها بحذف النهاية وإضافة اللواحق الخاصة بها.",
-            "table": [
-                { "pronoun": "Io", "conjugation": "-o", "meaning": "leggo (أقرأ)" },
-                { "pronoun": "Tu", "conjugation": "-i", "meaning": "leggi (تقرأ)" },
-                { "pronoun": "Lui/Lei", "conjugation": "-e", "meaning": "legge (يقرأ/تقرأ)" },
-                { "pronoun": "Noi", "conjugation": "-iamo", "meaning": "leggiamo (نقرأ)" },
-                { "pronoun": "Voi", "conjugation": "-ete", "meaning": "leggete (تقرأون)" },
-                { "pronoun": "Loro", "conjugation": "-ono", "meaning": "leggono (يقرأون)" }
-            ],
-            "examples": [
-                { "it": "Scrivo una lettera.", "ar": "أكتب رسالة." },
-                { "it": "Lui vede il mare.", "ar": "هو يرى البحر." },
-                { "it": "Voi prendete il treno.", "ar": "أنتم تأخذون القطار." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_ire",
-        "title": "المضارع: أفعال المجموعة الثالثة (-ire)",
-        "subtitle": "مثل Dormire (ينام) و Partire (يرحل)",
-        "icon": "bed",
-        "content": {
-            "explanation": "الأفعال المنتظمة التي تنتهي بـ -ire. (ملاحظة: بعض أفعال هذه المجموعة تأخذ مقطع -isc- مثل Capire، لكن هنا نوضح القاعدة البسيطة).",
-            "table": [
-                { "pronoun": "Io", "conjugation": "-o", "meaning": "dormo (أنام)" },
-                { "pronoun": "Tu", "conjugation": "-i", "meaning": "dormi (تنام)" },
-                { "pronoun": "Lui/Lei", "conjugation": "-e", "meaning": "dorme (ينام/تنام)" },
-                { "pronoun": "Noi", "conjugation": "-iamo", "meaning": "dormiamo (ننام)" },
-                { "pronoun": "Voi", "conjugation": "-ite", "meaning": "dormite (تنامون)" },
-                { "pronoun": "Loro", "conjugation": "-ono", "meaning": "dormono (ينامون)" }
-            ],
-            "examples": [
-                { "it": "Parto domani.", "ar": "سأرحل غداً." },
-                { "it": "Dormi bene?", "ar": "هل تنام جيداً؟" },
-                { "it": "Loro sentono la musica.", "ar": "هم يسمعون الموسيقى." }
-            ]
-        }
-    },
-    {
-        "id": "negazione",
-        "title": "النفي (La Negazione)",
-        "subtitle": "استخدام Non",
-        "icon": "ban",
-        "content": {
-            "explanation": "لجعل الجملة منفية في الإيطالية، نضع كلمة 'non' مباشرة قبل الفعل.",
-            "table": [
-                { "structure": "Non + Verb", "example_it": "Non mangio", "example_ar": "لا آكل" },
-                { "structure": "Subject + Non + Verb", "example_it": "Io non parlo inglese", "example_ar": "أنا لا أتحدث الإنجليزية" }
-            ],
-            "examples": [
-                { "it": "Non sono italiano.", "ar": "لست إيطالياً." },
-                { "it": "Non abbiamo tempo.", "ar": "ليس لدينا وقت." },
-                { "it": "Perché non mangi?", "ar": "لماذا لا تأكل؟" }
-            ]
-        }
-    },
-    {
-        "id": "ce_cisono",
-        "title": "يوجد (C'è / Ci sono)",
-        "subtitle": "للتعبير عن الوجود",
-        "icon": "map-marker-alt",
-        "content": {
-            "explanation": "نستخدم C'è للمفرد و Ci sono للجمع للتعبير عن وجود شيء ما في مكان ما.",
-            "table": [
-                { "form": "C'è", "usage": "مع المفرد", "meaning": "يوجد (شيء واحد)" },
-                { "form": "Ci sono", "usage": "مع الجمع", "meaning": "يوجد (أشياء)" }
-            ],
-            "examples": [
-                { "it": "C'è un gatto sul divano.", "ar": "يوجد قطة على الأريكة." },
-                { "it": "Ci sono due macchine qui.", "ar": "توجد سيارتان هنا." },
-                { "it": "A Roma ci sono molti musei.", "ar": "في روما يوجد متاحف كثيرة." }
-            ]
-        }
-    },
-    {
-        "id": "preposizioni_semplici",
-        "title": "حروف الجر البسيطة",
-        "subtitle": "Di, A, Da, In, Con, Su, Per, Tra/Fra",
-        "icon": "random",
-        "content": {
-            "explanation": "حروف الجر تربط الكلمات ببعضها. استخدامها يعتمد على السياق والفعل المستخدم.",
-            "table": [
-                { "preposition": "Di", "meaning": "مِـن / لـِ (ملكية/أصل)" },
-                { "preposition": "A", "meaning": "إلى / في (للمدن)" },
-                { "preposition": "Da", "meaning": "مِـن / عند" },
-                { "preposition": "In", "meaning": "في (للدول/الأماكن الكبيرة)" },
-                { "preposition": "Con", "meaning": "مع" },
-                { "preposition": "Su", "meaning": "على" },
-                { "preposition": "Per", "meaning": "لأجل / لـ" }
-            ],
-            "examples": [
-                { "it": "Vado a Roma.", "ar": "أذهب إلى روما." },
-                { "it": "Vivo in Italia.", "ar": "أعيش في إيطاليا." },
-                { "it": "Il libro di Marco.", "ar": "كتاب ماركو." },
-                { "it": "Vado con te.", "ar": "أذهب معك." }
-            ]
-        }
-    },
-    {
-        "id": "aggettivi_qualificativi",
-        "title": "الصفات وتطابقها",
-        "subtitle": "وصف الأشخاص والأشياء",
-        "icon": "palette",
-        "content": {
-            "explanation": "في الإيطالية، الصفة تتبع الموصوف في الجنس (مذكر/مؤنث) والعدد (مفرد/جمع).",
-            "table": [
-                { "type": "مذكر مفرد", "ending": "-o", "example": "ragazzo alto (ولد طويل)" },
-                { "type": "مؤنث مفرد", "ending": "-a", "example": "ragazza alta (بنت طويلة)" },
-                { "type": "مذكر جمع", "ending": "-i", "example": "ragazzi alti (أولاد طوال)" },
-                { "type": "مؤنث جمع", "ending": "-e", "example": "ragazze alte (بنات طويلات)" }
-            ],
-            "examples": [
-                { "it": "La casa è bella.", "ar": "المنزل جميل." },
-                { "it": "Il caffè è freddo.", "ar": "القهوة باردة." },
-                { "it": "Gli studenti sono intelligenti.", "ar": "الطلاب أذكياء." }
-            ]
-        }
-    },
-    {
-        "id": "possessivi",
-        "title": "ضمائر الملكية (Possessivi)",
-        "subtitle": "لي، لك، له...",
-        "icon": "key",
-        "content": {
-            "explanation": "صفات الملكية توضع قبل الاسم وتتطلب وجود أداة تعريف قبلها (il/la). الجنس والعدد يتبع الشيء المملوك وليس المالك.",
-            "table": [
-                { "owner": "Io (أنا)", "masculine": "il mio", "feminine": "la mia" },
-                { "owner": "Tu (أنت)", "masculine": "il tuo", "feminine": "la tua" },
-                { "owner": "Lui/Lei (هو/هي)", "masculine": "il suo", "feminine": "la sua" },
-                { "owner": "Noi (نحن)", "masculine": "il nostro", "feminine": "la nostra" },
-                { "owner": "Voi (أنتم)", "masculine": "il vostro", "feminine": "la vostra" },
-                { "owner": "Loro (هم)", "masculine": "il loro", "feminine": "la loro" }
-            ],
-            "examples": [
-                { "it": "Questo è il mio libro.", "ar": "هذا كتابi." },
-                { "it": "Dov'è la tua macchina?", "ar": "أين سيارتك؟" },
-                { "it": "Mangiamo la nostra pizza.", "ar": "نأكل بيتزتنا." }
-            ]
-        }
-    },
-    {
-        "id": "dimostrativi",
-        "title": "أسماء الإشارة (Questo / Quello)",
-        "subtitle": "هذا وذلك",
-        "icon": "fingerprint",
-        "content": {
-            "explanation": "نستخدم Questo للقريب (هذا) و Quello للبعيد (ذلك). تتغير نهايتها حسب الاسم الذي يليها.",
-            "table": [
-                { "type": "مفرد مذكر", "near": "questo", "far": "quello" },
-                { "type": "مفرد مؤنث", "near": "questa", "far": "quella" },
-                { "type": "جمع مذكر", "near": "questi", "far": "quelli" },
-                { "type": "جمع مؤنث", "near": "queste", "far": "quelle" }
-            ],
-            "examples": [
-                { "it": "Questo ragazzo è simpatico.", "ar": "هذا الولد لطيف." },
-                { "it": "Quella donna è mia madre.", "ar": "تلك المرأة هي أمي." },
-                { "it": "Mi piace questo libro.", "ar": "يعجبني هذا الكتاب." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_irregolari_imp",
-        "title": "أفعال شاذة هامة (Fare / Andare)",
-        "subtitle": "يفعل ويذهب",
-        "icon": "running",
-        "content": {
-            "explanation": "هناك أفعال كثيرة الاستخدام لا تتبع القواعد العادية، أهمها Fare (يفعل/يعمل) و Andare (يذهب).",
-            "table": [
-                { "pronoun": "Io", "fare": "faccio", "andare": "vado" },
-                { "pronoun": "Tu", "fare": "fai", "andare": "vai" },
-                { "pronoun": "Lui/Lei", "fare": "fa", "andare": "va" },
-                { "pronoun": "Noi", "fare": "facciamo", "andare": "andiamo" },
-                { "pronoun": "Voi", "fare": "fate", "andare": "andate" },
-                { "pronoun": "Loro", "fare": "fanno", "andare": "vanno" }
-            ],
-            "examples": [
-                { "it": "Cosa fai?", "ar": "ماذا تفعل؟" },
-                { "it": "Faccio colazione.", "ar": "أتناول (أعمل) الإفطار." },
-                { "it": "Vado al cinema.", "ar": "أنا ذاهب للسينما." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_riflessivi",
-        "title": "الأفعال الانعكاسية (Riflessivi)",
-        "subtitle": "مثل Chiamarsi (يسمى) و Svegliarsi (يستيقظ)",
-        "icon": "mirror",
-        "content": {
-            "explanation": "الأفعال التي يعود أثرها على الفاعل. تتطلب ضمائر انعكاسية (mi, ti, si, ci, vi, si).",
-            "table": [
-                { "pronoun": "Io", "reflexive": "mi", "verb_example": "mi chiamo (أسمي نفسي)" },
-                { "pronoun": "Tu", "reflexive": "ti", "verb_example": "ti chiami" },
-                { "pronoun": "Lui/Lei", "reflexive": "si", "verb_example": "si chiama" },
-                { "pronoun": "Noi", "reflexive": "ci", "verb_example": "ci chiamiamo" },
-                { "pronoun": "Voi", "reflexive": "vi", "verb_example": "vi chiamate" },
-                { "pronoun": "Loro", "reflexive": "si", "verb_example": "si chiamano" }
-            ],
-            "examples": [
-                { "it": "Mi sveglio alle otto.", "ar": "أستيقظ في الثامنة." },
-                { "it": "Come ti chiami?", "ar": "ما اسمك؟" },
-                { "it": "Luigi si lava.", "ar": "لويجي يغتسل." }
-            ]
-        }
-    },
-    {
-        "id": "interrogativi",
-        "title": "أدوات الاستفهام",
-        "subtitle": "كيف نسأل؟",
-        "icon": "question-circle",
-        "content": {
-            "explanation": "الكلمات المستخدمة لبدء السؤال في اللغة الإيطالية.",
-            "table": [
-                { "word": "Chi", "meaning": "مَن (للعاقل)", "example": "Chi sei?" },
-                { "word": "Che cosa / Cosa", "meaning": "ماذا (لغير العاقل)", "example": "Che cosa mangi?" },
-                { "word": "Dove", "meaning": "أين", "example": "Dove abiti?" },
-                { "word": "Quando", "meaning": "متى", "example": "Quando arrivi?" },
-                { "word": "Perché", "meaning": "لماذا", "example": "Perché ridi?" },
-                { "word": "Come", "meaning": "كيف", "example": "Come stai?" },
-                { "word": "Quanto", "meaning": "كم", "example": "Quanto costa?" }
-            ],
-            "examples": [
-                { "it": "Di dove sei?", "ar": "من أين أنت؟" },
-                { "it": "Perché non studi?", "ar": "لماذا لا تذاكر؟" },
-                { "it": "Che lavoro fai?", "ar": "ماذا تعمل؟" }
-            ]
-        }
-    },
-    {
-        "id": "quantita",
-        "title": "الكميات (Molto / Poco)",
-        "subtitle": "كثير وقليل",
-        "icon": "balance-scale",
-        "content": {
-            "explanation": "تستخدم Molto (كثير) و Poco (قليل) كظرف (لا تتغير) أو كصفة (تتغير حسب الاسم).",
-            "table": [
-                { "case": "مع الأفعال (لا تتغير)", "usage": "Mangio molto", "meaning": "آكل كثيراً" },
-                { "case": "مع الصفات (لا تتغير)", "usage": "Molto bello", "meaning": "جميل جداً" },
-                { "case": "مع الأسماء (تتغير)", "usage": "Molti amici", "meaning": "أصدقاء كثر (مذكر جمع)" },
-                { "case": "مع الأسماء (تتغير)", "usage": "Poche persone", "meaning": "أشخاص قليلون (مؤنث جمع)" }
-            ],
-            "examples": [
-                { "it": "Lavoro molto.", "ar": "أعمل كثيراً." },
-                { "it": "Ho molta fame.", "ar": "أنا جائع جداً (لدي جوع كثير)." },
-                { "it": "C'è poco tempo.", "ar": "يوجد وقت قليل." }
-            ]
-        }
-    },
-    {
-        "id": "verbi_modali",
-        "title": "الأفعال الناقصة (Modali)",
-        "subtitle": "Volere, Potere, Dovere",
-        "icon": "traffic-light",
-        "content": {
-            "explanation": "أفعال مهمة جداً تأتي عادة قبل فعل آخر بالمصدر لتوضيح المعنى (يريد، يستطيع، يجب).",
-            "table": [
-                { "pronoun": "Io", "volere": "voglio (أريد)", "potere": "posso (أستطيع)", "dovere": "devo (يجب علي)" },
-                { "pronoun": "Tu", "volere": "vuoi", "potere": "puoi", "dovere": "devi" },
-                { "pronoun": "Lui/Lei", "volere": "vuole", "potere": "può", "dovere": "deve" },
-                { "pronoun": "Noi", "volere": "vogliamo", "potere": "possiamo", "dovere": "dobbiamo" },
-                { "pronoun": "Voi", "volere": "volete", "potere": "potete", "dovere": "dovete" },
-                { "pronoun": "Loro", "volere": "vogliono", "potere": "possono", "dovere": "devono" }
-            ],
-            "examples": [
-                { "it": "Voglio mangiare una pizza.", "ar": "أريد أن آكل بيتزا." },
-                { "it": "Posso entrare?", "ar": "هل أستطيع الدخول؟" },
-                { "it": "Devo studiare oggi.", "ar": "يجب أن أذاكر اليوم." }
-            ]
-        }
-    },
-    {
-        "id": "preposizioni_articolate",
-        "title": "حروف الجر المركبة",
-        "subtitle": "دمج حرف الجر مع أداة التعريف",
-        "icon": "project-diagram",
-        "content": {
-            "explanation": "عندما يلتقي حرف جر (a, da, di, in, su) مع أداة تعريف (il, lo, la...) يتم دمجهم في كلمة واحدة.",
-            "table": [
-                { "preposition": "A + il", "result": "al", "example": "Vado al (a+il) bar (أذهب إلى البار)" },
-                { "preposition": "Di + il", "result": "del", "example": "Il libro del (di+il) ragazzo (كتاب الولد)" },
-                { "preposition": "In + il", "result": "nel", "example": "Vivo nel (in+il) centro (أعيش في المركز)" },
-                { "preposition": "Da + l'", "result": "dall'", "example": "Vengo dall' (da+l') Italia (قادم من إيطاليا)" },
-                { "preposition": "Su + il", "result": "sul", "example": "Il gatto è sul (su+il) tavolo (القط على الطاولة)" }
-            ],
-            "examples": [
-                { "it": "Andiamo al cinema.", "ar": "لنذهب إلى السينما." },
-                { "it": "Le chiavi sono nella borsa.", "ar": "المفاتيح في الحقيبة." }
-            ]
-        }
-    },
-    {
-        "id": "imperativo_diretto",
-        "title": "صيغة الأمر (Imperativo)",
-        "subtitle": "لإعطاء التعليمات والنصائح",
-        "icon": "exclamation",
-        "content": {
-            "explanation": "في المستوى A1 نركز على الأمر المباشر مع الضمير Tu (أنت) و Voi (أنتم).",
-            "table": [
-                { "verb_type": "-are (Parlare)", "tu_form": "Parla! (تحدث)", "voi_form": "Parlate! (تحدثوا)" },
-                { "verb_type": "-ere (Leggere)", "tu_form": "Leggi! (اقرأ)", "voi_form": "Leggete! (اقرأوا)" },
-                { "verb_type": "-ire (Dormire)", "tu_form": "Dormi! (نم)", "voi_form": "Dormite! (ناموا)" }
-            ],
-            "examples": [
-                { "it": "Mangia la frutta!", "ar": "كُل الفاكهة!" },
-                { "it": "Ascolta bene!", "ar": "استمع جيداً!" },
-                { "it": "Andiamo!", "ar": "لنذهب! (أيضاً صيغة حث)" }
-            ]
-        }
-    },
-    {
-        "id": "struttura_frase",
-        "title": "تركيب الجملة البسيطة",
-        "subtitle": "ترتيب الكلمات",
-        "icon": "layer-group",
-        "content": {
-            "explanation": "الترتيب الأساسي للجملة الإيطالية هو: فاعل + فعل + مفعول به. الصفات عادة تأتي بعد الاسم.",
-            "table": [
-                { "component": "Soggetto (الفاعل)", "example": "Marco" },
-                { "component": "Verbo (الفعل)", "example": "mangia" },
-                { "component": "Oggetto (المفعول)", "example": "una mela" },
-                { "component": "Aggettivo (الصفة)", "example": "rossa" }
-            ],
-            "examples": [
-                { "it": "Marco mangia una mela rossa.", "ar": "ماركو يأكل تفاحة حمراء." },
-                { "it": "Io abito a Roma.", "ar": "أنا أسكن في روما." }
-            ]
-        }
-    },
-    {
-        "id": "numeri_cardinali",
-        "title": "الأرقام الأساسية (Numeri)",
-        "subtitle": "من 0 إلى 20",
-        "icon": "sort-numeric-down",
-        "content": {
-            "explanation": "الأرقام ضرورية لمعرفة العمر، السعر، والوقت.",
-            "table": [
-                { "range": "0 - 5", "numbers": "zero, uno, due, tre, quattro, cinque" },
-                { "range": "6 - 10", "numbers": "sei, sette, otto, nove, dieci" },
-                { "range": "11 - 15", "numbers": "undici, dodici, tredici, quattordici, quindici" },
-                { "range": "16 - 20", "numbers": "sedici, diciassette, diciotto, diciannove, venti" }
-            ],
-            "examples": [
-                { "it": "Ho due fratelli.", "ar": "لدي أخوين." },
-                { "it": "Il caffè costa un euro.", "ar": "القهوة تكلف يورو واحد." }
-            ]
-        }
-    },
-    {
-        "id": "alfabeto_pronuncia",
-        "title": "قواعد النطق (C & G)",
-        "subtitle": "النطق القاسي واللين",
-        "icon": "bullhorn",
-        "content": {
-            "explanation": "في الإيطالية، حرفا C و G يتغير نطقهما حسب الحرف الذي يأتي بعدهما (إما كاف/جيم مصرية أو تشي/جيم معطشة).",
-            "table": [
-                { "rule": "C + a, o, u", "sound": "كـ (Ka, Ko, Ku)", "example": "Casa (منزل)" },
-                { "rule": "C + e, i", "sound": "تشـ (Ce, Ci)", "example": "Cinema (سينما)" },
-                { "rule": "Ch + e, i", "sound": "كـ (Ke, Ki)", "example": "Chiave (مفتاح)" },
-                { "rule": "G + a, o, u", "sound": "جـ (Ga, Go, Gu)", "example": "Gatto (قط)" },
-                { "rule": "G + e, i", "sound": "جـ (Ge, Gi)", "example": "Gelato (آيس كريم)" },
-                { "rule": "Gh + e, i", "sound": "جـ (Ghe, Ghi)", "example": "Spaghetti (سباغيتي)" }
-            ],
-            "examples": [
-                { "it": "Mi piace il calcio.", "ar": "أحب كرة القدم (C + i = تش)." },
-                { "it": "Chi è questo?", "ar": "من هذا؟ (Ch + i = ك)." }
-            ]
-        }
-    },
-    {
-        "id": "saluti_formalita",
-        "title": "التحيات والرسميات",
-        "subtitle": "Tu (غير رسمي) vs Lei (رسمي)",
-        "icon": "handshake",
-        "content": {
-            "explanation": "اللغة الإيطالية تفرق بوضوح بين الحديث مع الأصدقاء (Informale) والحديث مع الغرباء أو كبار السن (Formale).",
-            "table": [
-                { "situation": "لقاء (غير رسمي)", "expression": "Ciao", "meaning": "أهلاً" },
-                { "situation": "لقاء (رسمي - صباحاً)", "expression": "Buongiorno", "meaning": "صباح الخير" },
-                { "situation": "لقاء (رسمي - مساءً)", "expression": "Buonasera", "meaning": "مساء الخير" },
-                { "situation": "وداع (غير رسمي)", "expression": "Ciao / Ci vediamo", "meaning": "سلام / نلتقي لاحقاً" },
-                { "situation": "وداع (رسمي)", "expression": "Arrivederci", "meaning": "إلى اللقاء" },
-                { "situation": "قبل النوم", "expression": "Buonanotte", "meaning": "تصبح على خير" }
-            ],
-            "examples": [
-                { "it": "Ciao Marco, come stai?", "ar": "أهلاً ماركو، كيف حالك؟ (غير رسمي)" },
-                { "it": "Buongiorno Signor Rossi, come sta?", "ar": "صباح الخير سيد روسي، كيف حال حضرتك؟ (رسمي)" }
-            ]
-        }
-    },
-    {
-        "id": "giorni_settimana",
-        "title": "أيام الأسبوع (I giorni)",
-        "subtitle": "الاستخدام وحروف الجر",
-        "icon": "calendar-alt",
-        "content": {
-            "explanation": "أيام الأسبوع في الإيطالية لا تكتب بحرف كبير (إلا في أول الجملة). تختلف المعنى عند استخدام أداة التعريف.",
-            "table": [
-                { "day": "Lunedì", "meaning": "الاثنين" },
-                { "day": "Martedì", "meaning": "الثلاثاء" },
-                { "day": "Mercoledì", "meaning": "الأربعاء" },
-                { "day": "Giovedì", "meaning": "الخميس" },
-                { "day": "Venerdì", "meaning": "الجمعة" },
-                { "day": "Sabato", "meaning": "السبت" },
-                { "day": "Domenica", "meaning": "الأحد" }
-            ],
-            "examples": [
-                { "it": "Domenica vado al mare.", "ar": "الأحد (القادم) سأذهب للبحر." },
-                { "it": "Il sabato non lavoro.", "ar": "أيام السبت (كعادة) لا أعمل." },
-                { "it": "Oggi è lunedì.", "ar": "اليوم هو الاثنين." }
-            ]
-        }
-    },
-    {
-        "id": "l_ora",
-        "title": "الوقت (L'ora)",
-        "subtitle": "السؤال عن الساعة",
-        "icon": "clock",
-        "content": {
-            "explanation": "للسؤال عن الوقت نستخدم (Che ore sono?). للإجابة نستخدم الجمع (Sono le...) ما عدا الواحدة والظهر ومنتصف الليل.",
-            "table": [
-                { "time": "1:00", "phrase": "È l'una", "note": "مفرد" },
-                { "time": "2:00", "phrase": "Sono le due", "note": "جمع" },
-                { "time": "3:15", "phrase": "Sono le tre e un quarto", "note": "وربع" },
-                { "time": "4:30", "phrase": "Sono le quattro e mezzo", "note": "ونصف" },
-                { "time": "12:00", "phrase": "È mezzogiorno", "note": "الظهر" },
-                { "time": "00:00", "phrase": "È mezzanotte", "note": "منتصف الليل" }
-            ],
-            "examples": [
-                { "it": "Che ore sono?", "ar": "كم الساعة؟" },
-                { "it": "A che ora parte il treno?", "ar": "في أي ساعة يغادر القطار؟" },
-                { "it": "Alle otto.", "ar": "في الثامنة." }
-            ]
-        }
+  {
+    "id": "essere",
+    "title": "فعل Essere (يكون)",
+    "subtitle": "أهم فعل في الإيطالية",
+    "icon": "book",
+    "content": {
+      "explanation": "فعل Essere يعني 'يكون' وهو من أهم الأفعال في اللغة الإيطالية. يستخدم للتعبير عن الهوية والصفات والجنسية والمهنة.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "sono", "meaning": "أنا أكون" },
+        { "pronoun": "Tu", "conjugation": "sei", "meaning": "أنت تكون" },
+        { "pronoun": "Lui/Lei", "conjugation": "è", "meaning": "هو/هي يكون" },
+        { "pronoun": "Noi", "conjugation": "siamo", "meaning": "نحن نكون" },
+        { "pronoun": "Voi", "conjugation": "siete", "meaning": "أنتم تكونون" },
+        { "pronoun": "Loro", "conjugation": "sono", "meaning": "هم يكونون" }
+      ],
+      "examples": [
+        { "it": "Io sono italiano.", "ar": "أنا إيطالي." },
+        { "it": "Tu sei molto gentile.", "ar": "أنت لطيف جداً." },
+        { "it": "Lei è una studentessa.", "ar": "هي طالبة." }
+      ]
     }
+  },
+  {
+    "id": "avere",
+    "title": "فعل Avere (يملك)",
+    "subtitle": "فعل الملكية",
+    "icon": "hand-holding",
+    "content": {
+      "explanation": "فعل Avere يعني 'يملك' ويستخدم للتعبير عن الملكية والعمر والحالات الجسدية.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "ho", "meaning": "أنا أملك" },
+        { "pronoun": "Tu", "conjugation": "hai", "meaning": "أنت تملك" },
+        { "pronoun": "Lui/Lei", "conjugation": "ha", "meaning": "هو/هي يملك" },
+        { "pronoun": "Noi", "conjugation": "abbiamo", "meaning": "نحن نملك" },
+        { "pronoun": "Voi", "conjugation": "avete", "meaning": "أنتم تملكون" },
+        { "pronoun": "Loro", "conjugation": "hanno", "meaning": "هم يملكون" }
+      ],
+      "examples": [
+        { "it": "Ho venti anni.", "ar": "عمري عشرون سنة." },
+        { "it": "Hai fame?", "ar": "هل أنت جائع؟" },
+        { "it": "Abbiamo una casa grande.", "ar": "لدينا بيت كبير." }
+      ]
+    }
+  },
+  {
+    "id": "alphabet_pronunciation",
+    "title": "الأبجدية والنطق",
+    "subtitle": "أساسيات القراءة الصحيحة",
+    "icon": "volume-up",
+    "content": {
+      "explanation": "الإيطالية تُنطق غالباً كما تُكتب. أهم شيء في مستوى A1 هو معرفة أصوات الحروف والمجموعات الشائعة لتقرأ كلمات بسيطة بثقة.",
+      "table": [
+        { "pronoun": "C + a/o/u", "conjugation": "ca/co/cu", "meaning": "تُنطق ك (k): casa, cosa, cura" },
+        { "pronoun": "C + e/i", "conjugation": "ce/ci", "meaning": "تُنطق تش (tʃ): cena, cinema" },
+        { "pronoun": "CH + e/i", "conjugation": "che/chi", "meaning": "تُنطق ك (k): che, chi" },
+        { "pronoun": "G + a/o/u", "conjugation": "ga/go/gu", "meaning": "تُنطق ج قاسية (g): gatto, gola, gusto" },
+        { "pronoun": "G + e/i", "conjugation": "ge/gi", "meaning": "تُنطق ج (dʒ): gelato, giorno (gi)" },
+        { "pronoun": "GH + e/i", "conjugation": "ghe/ghi", "meaning": "تُنطق ج قاسية (g): spaghetti, ghiro" }
+      ],
+      "examples": [
+        { "it": "Che cosa è?", "ar": "ما هذا؟" },
+        { "it": "La cena è pronta.", "ar": "العشاء جاهز." },
+        { "it": "Spaghetti e gelato.", "ar": "سباغيتي وآيس كريم." }
+      ]
+    }
+  },
+  {
+    "id": "intonation_questions",
+    "title": "نبرة السؤال في الجملة",
+    "subtitle": "كيف تميّز السؤال في الإيطالية",
+    "icon": "question-circle",
+    "content": {
+      "explanation": "في الإيطالية يمكن تكوين سؤال بسيط فقط بتغيير نبرة الصوت (ارتفاع النبرة في النهاية) خصوصاً في الأسئلة التي جوابها نعم/لا. ومع أدوات الاستفهام يكون السؤال واضحاً من الكلمة نفسها.",
+      "table": [
+        { "pronoun": "نعم/لا", "conjugation": "intonazione", "meaning": "نفس ترتيب الجملة + نبرة سؤال: Sei pronto?" },
+        { "pronoun": "مع أداة استفهام", "conjugation": "dove/che/quanto...", "meaning": "الأداة غالباً في البداية: Dove sei?" },
+        { "pronoun": "علامة الاستفهام", "conjugation": "?", "meaning": "تُكتب دائماً في النهاية في الكتابة" }
+      ],
+      "examples": [
+        { "it": "Tu sei Marco.", "ar": "أنت ماركو." },
+        { "it": "Tu sei Marco?", "ar": "أأنت ماركو؟" },
+        { "it": "Dove abiti?", "ar": "أين تسكن؟" }
+      ]
+    }
+  },
+  {
+    "id": "basic_word_order",
+    "title": "ترتيب الجملة البسيطة",
+    "subtitle": "فاعل + فعل + مفعول به",
+    "icon": "align-left",
+    "content": {
+      "explanation": "الترتيب الشائع في الجملة البسيطة: فاعل + فعل + (مفعول/تكملة). أحياناً يمكن حذف الفاعل لأن تصريف الفعل يدل عليه.",
+      "table": [
+        { "pronoun": "S + V", "conjugation": "Io lavoro", "meaning": "أنا أعمل" },
+        { "pronoun": "S + V + O", "conjugation": "Io mangio la pizza", "meaning": "أنا آكل البيتزا" },
+        { "pronoun": "V (بدون فاعل)", "conjugation": "Mangio", "meaning": "آكل (أنا) بحسب السياق" }
+      ],
+      "examples": [
+        { "it": "Io studio italiano.", "ar": "أنا أدرس الإيطالية." },
+        { "it": "Lei parla arabo.", "ar": "هي تتكلم العربية." },
+        { "it": "Abiti a Roma.", "ar": "تسكن في روما." }
+      ]
+    }
+  },
+  {
+    "id": "definite_articles",
+    "title": "أدوات التعريف",
+    "subtitle": "il – lo – la – i – gli – le",
+    "icon": "tag",
+    "content": {
+      "explanation": "أداة التعريف تعني (الـ). اختيارها يعتمد على جنس الاسم (مذكر/مؤنث) وعلى الحرف الذي يبدأ به الاسم. الجمع أيضاً له أدوات خاصة.",
+      "table": [
+        { "pronoun": "مذكر مفرد", "conjugation": "il", "meaning": "قبل أغلب الحروف: il libro" },
+        { "pronoun": "مذكر مفرد", "conjugation": "lo", "meaning": "قبل s+حرف ساكن / z / ps / gn: lo studente, lo zaino" },
+        { "pronoun": "مؤنث مفرد", "conjugation": "la", "meaning": "قبل أغلب الكلمات المؤنثة: la casa" },
+        { "pronoun": "مذكر جمع", "conjugation": "i", "meaning": "جمع il: i libri" },
+        { "pronoun": "مذكر جمع", "conjugation": "gli", "meaning": "جمع lo وأيضاً قبل كلمة تبدأ بحرف متحرك: gli studenti, gli amici" },
+        { "pronoun": "مؤنث جمع", "conjugation": "le", "meaning": "جمع la: le case" }
+      ],
+      "examples": [
+        { "it": "Il ragazzo è italiano.", "ar": "الولد إيطالي." },
+        { "it": "Lo studente è qui.", "ar": "الطالب هنا." },
+        { "it": "Gli amici sono simpatici.", "ar": "الأصدقاء لطفاء." }
+      ]
+    }
+  },
+  {
+    "id": "indefinite_articles",
+    "title": "أدوات النكرة",
+    "subtitle": "un – uno – una",
+    "icon": "circle",
+    "content": {
+      "explanation": "أداة النكرة تعني (ـ/واحد/واحدة) مثل: كتابٌ. اختيارها يعتمد على جنس الاسم وبدايته مثل أدوات التعريف.",
+      "table": [
+        { "pronoun": "مذكر مفرد", "conjugation": "un", "meaning": "قبل أغلب الحروف: un libro" },
+        { "pronoun": "مذكر مفرد", "conjugation": "uno", "meaning": "قبل s+حرف ساكن / z / ps / gn: uno studente, uno zaino" },
+        { "pronoun": "مؤنث مفرد", "conjugation": "una", "meaning": "قبل كلمات مؤنثة: una casa" }
+      ],
+      "examples": [
+        { "it": "Ho un libro.", "ar": "لدي كتاب." },
+        { "it": "Lei è una ragazza.", "ar": "هي فتاة." },
+        { "it": "C'è uno studente.", "ar": "هناك طالب." }
+      ]
+    }
+  },
+  {
+    "id": "gender_m_f",
+    "title": "المذكر والمؤنث",
+    "subtitle": "جنس الاسم في الإيطالية",
+    "icon": "venus-mars",
+    "content": {
+      "explanation": "غالباً الاسم الذي ينتهي بـ -o يكون مذكراً، والذي ينتهي بـ -a يكون مؤنثاً. توجد استثناءات، لكن هذه قاعدة مفيدة لمستوى A1.",
+      "table": [
+        { "pronoun": "غالباً مذكر", "conjugation": "-o", "meaning": "ragazzo (ولد)" },
+        { "pronoun": "غالباً مؤنث", "conjugation": "-a", "meaning": "ragazza (فتاة)" },
+        { "pronoun": "كثيراً ما يكون", "conjugation": "-e", "meaning": "قد يكون مذكراً أو مؤنثاً: studente/studentessa" }
+      ],
+      "examples": [
+        { "it": "Il ragazzo è alto.", "ar": "الولد طويل." },
+        { "it": "La ragazza è alta.", "ar": "البنت طويلة." },
+        { "it": "Lo studente è simpatico.", "ar": "الطالب لطيف." }
+      ]
+    }
+  },
+  {
+    "id": "singular_plural",
+    "title": "المفرد والجمع",
+    "subtitle": "تحويل الاسم للجمع",
+    "icon": "layer-group",
+    "content": {
+      "explanation": "القاعدة العامة: -o تصبح -i (مذكر)، و -a تصبح -e (مؤنث)، و -e تصبح -i (للجنسين).",
+      "table": [
+        { "pronoun": "مذكر", "conjugation": "-o → -i", "meaning": "libro → libri" },
+        { "pronoun": "مؤنث", "conjugation": "-a → -e", "meaning": "casa → case" },
+        { "pronoun": "للجنسين", "conjugation": "-e → -i", "meaning": "studente → studenti" }
+      ],
+      "examples": [
+        { "it": "Il libro / i libri", "ar": "الكتاب / الكتب" },
+        { "it": "La casa / le case", "ar": "البيت / البيوت" },
+        { "it": "Lo studente / gli studenti", "ar": "الطالب / الطلاب" }
+      ]
+    }
+  },
+  {
+    "id": "adjective_agreement",
+    "title": "تطابق الصفة مع الاسم",
+    "subtitle": "الجنس والعدد",
+    "icon": "check",
+    "content": {
+      "explanation": "الصفة في الإيطالية تتغير لتطابق الاسم في المذكر/المؤنث والمفرد/الجمع. قاعدة شائعة: -o/-a في المفرد تتحول إلى -i/-e في الجمع.",
+      "table": [
+        { "pronoun": "مذكر مفرد", "conjugation": "alto", "meaning": "رجل طويل: un ragazzo alto" },
+        { "pronoun": "مؤنث مفرد", "conjugation": "alta", "meaning": "امرأة طويلة: una ragazza alta" },
+        { "pronoun": "مذكر جمع", "conjugation": "alti", "meaning": "أولاد طوال: ragazzi alti" },
+        { "pronoun": "مؤنث جمع", "conjugation": "alte", "meaning": "بنات طوال: ragazze alte" }
+      ],
+      "examples": [
+        { "it": "Una casa grande.", "ar": "بيت كبير." },
+        { "it": "Due case grandi.", "ar": "بيتان كبيران." },
+        { "it": "Gli amici italiani.", "ar": "الأصدقاء الإيطاليون." }
+      ]
+    }
+  },
+  {
+    "id": "common_adjectives",
+    "title": "الصفات الشائعة",
+    "subtitle": "كلمات يومية لمستوى A1",
+    "icon": "list",
+    "content": {
+      "explanation": "هذه صفات بسيطة وشائعة تساعدك في وصف الأشخاص والأشياء في المحادثات اليومية.",
+      "table": [
+        { "pronoun": "grande", "conjugation": "grande / grandi", "meaning": "كبير" },
+        { "pronoun": "piccolo", "conjugation": "piccolo/a - piccoli/e", "meaning": "صغير" },
+        { "pronoun": "bello", "conjugation": "bello/a - belli/e", "meaning": "جميل" },
+        { "pronoun": "buono", "conjugation": "buono/a - buoni/e", "meaning": "جيد/لذيذ" },
+        { "pronoun": "simpatico", "conjugation": "simpatico/a - simpatici/e", "meaning": "لطيف/محبوب" },
+        { "pronoun": "gentile", "conjugation": "gentile / gentili", "meaning": "مهذب" }
+      ],
+      "examples": [
+        { "it": "Il caffè è buono.", "ar": "القهوة لذيذة." },
+        { "it": "La città è grande.", "ar": "المدينة كبيرة." },
+        { "it": "Sono molto felice.", "ar": "أنا سعيد جداً." }
+      ]
+    }
+  },
+  {
+    "id": "personal_pronouns",
+    "title": "الضمائر الشخصية",
+    "subtitle": "Io – Tu – Lui/Lei – Noi – Voi – Loro",
+    "icon": "user",
+    "content": {
+      "explanation": "الضمائر الشخصية تُستخدم لبيان الفاعل. في الإيطالية يمكن أحياناً حذف الضمير لأن الفعل يوضح الشخص، لكن تعلمها مهم لمستوى A1.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "أنا", "meaning": "I" },
+        { "pronoun": "Tu", "conjugation": "أنت", "meaning": "you (sing.)" },
+        { "pronoun": "Lui", "conjugation": "هو", "meaning": "he" },
+        { "pronoun": "Lei", "conjugation": "هي", "meaning": "she" },
+        { "pronoun": "Noi", "conjugation": "نحن", "meaning": "we" },
+        { "pronoun": "Voi", "conjugation": "أنتم", "meaning": "you (pl.)" },
+        { "pronoun": "Loro", "conjugation": "هم", "meaning": "they" }
+      ],
+      "examples": [
+        { "it": "Io studio.", "ar": "أنا أدرس." },
+        { "it": "Tu lavori?", "ar": "هل تعمل؟" },
+        { "it": "Loro sono amici.", "ar": "هم أصدقاء." }
+      ]
+    }
+  },
+  {
+    "id": "possessives_basic",
+    "title": "ضمائر/صفات الملكية",
+    "subtitle": "mio/mia – tuo/tua – suo/sua… (أساسيات)",
+    "icon": "key",
+    "content": {
+      "explanation": "في الإيطالية الملكية تأتي غالباً كصفة قبل الاسم وتطابق الاسم (ليس المالك) في الجنس والعدد. غالباً تُستخدم مع أداة تعريف: il mio libro.",
+      "table": [
+        { "pronoun": "mio/mia", "conjugation": "miei/mie", "meaning": "لي: il mio libro / la mia casa" },
+        { "pronoun": "tuo/tua", "conjugation": "tuoi/tue", "meaning": "لك: il tuo libro / la tua casa" },
+        { "pronoun": "suo/sua", "conjugation": "suoi/sue", "meaning": "له/لها: il suo libro / la sua casa" },
+        { "pronoun": "nostro/nostra", "conjugation": "nostri/nostre", "meaning": "لنا" },
+        { "pronoun": "vostro/vostra", "conjugation": "vostri/vostre", "meaning": "لكم" },
+        { "pronoun": "loro", "conjugation": "loro", "meaning": "لهم/لهن: il loro libro" }
+      ],
+      "examples": [
+        { "it": "Questa è la mia casa.", "ar": "هذا بيتي." },
+        { "it": "Dov'è il tuo telefono?", "ar": "أين هاتفك؟" },
+        { "it": "Il loro amico è qui.", "ar": "صديقهم هنا." }
+      ]
+    }
+  },
+  {
+    "id": "demonstratives",
+    "title": "أسماء الإشارة",
+    "subtitle": "questo / quello",
+    "icon": "map-pin",
+    "content": {
+      "explanation": "questo = هذا/هذه (قريب). quello = ذلك/تلك (بعيد أو للتحديد). تتغير لتطابق الاسم في الجنس والعدد.",
+      "table": [
+        { "pronoun": "questo", "conjugation": "questa / questi / queste", "meaning": "هذا/هذه/هؤلاء" },
+        { "pronoun": "quello", "conjugation": "quella / quelli / quelle", "meaning": "ذلك/تلك/أولئك" }
+      ],
+      "examples": [
+        { "it": "Questo è un libro.", "ar": "هذا كتاب." },
+        { "it": "Questa casa è grande.", "ar": "هذا البيت كبير." },
+        { "it": "Quelle sono le mie chiavi.", "ar": "تلك مفاتيحي." }
+      ]
+    }
+  },
+  {
+    "id": "present_are",
+    "title": "تصريف أفعال -are في المضارع",
+    "subtitle": "مثل parlare (يتكلم)",
+    "icon": "pen",
+    "content": {
+      "explanation": "أفعال -are في المضارع لها نهايات ثابتة: -o, -i, -a, -iamo, -ate, -ano.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "parlo", "meaning": "أنا أتكلم" },
+        { "pronoun": "Tu", "conjugation": "parli", "meaning": "أنت تتكلم" },
+        { "pronoun": "Lui/Lei", "conjugation": "parla", "meaning": "هو/هي يتكلم" },
+        { "pronoun": "Noi", "conjugation": "parliamo", "meaning": "نحن نتكلم" },
+        { "pronoun": "Voi", "conjugation": "parlate", "meaning": "أنتم تتكلمون" },
+        { "pronoun": "Loro", "conjugation": "parlano", "meaning": "هم يتكلمون" }
+      ],
+      "examples": [
+        { "it": "Parlo italiano.", "ar": "أتكلم الإيطالية." },
+        { "it": "Lei parla inglese.", "ar": "هي تتكلم الإنجليزية." },
+        { "it": "Noi parliamo arabo.", "ar": "نحن نتكلم العربية." }
+      ]
+    }
+  },
+  {
+    "id": "present_ere",
+    "title": "تصريف أفعال -ere في المضارع",
+    "subtitle": "مثل leggere (يقرأ)",
+    "icon": "book-open",
+    "content": {
+      "explanation": "أفعال -ere في المضارع لها نهايات شائعة: -o, -i, -e, -iamo, -ete, -ono.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "leggo", "meaning": "أنا أقرأ" },
+        { "pronoun": "Tu", "conjugation": "leggi", "meaning": "أنت تقرأ" },
+        { "pronoun": "Lui/Lei", "conjugation": "legge", "meaning": "هو/هي يقرأ" },
+        { "pronoun": "Noi", "conjugation": "leggiamo", "meaning": "نحن نقرأ" },
+        { "pronoun": "Voi", "conjugation": "leggete", "meaning": "أنتم تقرأون" },
+        { "pronoun": "Loro", "conjugation": "leggono", "meaning": "هم يقرأون" }
+      ],
+      "examples": [
+        { "it": "Leggo un libro.", "ar": "أقرأ كتاباً." },
+        { "it": "Tu leggi il giornale?", "ar": "هل تقرأ الجريدة؟" },
+        { "it": "Loro leggono molto.", "ar": "هم يقرؤون كثيراً." }
+      ]
+    }
+  },
+  {
+    "id": "present_ire",
+    "title": "تصريف أفعال -ire في المضارع",
+    "subtitle": "مثل dormire (ينام)",
+    "icon": "moon",
+    "content": {
+      "explanation": "أفعال -ire في المضارع غالباً نهاياتها: -o, -i, -e, -iamo, -ite, -ono. (هناك مجموعة أخرى بـ -isco مثل finire، لكن هذا تمهيدي).",
+      "table": [
+        { "pronoun": "Io", "conjugation": "dormo", "meaning": "أنا أنام" },
+        { "pronoun": "Tu", "conjugation": "dormi", "meaning": "أنت تنام" },
+        { "pronoun": "Lui/Lei", "conjugation": "dorme", "meaning": "هو/هي ينام" },
+        { "pronoun": "Noi", "conjugation": "dormiamo", "meaning": "نحن ننام" },
+        { "pronoun": "Voi", "conjugation": "dormite", "meaning": "أنتم تنامون" },
+        { "pronoun": "Loro", "conjugation": "dormono", "meaning": "هم ينامون" }
+      ],
+      "examples": [
+        { "it": "Dormo bene.", "ar": "أنام جيداً." },
+        { "it": "Lei dorme qui.", "ar": "هي تنام هنا." },
+        { "it": "Noi dormiamo tardi.", "ar": "نحن ننام متأخرين." }
+      ]
+    }
+  },
+  {
+    "id": "irregular_basic_verbs",
+    "title": "الأفعال الشاذة الأساسية",
+    "subtitle": "essere – avere – fare (تمهيدي)",
+    "icon": "bolt",
+    "content": {
+      "explanation": "بعض الأفعال شاذة ولا تتبع نهايات -are/-ere/-ire. أهمها: essere و avere (موجودين عندك بالفعل) و fare (يفعل/يصنع).",
+      "table": [
+        { "pronoun": "Io", "conjugation": "faccio", "meaning": "أنا أفعل/أصنع" },
+        { "pronoun": "Tu", "conjugation": "fai", "meaning": "أنت تفعل/تصنع" },
+        { "pronoun": "Lui/Lei", "conjugation": "fa", "meaning": "هو/هي يفعل/يصنع" },
+        { "pronoun": "Noi", "conjugation": "facciamo", "meaning": "نحن نفعل/نصنع" },
+        { "pronoun": "Voi", "conjugation": "fate", "meaning": "أنتم تفعلون/تصنعون" },
+        { "pronoun": "Loro", "conjugation": "fanno", "meaning": "هم يفعلون/يصنعون" }
+      ],
+      "examples": [
+        { "it": "Che fai?", "ar": "ماذا تفعل؟" },
+        { "it": "Faccio colazione.", "ar": "أتناول الفطور." },
+        { "it": "Noi facciamo sport.", "ar": "نحن نمارس الرياضة." }
+      ]
+    }
+  },
+  {
+    "id": "reflexive_verbs_basic",
+    "title": "الأفعال الانعكاسية البسيطة",
+    "subtitle": "مثل chiamarsi (يُسمّي نفسه) / alzarsi (يستيقظ)",
+    "icon": "sync",
+    "content": {
+      "explanation": "الفعل الانعكاسي يأتي معه ضمير صغير قبل الفعل: mi/ti/si/ci/vi/si. في A1 نركز على أفعال يومية مثل: chiamarsi, svegliarsi, alzarsi.",
+      "table": [
+        { "pronoun": "Io", "conjugation": "mi chiamo", "meaning": "اسمي (أنا أُسمّي نفسي)" },
+        { "pronoun": "Tu", "conjugation": "ti chiami", "meaning": "اسمك" },
+        { "pronoun": "Lui/Lei", "conjugation": "si chiama", "meaning": "اسمه/اسمها" },
+        { "pronoun": "Noi", "conjugation": "ci chiamiamo", "meaning": "اسمنا" },
+        { "pronoun": "Voi", "conjugation": "vi chiamate", "meaning": "اسمكم" },
+        { "pronoun": "Loro", "conjugation": "si chiamano", "meaning": "اسمهم" }
+      ],
+      "examples": [
+        { "it": "Mi chiamo Ahmed.", "ar": "اسمي أحمد." },
+        { "it": "Come ti chiami?", "ar": "ما اسمك؟" },
+        { "it": "Si chiama Sara.", "ar": "اسمها سارة." }
+      ]
+    }
+  },
+  {
+    "id": "negation_non",
+    "title": "النفي بـ non",
+    "subtitle": "قاعدة سهلة للنفي",
+    "icon": "ban",
+    "content": {
+      "explanation": "النفي في الإيطالية بسيط: نضع non قبل الفعل مباشرة.",
+      "table": [
+        { "pronoun": "إثبات", "conjugation": "Parlo italiano.", "meaning": "أتكلم الإيطالية." },
+        { "pronoun": "نفي", "conjugation": "Non parlo italiano.", "meaning": "لا أتكلم الإيطالية." },
+        { "pronoun": "مع essere", "conjugation": "Non sono...", "meaning": "لست..." }
+      ],
+      "examples": [
+        { "it": "Non ho tempo.", "ar": "ليس لدي وقت." },
+        { "it": "Lei non è qui.", "ar": "هي ليست هنا." },
+        { "it": "Non capisco.", "ar": "أنا لا أفهم." }
+      ]
+    }
+  },
+  {
+    "id": "question_words",
+    "title": "أدوات الاستفهام",
+    "subtitle": "chi / che / dove / quando / perché / quanto / come",
+    "icon": "search",
+    "content": {
+      "explanation": "أدوات الاستفهام تُستخدم لبدء السؤال وتحديد نوعه: من؟ ماذا؟ أين؟ متى؟ لماذا؟ كم؟ كيف؟",
+      "table": [
+        { "pronoun": "Chi", "conjugation": "؟", "meaning": "من؟" },
+        { "pronoun": "Che / Cosa", "conjugation": "؟", "meaning": "ماذا؟" },
+        { "pronoun": "Dove", "conjugation": "؟", "meaning": "أين؟" },
+        { "pronoun": "Quando", "conjugation": "؟", "meaning": "متى؟" },
+        { "pronoun": "Perché", "conjugation": "؟", "meaning": "لماذا؟" },
+        { "pronoun": "Quanto/Quanta", "conjugation": "؟", "meaning": "كم؟ (مع تطابق بسيط)" },
+        { "pronoun": "Come", "conjugation": "؟", "meaning": "كيف؟ / ما اسم؟ (Come ti chiami?)" }
+      ],
+      "examples": [
+        { "it": "Dove vivi?", "ar": "أين تعيش؟" },
+        { "it": "Perché studi italiano?", "ar": "لماذا تدرس الإيطالية؟" },
+        { "it": "Quanto costa?", "ar": "كم السعر؟" }
+      ]
+    }
+  },
+  {
+    "id": "simple_questions",
+    "title": "تكوين السؤال البسيط",
+    "subtitle": "نعم/لا + أدوات الاستفهام",
+    "icon": "comments",
+    "content": {
+      "explanation": "للسؤال نعم/لا: نفس الجملة مع نبرة سؤال و/أو علامة ?. وللسؤال بأداة استفهام: نضع الأداة غالباً في البداية ثم باقي الجملة.",
+      "table": [
+        { "pronoun": "نعم/لا", "conjugation": "Sei stanco?", "meaning": "هل أنت متعب؟" },
+        { "pronoun": "بأداة", "conjugation": "Dove sei?", "meaning": "أين أنت؟" },
+        { "pronoun": "مع Avere", "conjugation": "Hai fame?", "meaning": "هل أنت جائع؟" }
+      ],
+      "examples": [
+        { "it": "Tu lavori oggi?", "ar": "هل تعمل اليوم؟" },
+        { "it": "Che cosa vuoi?", "ar": "ماذا تريد؟" },
+        { "it": "Quando partiamo?", "ar": "متى نغادر؟" }
+      ]
+    }
+  },
+  {
+    "id": "simple_prepositions",
+    "title": "حروف الجر البسيطة",
+    "subtitle": "a – in – di – da – con – su – per",
+    "icon": "link",
+    "content": {
+      "explanation": "حروف الجر تربط الكلمات وتوضح المكان/الزمان/الملكية وغيرها. في A1 ركّز على الاستخدامات الأكثر شيوعاً.",
+      "table": [
+        { "pronoun": "a", "conjugation": "a Roma", "meaning": "إلى/في (مدينة غالباً): في روما" },
+        { "pronoun": "in", "conjugation": "in Italia", "meaning": "في (دولة/كبير): في إيطاليا" },
+        { "pronoun": "di", "conjugation": "di Maria", "meaning": "لـ/من (ملكية): كتاب ماريا" },
+        { "pronoun": "da", "conjugation": "da Marco", "meaning": "عند/من: عند ماركو" },
+        { "pronoun": "con", "conjugation": "con amici", "meaning": "مع" },
+        { "pronoun": "su", "conjugation": "su un tavolo", "meaning": "على" },
+        { "pronoun": "per", "conjugation": "per te", "meaning": "لـ/من أجل" }
+      ],
+      "examples": [
+        { "it": "Vivo in Italia.", "ar": "أعيش في إيطاليا." },
+        { "it": "Vado a Milano.", "ar": "أذهب إلى ميلانو." },
+        { "it": "Un regalo per te.", "ar": "هدية لك." }
+      ]
+    }
+  },
+  {
+    "id": "preposizioni_articolate_intro",
+    "title": "حروف الجر المركبة",
+    "subtitle": "تمهيدي: nel / del / al ...",
+    "icon": "puzzle-piece",
+    "content": {
+      "explanation": "حروف الجر المركبة = حرف جر + أداة تعريف في كلمة واحدة. في A1 يكفي التعرف عليها في القراءة والاستعمال البسيط.",
+      "table": [
+        { "pronoun": "di + il", "conjugation": "del", "meaning": "من/لـ + الـ: del libro" },
+        { "pronoun": "a + il", "conjugation": "al", "meaning": "إلى/في + الـ: al cinema" },
+        { "pronoun": "in + il", "conjugation": "nel", "meaning": "في + الـ: nel bar" },
+        { "pronoun": "da + il", "conjugation": "dal", "meaning": "من/عند + الـ: dal medico" },
+        { "pronoun": "su + il", "conjugation": "sul", "meaning": "على + الـ: sul tavolo" }
+      ],
+      "examples": [
+        { "it": "Sono nel bar.", "ar": "أنا في المقهى." },
+        { "it": "Vado al cinema.", "ar": "أذهب إلى السينما." },
+        { "it": "Il nome del ragazzo.", "ar": "اسم الولد." }
+      ]
+    }
+  },
+  {
+    "id": "ce_ci_sono",
+    "title": "c’è / ci sono",
+    "subtitle": "يوجد (مفرد/جمع)",
+    "icon": "map",
+    "content": {
+      "explanation": "c’è تُستخدم للمفرد: يوجد/هناك. ci sono تُستخدم للجمع: يوجدون/هناك (أشياء كثيرة).",
+      "table": [
+        { "pronoun": "مفرد", "conjugation": "c’è", "meaning": "يوجد: c’è un libro" },
+        { "pronoun": "جمع", "conjugation": "ci sono", "meaning": "يوجد: ci sono due libri" }
+      ],
+      "examples": [
+        { "it": "C'è una banca qui.", "ar": "يوجد بنك هنا." },
+        { "it": "Ci sono due studenti.", "ar": "يوجد طالبان." },
+        { "it": "C'è un problema.", "ar": "توجد مشكلة." }
+      ]
+    }
+  },
+  {
+    "id": "molto_poco_tanto",
+    "title": "molto / poco / tanto",
+    "subtitle": "كثير / قليل / كثير جداً",
+    "icon": "sliders-h",
+    "content": {
+      "explanation": "تُستخدم لوصف الكمية أو الدرجة. molto و poco يمكن أن تأتي كحال (مع الفعل/الصفة) أو كصفة (مع الاسم). tanto تعني كثير/كثيراً حسب السياق.",
+      "table": [
+        { "pronoun": "molto", "conjugation": "molto bene", "meaning": "جداً/كثيراً: أنا بخير جداً" },
+        { "pronoun": "poco", "conjugation": "poco tempo", "meaning": "وقت قليل" },
+        { "pronoun": "tanto", "conjugation": "tanto lavoro", "meaning": "عمل كثير" }
+      ],
+      "examples": [
+        { "it": "Sto molto bene.", "ar": "أنا بخير جداً." },
+        { "it": "Ho poco tempo.", "ar": "لدي وقت قليل." },
+        { "it": "Lui lavora tanto.", "ar": "هو يعمل كثيراً." }
+      ]
+    }
+  },
+  {
+    "id": "imperative_basic",
+    "title": "الأمر البسيط",
+    "subtitle": "Imperativo (Tu/Noi/Voi) في A1",
+    "icon": "bullhorn",
+    "content": {
+      "explanation": "صيغة الأمر تُستخدم للطلب أو النصيحة. في A1 نستخدم غالباً: Tu (أنت) و Noi (لنـ...) و Voi (أنتم). مع النفي في Tu نستخدم: Non + infinito (Non parlare!).",
+      "table": [
+        { "pronoun": "Tu (-are)", "conjugation": "Parla!", "meaning": "تكلّم!" },
+        { "pronoun": "Tu (-ere)", "conjugation": "Leggi!", "meaning": "اقرأ!" },
+        { "pronoun": "Tu (-ire)", "conjugation": "Dormi!", "meaning": "نم!" },
+        { "pronoun": "Noi", "conjugation": "Parliamo!", "meaning": "لنتكلم!" },
+        { "pronoun": "Voi", "conjugation": "Parlate!", "meaning": "تكلّموا!" },
+        { "pronoun": "نهي (Tu)", "conjugation": "Non parlare!", "meaning": "لا تتكلم!" }
+      ],
+      "examples": [
+        { "it": "Ascolta!", "ar": "استمع!" },
+        { "it": "Andiamo!", "ar": "هيا بنا!" },
+        { "it": "Non fumare!", "ar": "لا تدخن!" }
+      ]
+    }
+  }
 ]
