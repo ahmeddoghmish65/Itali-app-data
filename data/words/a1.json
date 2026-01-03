@@ -1609,5 +1609,80 @@
         { "it": "Metallo", "ar": "معدن", "phonetic": "/meˈtallo/", "type": "اسم", "example": { "it": "Scatola di metallo.", "ar": "صندوق معدني." } },
         { "it": "Polvere", "ar": "غبار / تراب", "phonetic": "/ˈpolvere/", "type": "اسم", "example": { "it": "C'è molta polvere.", "ar": "يوجد غبار كثير." } }
       ]
+    },
+    "car_driving": {
+      "name": "السيارة والقيادة",
+      "icon": "car",
+      "words": [
+        { "it": "Ruota", "ar": "عجلة", "phonetic": "/ˈrwɔta/", "type": "اسم", "example": { "it": "La ruota gira.", "ar": "العجلة تدور." } },
+        { "it": "Benzina", "ar": "بنزين / وقود", "phonetic": "/benˈdzina/", "type": "اسم", "example": { "it": "Manca la benzina.", "ar": "ينقص البنزين." } },
+        { "it": "Motore", "ar": "محرك", "phonetic": "/moˈtore/", "type": "اسم", "example": { "it": "Il motore è caldo.", "ar": "المحرك ساخن." } },
+        { "it": "Traffico", "ar": "حركة مرور / ازدحام", "phonetic": "/ˈtraffiko/", "type": "اسم", "example": { "it": "C'è molto traffico.", "ar": "يوجد ازدحام شديد." } },
+        { "it": "Patente", "ar": "رخصة قيادة", "phonetic": "/paˈtɛnte/", "type": "اسم", "example": { "it": "La mia patente.", "ar": "رخصتي." } }
+      ]
+    },
+    "prepositions_logic_2": {
+      "name": "حروف جر ومنطق",
+      "icon": "random",
+      "words": [
+        { "it": "Senza", "ar": "بدون / بلا", "phonetic": "/ˈsentsa/", "type": "حرف جر", "example": { "it": "Caffè senza zucchero.", "ar": "قهوة بدون سكر." } },
+        { "it": "Contro", "ar": "ضد / مقابل", "phonetic": "/ˈkontro/", "type": "حرف جر", "example": { "it": "Sei contro di me?", "ar": "هل أنت ضدي؟" } },
+        { "it": "Tranne", "ar": "ما عدا / باستثناء", "phonetic": "/ˈtranne/", "type": "حرف جر", "example": { "it": "Tutti tranne te.", "ar": "الجميع ما عداك." } },
+        { "it": "Invece", "ar": "بدلاً من ذلك / على العكس", "phonetic": "/inˈvetʃe/", "type": "ظرف", "example": { "it": "Vengo io invece.", "ar": "سأتي أنا بدلاً من ذلك." } }
+      ]
+    },
+    "food_states": {
+      "name": "حالات الطعام",
+      "icon": "fire",
+      "words": [
+        { "it": "Crudo", "ar": "نيء", "phonetic": "/ˈkrudo/", "type": "صفة", "example": { "it": "Pesce crudo.", "ar": "سمك نيء." } },
+        { "it": "Cotto", "ar": "مطهو / مطبوخ", "phonetic": "/ˈkɔtto/", "type": "صفة", "example": { "it": "Ben cotto.", "ar": "مطهو جيداً." } },
+        { "it": "Bollente", "ar": "يغلي / ساخن جداً", "phonetic": "/bolˈlɛnte/", "type": "صفة", "example": { "it": "Attento, è bollente.", "ar": "احذر، إنه يغلي." } }
+      ]
+    },
+    "personality_2": {
+      "name": "صفات الشخصية",
+      "icon": "user-tag",
+      "words": [
+        { "it": "Timido", "ar": "خجول", "phonetic": "/ˈtimido/", "type": "صفة", "example": { "it": "Un ragazzo timido.", "ar": "فتى خجول." } },
+        { "it": "Coraggioso", "ar": "شجاع", "phonetic": "/koradˈdʒoso/", "type": "صفة", "example": { "it": "Devi essere coraggioso.", "ar": "يجب أن تكون شجاعاً." } },
+        { "it": "Pigro", "ar": "كسول", "phonetic": "/ˈpigro/", "type": "صفة", "example": { "it": "Non essere pigro.", "ar": "لا تكن كسولاً." } },
+        { "it": "Curioso", "ar": "فضولي", "phonetic": "/kuˈrjoso/", "type": "صفة", "example": { "it": "Sono curioso.", "ar": "أنا فضولي." } }
+      ]
+    },
+    "writing_text": {
+      "name": "الكتابة والنص",
+      "icon": "pen-alt",
+      "words": [
+        { "it": "Titolo", "ar": "عنوان (كتاب/مقال)", "phonetic": "/ˈtitolo/", "type": "اسم", "example": { "it": "Il titolo del film.", "ar": "عنوان الفيلم." } },
+        { "it": "Testo", "ar": "نص", "phonetic": "/ˈtɛsto/", "type": "اسم", "example": { "it": "Leggi il testo.", "ar": "اقرأ النص." } },
+        { "it": "Lista", "ar": "قائمة", "phonetic": "/ˈlista/", "type": "اسم", "example": { "it": "La lista della spesa.", "ar": "قائمة التسوق." } },
+        { "it": "Punto", "ar": "نقطة", "phonetic": "/ˈpunto/", "type": "اسم", "example": { "it": "Punto e basta.", "ar": "نقطة وانتهى." } }
+      ]
+    },
+    "giving_receiving": {
+      "name": "العطاء والأخذ",
+      "icon": "gift",
+      "words": [
+        { "it": "Ricevere", "ar": "يستلم / يتلقى", "phonetic": "/riˈtʃevere/", "type": "فعل", "example": { "it": "Ricevere una lettera.", "ar": "استلام رسالة." } },
+        { "it": "Mandare", "ar": "يرسل", "phonetic": "/manˈdare/", "type": "فعل", "example": { "it": "Mando un messaggio.", "ar": "أرسل رسالة." } },
+        { "it": "Offrire", "ar": "يعرض / يقدم / يعزم", "phonetic": "/ofˈfrire/", "type": "فعل", "example": { "it": "Offro io il caffè.", "ar": "أنا أعزمك على القهوة." } }
+      ]
+    },
+    "hygiene_objects": {
+      "name": "أدوات نظافة",
+      "icon": "soap",
+      "words": [
+        { "it": "Fazzoletto", "ar": "منديل (ورقي أو قماش)", "phonetic": "/fattsoˈletto/", "type": "اسم", "example": { "it": "Hai un fazzoletto?", "ar": "هل معك منديل؟" } },
+        { "it": "Spugna", "ar": "إسفنجة", "phonetic": "/ˈspuɲɲa/", "type": "اسم", "example": { "it": "Lavo con la spugna.", "ar": "أغسل بالإسفنجة." } }
+      ]
+    },
+    "space_sky": {
+      "name": "الفضاء والسماء",
+      "icon": "space-shuttle",
+      "words": [
+        { "it": "Pianeta", "ar": "كوكب", "phonetic": "/pjaˈneta/", "type": "اسم", "example": { "it": "Il pianeta Terra.", "ar": "كوكب الأرض." } },
+        { "it": "Spazio", "ar": "فضاء / مساحة", "phonetic": "/ˈspattsjo/", "type": "اسم", "example": { "it": "Nello spazio.", "ar": "في الفضاء." } }
+      ]
     }
   }
