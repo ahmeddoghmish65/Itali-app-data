@@ -1,0 +1,302 @@
+[
+    {
+        "id": "meeting",
+        "title": "التعارف",
+        "icon": "users",
+        "dialogue": [
+            { "speaker": "A", "name": "ماركو", "it": "Ciao! Come ti chiami?", "ar": "مرحباً! ما اسمك؟" },
+            { "speaker": "B", "name": "سارة", "it": "Ciao! Mi chiamo Sara. E tu?", "ar": "مرحباً! اسمي سارة. وأنت؟" },
+            { "speaker": "A", "name": "ماركو", "it": "Io sono Marco. Piacere!", "ar": "أنا ماركو. سعدت بلقائك!" },
+            { "speaker": "B", "name": "سارة", "it": "Piacere mio! Di dove sei?", "ar": "سعادتي أنا! من أين أنت؟" },
+            { "speaker": "A", "name": "ماركو", "it": "Sono di Roma. E tu?", "ar": "أنا من روما. وأنتِ؟" },
+            { "speaker": "B", "name": "سارة", "it": "Io sono di Milano.", "ar": "أنا من ميلانو." }
+        ]
+    },
+    {
+        "id": "cafe",
+        "title": "في المقهى",
+        "icon": "coffee",
+        "dialogue": [
+            { "speaker": "A", "name": "الزبون", "it": "Buongiorno! Un caffè, per favore.", "ar": "صباح الخير! قهوة، من فضلك." },
+            { "speaker": "B", "name": "النادل", "it": "Buongiorno! Normale o macchiato?", "ar": "صباح الخير! عادية أم بالحليب؟" },
+            { "speaker": "A", "name": "الزبون", "it": "Macchiato, grazie.", "ar": "بالحليب، شكراً." },
+            { "speaker": "B", "name": "النادل", "it": "Ecco a Lei. Sono due euro.", "ar": "تفضل. يورو اثنين." },
+            { "speaker": "A", "name": "الزبون", "it": "Ecco. Grazie mille!", "ar": "تفضل. شكراً جزيلاً!" },
+            { "speaker": "B", "name": "النادل", "it": "Prego! Buona giornata!", "ar": "عفواً! يوماً سعيداً!" }
+        ]
+    },
+    {
+        "id": "restaurant",
+        "title": "في المطعم",
+        "icon": "utensils",
+        "dialogue": [
+            { "speaker": "A", "name": "الزبون", "it": "Buonasera! Un tavolo per due, per favore.", "ar": "مساء الخير! طاولة لشخصين، من فضلك." },
+            { "speaker": "B", "name": "النادل", "it": "Buonasera! Prego, da questa parte.", "ar": "مساء الخير! تفضل، من هنا." },
+            { "speaker": "A", "name": "الزبون", "it": "Posso avere il menu?", "ar": "هل يمكنني الحصول على القائمة؟" },
+            { "speaker": "B", "name": "النادل", "it": "Certo! Ecco il menu.", "ar": "بالتأكيد! تفضل القائمة." },
+            { "speaker": "A", "name": "الزبون", "it": "Vorrei una pizza margherita.", "ar": "أريد بيتزا مارغريتا." },
+            { "speaker": "B", "name": "النادل", "it": "Da bere?", "ar": "للشرب؟" },
+            { "speaker": "A", "name": "الزبون", "it": "Un'acqua naturale, grazie.", "ar": "ماء عادي، شكراً." },
+            { "speaker": "B", "name": "النادل", "it": "Perfetto! Arriva subito.", "ar": "ممتاز! سيصل حالاً." }
+        ]
+    },
+    {
+        "id": "supermarket",
+        "title": "في السوبرماركت",
+        "icon": "shopping-cart",
+        "dialogue": [
+            { "speaker": "A", "name": "الزبون", "it": "Scusi, dov'è il latte?", "ar": "عفواً، أين الحليب؟" },
+            { "speaker": "B", "name": "الموظف", "it": "È in fondo, a destra.", "ar": "في الآخر، على اليمين." },
+            { "speaker": "A", "name": "الزبون", "it": "Grazie! E il pane?", "ar": "شكراً! والخبز؟" },
+            { "speaker": "B", "name": "الموظف", "it": "Il pane è qui, a sinistra.", "ar": "الخبز هنا، على اليسار." },
+            { "speaker": "A", "name": "الزبون", "it": "Quanto costa questo?", "ar": "بكم هذا؟" },
+            { "speaker": "B", "name": "الموظف", "it": "Costa tre euro.", "ar": "يكلف ثلاثة يورو." },
+            { "speaker": "A", "name": "الزبون", "it": "Va bene, lo prendo.", "ar": "حسناً، سآخذه." }
+        ]
+    },
+    {
+        "id": "pharmacy",
+        "title": "في الصيدلية",
+        "icon": "medkit",
+        "dialogue": [
+            { "speaker": "A", "name": "الزبون", "it": "Buongiorno! Ho mal di testa.", "ar": "صباح الخير! عندي صداع." },
+            { "speaker": "B", "name": "الصيدلي", "it": "Buongiorno! Da quanto tempo?", "ar": "صباح الخير! منذ متى؟" },
+            { "speaker": "A", "name": "الزبون", "it": "Da ieri sera.", "ar": "منذ أمس مساءً." },
+            { "speaker": "B", "name": "الصيدلي", "it": "Le do queste pastiglie.", "ar": "سأعطيك هذه الحبوب." },
+            { "speaker": "A", "name": "الزبون", "it": "Quante ne prendo al giorno?", "ar": "كم آخذ منها في اليوم؟" },
+            { "speaker": "B", "name": "الصيدلي", "it": "Una la mattina e una la sera.", "ar": "واحدة صباحاً وواحدة مساءً." },
+            { "speaker": "A", "name": "الزبون", "it": "Grazie mille!", "ar": "شكراً جزيلاً!" }
+        ]
+    },
+    {
+        "id": "transport",
+        "title": "وسائل النقل",
+        "icon": "bus",
+        "dialogue": [
+            { "speaker": "A", "name": "السائح", "it": "Scusi, quale autobus va al centro?", "ar": "عفواً، أي حافلة تذهب للمركز؟" },
+            { "speaker": "B", "name": "المارة", "it": "Il numero 64.", "ar": "رقم 64." },
+            { "speaker": "A", "name": "السائح", "it": "Dov'è la fermata?", "ar": "أين المحطة؟" },
+            { "speaker": "B", "name": "المارة", "it": "È qui, a cento metri.", "ar": "هنا، على بعد مئة متر." },
+            { "speaker": "A", "name": "السائح", "it": "Quanto costa il biglietto?", "ar": "بكم التذكرة؟" },
+            { "speaker": "B", "name": "المارة", "it": "Un euro e cinquanta.", "ar": "يورو ونصف." },
+            { "speaker": "A", "name": "السائح", "it": "Grazie mille!", "ar": "شكراً جزيلاً!" },
+            { "speaker": "B", "name": "المارة", "it": "Di niente! Buon viaggio!", "ar": "لا شكر على واجب! رحلة سعيدة!" }
+        ]
+    },
+    {
+        "id": "hotel",
+        "title": "في الفندق",
+        "icon": "bed",
+        "dialogue": [
+            { "speaker": "A", "name": "الضيف", "it": "Buonasera! Ho una prenotazione.", "ar": "مساء الخير! عندي حجز." },
+            { "speaker": "B", "name": "موظف الاستقبال", "it": "Buonasera! A che nome?", "ar": "مساء الخير! باسم من؟" },
+            { "speaker": "A", "name": "الضيف", "it": "Ahmed Hassan.", "ar": "أحمد حسن." },
+            { "speaker": "B", "name": "موظف الاستقبال", "it": "Sì, camera doppia per tre notti.", "ar": "نعم، غرفة مزدوجة لثلاث ليالٍ." },
+            { "speaker": "A", "name": "الضيف", "it": "Esatto. A che ora è la colazione?", "ar": "صحيح. في أي ساعة الفطور؟" },
+            { "speaker": "B", "name": "موظف الاستقبال", "it": "Dalle sette alle dieci.", "ar": "من السابعة إلى العاشرة." },
+            { "speaker": "A", "name": "الضيف", "it": "Perfetto, grazie!", "ar": "ممتاز، شكراً!" },
+            { "speaker": "B", "name": "موظف الاستقبال", "it": "Ecco la chiave. Camera 205.", "ar": "تفضل المفتاح. غرفة 205." }
+        ]
+    },
+    {
+        "id": "directions",
+        "title": "السؤال عن الاتجاهات",
+        "icon": "map-signs",
+        "dialogue": [
+            { "speaker": "A", "name": "السائح", "it": "Scusi, dov'è la stazione?", "ar": "عفواً، أين المحطة؟" },
+            { "speaker": "B", "name": "المارة", "it": "Vada sempre dritto.", "ar": "اذهب دائماً للأمام." },
+            { "speaker": "A", "name": "السائح", "it": "È lontano?", "ar": "هل هي بعيدة؟" },
+            { "speaker": "B", "name": "المارة", "it": "No, sono cinque minuti a piedi.", "ar": "لا، خمس دقائق مشياً." },
+            { "speaker": "A", "name": "السائح", "it": "E il museo?", "ar": "والمتحف؟" },
+            { "speaker": "B", "name": "المارة", "it": "Giri a sinistra dopo la chiesa.", "ar": "اتجه يساراً بعد الكنيسة." },
+            { "speaker": "A", "name": "السائح", "it": "Ho capito. Grazie!", "ar": "فهمت. شكراً!" }
+        ]
+    },
+    {
+        "id": "phone",
+        "title": "مكالمة هاتفية",
+        "icon": "phone",
+        "dialogue": [
+            { "speaker": "A", "name": "المتصل", "it": "Pronto?", "ar": "ألو؟" },
+            { "speaker": "B", "name": "المستقبل", "it": "Pronto! Chi parla?", "ar": "ألو! من يتكلم؟" },
+            { "speaker": "A", "name": "المتصل", "it": "Sono Luca. C'è Maria?", "ar": "أنا لوكا. هل ماريا موجودة؟" },
+            { "speaker": "B", "name": "المستقبل", "it": "Sì, un momento.", "ar": "نعم، لحظة." },
+            { "speaker": "A", "name": "المتصل", "it": "Ciao Maria! Come stai?", "ar": "مرحباً ماريا! كيف حالك؟" },
+            { "speaker": "B", "name": "ماريا", "it": "Ciao Luca! Bene, grazie. E tu?", "ar": "مرحباً لوكا! بخير، شكراً. وأنت؟" },
+            { "speaker": "A", "name": "المتصل", "it": "Tutto bene! Ci vediamo domani?", "ar": "كل شيء بخير! نتقابل غداً؟" },
+            { "speaker": "B", "name": "ماريا", "it": "Sì, a domani!", "ar": "نعم، إلى الغد!" }
+        ]
+    },
+    {
+        "id": "weather",
+        "title": "الطقس",
+        "icon": "cloud-sun",
+        "dialogue": [
+            { "speaker": "A", "name": "أحمد", "it": "Che tempo fa oggi?", "ar": "كيف الطقس اليوم؟" },
+            { "speaker": "B", "name": "جوليا", "it": "Oggi fa bel tempo. C'è il sole.", "ar": "اليوم الطقس جميل. الشمس مشرقة." },
+            { "speaker": "A", "name": "أحمد", "it": "Fa caldo?", "ar": "هل الجو حار؟" },
+            { "speaker": "B", "name": "جوليا", "it": "No, fa fresco. Ci sono venti gradi.", "ar": "لا، الجو منعش. عشرون درجة." },
+            { "speaker": "A", "name": "أحمد", "it": "E domani?", "ar": "وغداً؟" },
+            { "speaker": "B", "name": "جوليا", "it": "Domani piove.", "ar": "غداً ستمطر." },
+            { "speaker": "A", "name": "أحمد", "it": "Allora porto l'ombrello!", "ar": "إذاً سأحضر المظلة!" }
+        ]
+    },
+    {
+        "id": "family",
+        "title": "العائلة",
+        "icon": "home",
+        "dialogue": [
+            { "speaker": "A", "name": "ليلى", "it": "Hai fratelli o sorelle?", "ar": "هل لديك إخوة أو أخوات؟" },
+            { "speaker": "B", "name": "ماتيو", "it": "Sì, ho un fratello e una sorella.", "ar": "نعم، لدي أخ وأخت." },
+            { "speaker": "A", "name": "ليلى", "it": "Quanti anni hanno?", "ar": "كم عمرهم؟" },
+            { "speaker": "B", "name": "ماتيو", "it": "Mio fratello ha venti anni. Mia sorella ha quindici anni.", "ar": "أخي عمره عشرون سنة. أختي عمرها خمس عشرة سنة." },
+            { "speaker": "A", "name": "ليلى", "it": "E i tuoi genitori?", "ar": "ووالداك؟" },
+            { "speaker": "B", "name": "ماتيو", "it": "Mia madre è insegnante. Mio padre è medico.", "ar": "أمي معلمة. أبي طبيب." },
+            { "speaker": "A", "name": "ليلى", "it": "Che bella famiglia!", "ar": "يا لها من عائلة جميلة!" }
+        ]
+    },
+    {
+        "id": "shopping-clothes",
+        "title": "شراء الملابس",
+        "icon": "tshirt",
+        "dialogue": [
+            { "speaker": "A", "name": "الزبون", "it": "Buongiorno! Cerco una maglietta.", "ar": "صباح الخير! أبحث عن قميص." },
+            { "speaker": "B", "name": "البائع", "it": "Di che colore?", "ar": "بأي لون؟" },
+            { "speaker": "A", "name": "الزبون", "it": "Blu o bianca.", "ar": "أزرق أو أبيض." },
+            { "speaker": "B", "name": "البائع", "it": "Che taglia porta?", "ar": "ما مقاسك؟" },
+            { "speaker": "A", "name": "الزبون", "it": "Media.", "ar": "متوسط." },
+            { "speaker": "B", "name": "البائع", "it": "Ecco, questa è bella.", "ar": "تفضل، هذا جميل." },
+            { "speaker": "A", "name": "الزبون", "it": "Posso provarla?", "ar": "هل يمكنني تجربتها؟" },
+            { "speaker": "B", "name": "البائع", "it": "Certo! Il camerino è là.", "ar": "بالتأكيد! غرفة القياس هناك." }
+        ]
+    },
+    {
+        "id": "time",
+        "title": "الوقت والمواعيد",
+        "icon": "clock",
+        "dialogue": [
+            { "speaker": "A", "name": "كريم", "it": "Scusa, che ore sono?", "ar": "عفواً، كم الساعة؟" },
+            { "speaker": "B", "name": "فرانشيسكا", "it": "Sono le tre e mezza.", "ar": "الثالثة والنصف." },
+            { "speaker": "A", "name": "كريم", "it": "Grazie! A che ora apre il negozio?", "ar": "شكراً! في أي ساعة يفتح المحل؟" },
+            { "speaker": "B", "name": "فرانشيسكا", "it": "Apre alle nove di mattina.", "ar": "يفتح في التاسعة صباحاً." },
+            { "speaker": "A", "name": "كريم", "it": "E a che ora chiude?", "ar": "ومتى يغلق؟" },
+            { "speaker": "B", "name": "فرانشيسكا", "it": "Chiude alle otto di sera.", "ar": "يغلق في الثامنة مساءً." },
+            { "speaker": "A", "name": "كريم", "it": "Perfetto, grazie mille!", "ar": "ممتاز، شكراً جزيلاً!" }
+        ]
+    },
+    {
+        "id": "work",
+        "title": "العمل والمهنة",
+        "icon": "briefcase",
+        "dialogue": [
+            { "speaker": "A", "name": "أنطونيو", "it": "Che lavoro fai?", "ar": "ماذا تعمل؟" },
+            { "speaker": "B", "name": "نور", "it": "Sono ingegnere. E tu?", "ar": "أنا مهندس. وأنت؟" },
+            { "speaker": "A", "name": "أنطونيو", "it": "Io sono cuoco.", "ar": "أنا طباخ." },
+            { "speaker": "B", "name": "نور", "it": "Che bello! Dove lavori?", "ar": "رائع! أين تعمل؟" },
+            { "speaker": "A", "name": "أنطونيو", "it": "Lavoro in un ristorante in centro.", "ar": "أعمل في مطعم في المركز." },
+            { "speaker": "B", "name": "نور", "it": "Ti piace il tuo lavoro?", "ar": "هل يعجبك عملك؟" },
+            { "speaker": "A", "name": "أنطونيو", "it": "Sì, molto! Amo cucinare.", "ar": "نعم، كثيراً! أحب الطبخ." }
+        ]
+    },
+    {
+        "id": "hobbies",
+        "title": "الهوايات",
+        "icon": "football-ball",
+        "dialogue": [
+            { "speaker": "A", "name": "سلمى", "it": "Cosa fai nel tempo libero?", "ar": "ماذا تفعل في وقت الفراغ؟" },
+            { "speaker": "B", "name": "لوكا", "it": "Mi piace leggere e ascoltare musica.", "ar": "أحب القراءة والاستماع للموسيقى." },
+            { "speaker": "A", "name": "سلمى", "it": "Che tipo di musica?", "ar": "أي نوع من الموسيقى؟" },
+            { "speaker": "B", "name": "لوكا", "it": "La musica italiana. E tu?", "ar": "الموسيقى الإيطالية. وأنتِ؟" },
+            { "speaker": "A", "name": "سلمى", "it": "A me piace nuotare e viaggiare.", "ar": "أنا أحب السباحة والسفر." },
+            { "speaker": "B", "name": "لوكا", "it": "Viaggi spesso?", "ar": "هل تسافرين كثيراً؟" },
+            { "speaker": "A", "name": "سلمى", "it": "Sì, ogni estate.", "ar": "نعم، كل صيف." }
+        ]
+    },
+    {
+        "id": "daily-routine",
+        "title": "الروتين اليومي",
+        "icon": "sun",
+        "dialogue": [
+            { "speaker": "A", "name": "مريم", "it": "A che ora ti svegli?", "ar": "في أي ساعة تستيقظ؟" },
+            { "speaker": "B", "name": "باولو", "it": "Mi sveglio alle sette.", "ar": "أستيقظ في السابعة." },
+            { "speaker": "A", "name": "مريم", "it": "Cosa fai la mattina?", "ar": "ماذا تفعل صباحاً؟" },
+            { "speaker": "B", "name": "باولو", "it": "Faccio colazione e vado al lavoro.", "ar": "أتناول الفطور وأذهب للعمل." },
+            { "speaker": "A", "name": "مريم", "it": "A che ora pranzi?", "ar": "في أي ساعة تتغدى؟" },
+            { "speaker": "B", "name": "باولو", "it": "Pranzo all'una.", "ar": "أتغدى في الواحدة." },
+            { "speaker": "A", "name": "مريم", "it": "E la sera?", "ar": "والمساء؟" },
+            { "speaker": "B", "name": "باولو", "it": "Ceno alle otto e guardo la TV.", "ar": "أتعشى في الثامنة وأشاهد التلفاز." }
+        ]
+    },
+    {
+        "id": "doctor",
+        "title": "عند الطبيب",
+        "icon": "user-md",
+        "dialogue": [
+            { "speaker": "A", "name": "الطبيب", "it": "Buongiorno! Come si sente?", "ar": "صباح الخير! كيف تشعر؟" },
+            { "speaker": "B", "name": "المريض", "it": "Non mi sento bene. Ho la febbre.", "ar": "لا أشعر بخير. عندي حرارة." },
+            { "speaker": "A", "name": "الطبيب", "it": "Da quanto tempo?", "ar": "منذ متى؟" },
+            { "speaker": "B", "name": "المريض", "it": "Da due giorni.", "ar": "منذ يومين." },
+            { "speaker": "A", "name": "الطبيب", "it": "Ha altri sintomi?", "ar": "هل لديك أعراض أخرى؟" },
+            { "speaker": "B", "name": "المريض", "it": "Sì, ho mal di gola.", "ar": "نعم، عندي ألم في الحلق." },
+            { "speaker": "A", "name": "الطبيب", "it": "Le scrivo una ricetta.", "ar": "سأكتب لك وصفة طبية." },
+            { "speaker": "B", "name": "المريض", "it": "Grazie, dottore.", "ar": "شكراً يا دكتور." }
+        ]
+    },
+    {
+        "id": "bank",
+        "title": "في البنك",
+        "icon": "university",
+        "dialogue": [
+            { "speaker": "A", "name": "العميل", "it": "Buongiorno! Vorrei aprire un conto.", "ar": "صباح الخير! أريد فتح حساب." },
+            { "speaker": "B", "name": "الموظف", "it": "Buongiorno! Ha un documento?", "ar": "صباح الخير! هل لديك وثيقة هوية؟" },
+            { "speaker": "A", "name": "العميل", "it": "Sì, ecco il passaporto.", "ar": "نعم، تفضل جواز السفر." },
+            { "speaker": "B", "name": "الموظف", "it": "Grazie. Compili questo modulo.", "ar": "شكراً. املأ هذا النموذج." },
+            { "speaker": "A", "name": "العميل", "it": "Posso avere anche una carta?", "ar": "هل يمكنني الحصول على بطاقة أيضاً؟" },
+            { "speaker": "B", "name": "الموظف", "it": "Sì, certo. Arriva tra una settimana.", "ar": "نعم، بالتأكيد. تصل خلال أسبوع." }
+        ]
+    },
+    {
+        "id": "post-office",
+        "title": "في مكتب البريد",
+        "icon": "envelope",
+        "dialogue": [
+            { "speaker": "A", "name": "العميل", "it": "Buongiorno! Vorrei spedire questa lettera.", "ar": "صباح الخير! أريد إرسال هذه الرسالة." },
+            { "speaker": "B", "name": "الموظف", "it": "Dove va?", "ar": "إلى أين؟" },
+            { "speaker": "A", "name": "العميل", "it": "In Egitto.", "ar": "إلى مصر." },
+            { "speaker": "B", "name": "الموظف", "it": "Costa tre euro e cinquanta.", "ar": "تكلف ثلاثة يورو ونصف." },
+            { "speaker": "A", "name": "العميل", "it": "Quanto tempo ci vuole?", "ar": "كم تستغرق من الوقت؟" },
+            { "speaker": "B", "name": "الموظف", "it": "Circa una settimana.", "ar": "حوالي أسبوع." },
+            { "speaker": "A", "name": "العميل", "it": "Va bene. Ecco i soldi.", "ar": "حسناً. تفضل المال." }
+        ]
+    },
+    {
+        "id": "invitation",
+        "title": "دعوة لحفلة",
+        "icon": "gift",
+        "dialogue": [
+            { "speaker": "A", "name": "كارلا", "it": "Ciao! Sabato faccio una festa.", "ar": "مرحباً! السبت سأقيم حفلة." },
+            { "speaker": "B", "name": "عمر", "it": "Che bello! Per quale occasione?", "ar": "رائع! بأي مناسبة؟" },
+            { "speaker": "A", "name": "كارلا", "it": "È il mio compleanno!", "ar": "إنه عيد ميلادي!" },
+            { "speaker": "B", "name": "عمر", "it": "Auguri! A che ora?", "ar": "مبروك! في أي ساعة؟" },
+            { "speaker": "A", "name": "كارلا", "it": "Alle otto di sera. Vieni?", "ar": "في الثامنة مساءً. هل تأتي؟" },
+            { "speaker": "B", "name": "عمر", "it": "Sì, certo! Dove?", "ar": "نعم، بالتأكيد! أين؟" },
+            { "speaker": "A", "name": "كارلا", "it": "A casa mia. Ti mando l'indirizzo.", "ar": "في بيتي. سأرسل لك العنوان." },
+            { "speaker": "B", "name": "عمر", "it": "Perfetto! A sabato!", "ar": "ممتاز! إلى السبت!" }
+        ]
+    },
+    {
+        "id": "emergency",
+        "title": "حالة طوارئ",
+        "icon": "exclamation-triangle",
+        "dialogue": [
+            { "speaker": "A", "name": "المتصل", "it": "Pronto? Ho bisogno di aiuto!", "ar": "ألو؟ أحتاج مساعدة!" },
+            { "speaker": "B", "name": "عامل الطوارئ", "it": "Cosa è successo?", "ar": "ماذا حدث؟" },
+            { "speaker": "A", "name": "المتصل", "it": "C'è stato un incidente.", "ar": "حدث حادث." },
+            { "speaker": "B", "name": "عامل الطوارئ", "it": "Dove si trova?", "ar": "أين أنت؟" },
+            { "speaker": "A", "name": "المتصل", "it": "In via Roma, numero dieci.", "ar": "في شارع روما، رقم عشرة." },
+            { "speaker": "B", "name": "عامل الطوارئ", "it": "Ci sono feriti?", "ar": "هل يوجد مصابون؟" },
+            { "speaker": "A", "name": "المتصل", "it": "Sì, una persona.", "ar": "نعم، شخص واحد." },
+            { "speaker": "B", "name": "عامل الطوارئ", "it": "Arriviamo subito. Resti in linea.", "ar": "سنصل حالاً. ابق على الخط." }
+        ]
+    }
+]
