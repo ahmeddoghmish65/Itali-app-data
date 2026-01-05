@@ -1,0 +1,107 @@
+[
+  {
+    "id": "directions_transport",
+    "title": "الاتجاهات والمواصلات",
+    "icon": "map",
+    "phrases": [
+      { "it": "Scusi, come posso arrivare alla stazione?", "ar": "عفواً، كيف يمكنني الوصول إلى المحطة؟", "phonetic": "/ˈskuzi ˈkome ˈpɔsso arriˈvare alla statsjoˈne/" },
+      { "it": "È lontano da qui?", "ar": "هل هو بعيد من هنا؟", "phonetic": "/ɛ lonˈtano da kwi/" },
+      { "it": "Devo girare a destra o a sinistra?", "ar": "هل يجب أن أنعطف يميناً أم يساراً؟", "phonetic": "/ˈdevo dʒiˈrare a ˈdestra o a siˈnistra/" },
+      { "it": "Mi può indicare la strada, per favore?", "ar": "هل يمكنك أن تدلّني على الطريق، من فضلك؟", "phonetic": "/mi pwɔ indiˈkare la ˈstrada per faˈvore/" },
+      { "it": "Dov'è la fermata dell'autobus più vicina?", "ar": "أين أقرب موقف حافلة؟", "phonetic": "/doˈvɛ la ferˈmata delˈlautoˌbus pju viˈtʃina/" },
+      { "it": "A che ora passa il prossimo autobus?", "ar": "في أي ساعة تمرّ الحافلة القادمة؟", "phonetic": "/a ke ˈɔra ˈpassa il ˈprɔssimo ˈautobus/" },
+      { "it": "Vorrei un biglietto per Roma, solo andata.", "ar": "أريد تذكرة إلى روما، ذهاب فقط.", "phonetic": "/vorˈrɛi un biʎˈʎetto per ˈroma ˈsolo anˈdata/" },
+      { "it": "Vorrei un biglietto andata e ritorno.", "ar": "أريد تذكرة ذهاب وإياب.", "phonetic": "/vorˈrɛi un biʎˈʎetto anˈdata e riˈtorno/" },
+      { "it": "Da quale binario parte il treno?", "ar": "من أي رصيف ينطلق القطار؟", "phonetic": "/da ˈkwale biˈnarjo ˈparte il ˈtrɛno/" },
+      { "it": "Questo treno ferma a Firenze?", "ar": "هل يتوقف هذا القطار في فلورنسا؟", "phonetic": "/ˈkwesto ˈtrɛno ˈferma a fiˈrɛntse/" }
+    ]
+  },
+  {
+    "id": "phone_internet",
+    "title": "الهاتف والإنترنت",
+    "icon": "phone",
+    "phrases": [
+      { "it": "Non c'è campo qui.", "ar": "لا توجد شبكة هنا.", "phonetic": "/non tʃɛ ˈkampo kwi/" },
+      { "it": "Può ripetere, per favore?", "ar": "هل يمكنك الإعادة، من فضلك؟", "phonetic": "/pwɔ ripeˈtere per faˈvore/" },
+      { "it": "Non ho capito bene.", "ar": "لم أفهم جيداً.", "phonetic": "/non ɔ kaˈpito ˈbɛne/" },
+      { "it": "Mi manda un messaggio?", "ar": "هل ترسل لي رسالة؟", "phonetic": "/mi ˈmanda un mesˈsadʒdʒo/" },
+      { "it": "Mi può dare il Wi‑Fi?", "ar": "هل يمكنك إعطائي الواي فاي؟", "phonetic": "/mi pwɔ ˈdare il ˈwaiˌfai/" },
+      { "it": "Qual è la password del Wi‑Fi?", "ar": "ما كلمة مرور الواي فاي؟", "phonetic": "/kwal ɛ la ˈpasˌswɔrd del ˈwaiˌfai/" }
+    ]
+  },
+  {
+    "id": "appointments_time",
+    "title": "المواعيد والوقت",
+    "icon": "clock",
+    "phrases": [
+      { "it": "A che ora ci vediamo?", "ar": "في أي ساعة نلتقي؟", "phonetic": "/a ke ˈɔra tʃi veˈdjaːmo/" },
+      { "it": "Sono in ritardo di dieci minuti.", "ar": "أنا متأخر عشر دقائق.", "phonetic": "/ˈsono in riˈtardo di ˈdjɛtʃi miˈnuti/" },
+      { "it": "Possiamo spostare l'appuntamento?", "ar": "هل يمكننا تأجيل/تغيير الموعد؟", "phonetic": "/posˈsjamo spoˈstare lappuntaˈmento/" },
+      { "it": "Ci vediamo domani mattina.", "ar": "نلتقي غداً صباحاً.", "phonetic": "/tʃi veˈdjaːmo doˈmani matˈtina/" },
+      { "it": "Va bene per te alle cinque?", "ar": "هل يناسبك الساعة الخامسة؟", "phonetic": "/va ˈbɛne per te alle ˈtʃiŋkwe/" },
+      { "it": "Ho bisogno di più tempo.", "ar": "أحتاج وقتاً أكثر.", "phonetic": "/ɔ biˈzɔɲɲo di pju ˈtɛmpo/" }
+    ]
+  },
+  {
+    "id": "health_pharmacy",
+    "title": "الصحة والصيدلية",
+    "icon": "heart",
+    "phrases": [
+      { "it": "Non mi sento bene.", "ar": "لا أشعر أنني بخير.", "phonetic": "/non mi ˈsɛnto ˈbɛne/" },
+      { "it": "Ho mal di testa.", "ar": "عندي صداع.", "phonetic": "/ɔ mal di ˈtɛsta/" },
+      { "it": "Ho la febbre.", "ar": "عندي حرارة.", "phonetic": "/ɔ la ˈfɛbbre/" },
+      { "it": "Mi serve una farmacia.", "ar": "أحتاج صيدلية.", "phonetic": "/mi ˈsɛrve una farˈmatʃa/" },
+      { "it": "C'è una farmacia aperta?", "ar": "هل هناك صيدلية مفتوحة؟", "phonetic": "/tʃɛ una farˈmatʃa aˈpɛrta/" },
+      { "it": "Sono allergico/a a...", "ar": "لدي حساسية من...", "phonetic": "/ˈsono alˈlɛrdʒiko a a/" },
+      { "it": "Può chiamare un medico?", "ar": "هل يمكنك الاتصال بطبيب؟", "phonetic": "/pwɔ kjaˈmare un ˈmɛdiko/" }
+    ]
+  },
+  {
+    "id": "home_rent",
+    "title": "المنزل والسكن",
+    "icon": "home",
+    "phrases": [
+      { "it": "C'è l'ascensore?", "ar": "هل يوجد مصعد؟", "phonetic": "/tʃɛ lasʃenˈsore/" },
+      { "it": "Il riscaldamento non funziona.", "ar": "التدفئة لا تعمل.", "phonetic": "/il risˌkaldˈmento non funˈtsjona/" },
+      { "it": "L'acqua calda non c'è.", "ar": "لا توجد مياه ساخنة.", "phonetic": "/ˈlakwa ˈkalda non tʃɛ/" },
+      { "it": "Può venire a controllare, per favore?", "ar": "هل يمكنك أن تأتي لتفقد الأمر، من فضلك؟", "phonetic": "/pwɔ veˈnire a kontrolˈlare per faˈvore/" },
+      { "it": "Vorrei cambiare stanza.", "ar": "أريد تغيير الغرفة.", "phonetic": "/vorˈrɛi kamˈbjare ˈstantsa/" },
+      { "it": "Dov'è il supermercato più vicino?", "ar": "أين أقرب سوبرماركت؟", "phonetic": "/doˈvɛ il supermerˈkato pju viˈtʃino/" }
+    ]
+  },
+  {
+    "id": "work_study",
+    "title": "العمل والدراسة",
+    "icon": "briefcase",
+    "phrases": [
+      { "it": "Devo imparare l'italiano per il lavoro.", "ar": "يجب أن أتعلم الإيطالية للعمل.", "phonetic": "/ˈdevo imparˈrare litaˈljaːno per il laˈvoro/" },
+      { "it": "Può parlare più lentamente?", "ar": "هل يمكنك التحدث ببطء أكثر؟", "phonetic": "/pwɔ parˈlare pju lentaˈmente/" },
+      { "it": "Come si dice ... in italiano?", "ar": "كيف نقول ... بالإيطالية؟", "phonetic": "/ˈkome si ˈditʃe in itaˈljaːno/" },
+      { "it": "Può scriverlo, per favore?", "ar": "هل يمكنك كتابتها/كتابته، من فضلك؟", "phonetic": "/pwɔ ˈskrivɛrlo per faˈvore/" },
+      { "it": "Ho una riunione alle tre.", "ar": "لدي اجتماع الساعة الثالثة.", "phonetic": "/ɔ una rjuˈnjone alle ˈtre/" },
+      { "it": "Le mando l'email oggi.", "ar": "سأرسل لك الإيميل اليوم.", "phonetic": "/le ˈmando leˈmail ˈoddʒi/" }
+    ]
+  },
+  {
+    "id": "daily_life",
+    "title": "عبارات يومية عامة",
+    "icon": "message-circle",
+    "phrases": [
+      { "it": "Che cosa stai facendo?", "ar": "ماذا تفعل الآن؟", "phonetic": "/ke ˈkɔza stai faˈtʃendo/" },
+      { "it": "Sto cercando questo indirizzo.", "ar": "أبحث عن هذا العنوان.", "phonetic": "/sto tʃerˈkando ˈkwesto indirˈittso/" },
+      { "it": "Mi può aiutare un attimo?", "ar": "هل يمكنك مساعدتي لحظة؟", "phonetic": "/mi pwɔ ajuˈtare un ˈattimo/" },
+      { "it": "Non è un problema.", "ar": "لا مشكلة.", "phonetic": "/non ɛ un proˈblɛma/" },
+      { "it": "Hai ragione.", "ar": "معك حق.", "phonetic": "/ai raˈdʒone/" },
+      { "it": "Non importa.", "ar": "لا يهم.", "phonetic": "/non imˈpɔrta/" },
+      { "it": "Dipende.", "ar": "يعتمد.", "phonetic": "/diˈpɛnde/" },
+      { "it": "Come mai?", "ar": "لماذا/كيف ذلك؟", "phonetic": "/ˈkome ˈmai/" },
+      { "it": "Sono d'accordo.", "ar": "أنا موافق.", "phonetic": "/ˈsono dakˈkɔrdo/" },
+      { "it": "Non sono d'accordo.", "ar": "أنا غير موافق.", "phonetic": "/non ˈsono dakˈkɔrdo/" },
+      { "it": "Mi fa piacere.", "ar": "يسعدني ذلك.", "phonetic": "/mi fa pjaˈtʃere/" },
+      { "it": "Che ne pensi?", "ar": "ما رأيك؟", "phonetic": "/ke ne ˈpɛnsi/" },
+      { "it": "Ho dimenticato.", "ar": "نسيت.", "phonetic": "/ɔ dimenˈtikato/" },
+      { "it": "Me lo puoi ricordare?", "ar": "هل يمكنك تذكيري به؟", "phonetic": "/me lo pwɔi rikorˈdare/" },
+      { "it": "Sono stanco/a.", "ar": "أنا متعب/ة.", "phonetic": "/ˈsono ˈstaŋko a/" }
+    ]
+  }
+]
