@@ -1,0 +1,79 @@
+[
+  {
+    "id": "b1_conversation_opinions",
+    "title": "محادثة وآراء",
+    "icon": "message-square",
+    "phrases": [
+      { "it": "Secondo me, è una buona idea.", "ar": "برأيي، هذه فكرة جيدة.", "phonetic": "/seˈkondo me ɛ ˈuna ˈbwɔna iˈdɛa/" },
+      { "it": "Da un lato hai ragione, ma dall'altro no.", "ar": "من جهة معك حق، لكن من جهة أخرى لا.", "phonetic": "/da un ˈlato ai raˈdʒone ma dalˈlaltro nɔ/" },
+      { "it": "Non sono del tutto convinto/a.", "ar": "لست مقتنعاً/ة تماماً.", "phonetic": "/non ˈsono del ˈtutto konˈvinto a/" },
+      { "it": "Dipende dal punto di vista.", "ar": "يعتمد على وجهة النظر.", "phonetic": "/diˈpɛnde dal ˈpunto di ˈvista/" },
+      { "it": "Se fossi in te, farei così.", "ar": "لو كنت مكانك لفعلت هكذا.", "phonetic": "/se ˈfɔssi in te faˈrɛi koˈzi/" },
+      { "it": "Preferirei parlarne di persona.", "ar": "أفضل أن نتحدث عن ذلك وجهاً لوجه.", "phonetic": "/prefeˈrirɛi parˈlarne di perˈsona/" },
+      { "it": "Non volevo offenderti.", "ar": "لم أقصد أن أسيء لك.", "phonetic": "/non voˈlɛvo offɛnˈderti/" },
+      { "it": "Mi sono spiegato/a male.", "ar": "شرحتُ الأمر بشكل غير جيد.", "phonetic": "/mi ˈsono spjeˈɡato a ˈmale/" },
+      { "it": "In altre parole, intendo dire che...", "ar": "بعبارة أخرى، أقصد أن...", "phonetic": "/in ˈaltre paˈrɔle inˈtɛndo ˈdire ke/" },
+      { "it": "Per quanto ne so, funziona così.", "ar": "على حد علمي، الأمر يعمل هكذا.", "phonetic": "/per ˈkwanto ne sɔ funˈtsjona koˈzi/" }
+    ]
+  },
+  {
+    "id": "b1_work_study_formal",
+    "title": "العمل والدراسة بصيغة أكثر رسمية",
+    "icon": "briefcase",
+    "phrases": [
+      { "it": "Le scrivo per chiederLe un'informazione.", "ar": "أكتب لك لطلب معلومة.", "phonetic": "/le ˈskrivo per ˈkjɛderle uninfɔrmatˈtsjone/" },
+      { "it": "In allegato trova i documenti.", "ar": "ستجد/ين في المرفقات المستندات.", "phonetic": "/in alleˈɡato ˈtrɔva i doˈkutʃmenti/" },
+      { "it": "Potrebbe confermarmi l'appuntamento?", "ar": "هل يمكن أن تؤكد/ي لي الموعد؟", "phonetic": "/poˈtrɛbbe konferˈmarmi lappuntaˈmento/" },
+      { "it": "Mi scusi per il ritardo.", "ar": "أعتذر عن التأخر.", "phonetic": "/mi ˈskuzi per il riˈtardo/" },
+      { "it": "Possiamo fissare una call per domani?", "ar": "هل يمكننا تحديد مكالمة (أونلاين) للغد؟", "phonetic": "/posˈsjamo fisˈsare ˈuna kɔl per doˈmani/" },
+      { "it": "Le va bene se ne parliamo più tardi?", "ar": "هل يناسبك إن تحدثنا عن ذلك لاحقاً؟", "phonetic": "/le va ˈbɛne se ne parˈljaːmo pju ˈtardi/" },
+      { "it": "Sto lavorando a questa pratica.", "ar": "أعمل على هذه المعاملة/الملف.", "phonetic": "/sto lavoˈrando a ˈkwesta ˈpratika/" },
+      { "it": "Mi manca un'informazione.", "ar": "تنقصني معلومة.", "phonetic": "/mi ˈmaŋka uninfɔrmatˈtsjone/" }
+    ]
+  },
+  {
+    "id": "b1_travel_services",
+    "title": "السفر والخدمات",
+    "icon": "train",
+    "phrases": [
+      { "it": "Vorrei cambiare la prenotazione.", "ar": "أريد تغيير الحجز.", "phonetic": "/vorˈrɛi kamˈbjare la prenotatˈtsjone/" },
+      { "it": "C'è un supplemento da pagare?", "ar": "هل هناك مبلغ إضافي يجب دفعه؟", "phonetic": "/tʃɛ un suppleˈmento da paˈɡare/" },
+      { "it": "Mi hanno cancellato il volo.", "ar": "تم إلغاء رحلتي.", "phonetic": "/mi ˈanno kanʧelˈlato il ˈvɔlo/" },
+      { "it": "Ho perso la coincidenza.", "ar": "فاتتني الرحلة/الوصلة.", "phonetic": "/ɔ ˈpɛrso la koinʧiˈdɛntsa/" },
+      { "it": "Potrebbe consigliarmi un posto tipico?", "ar": "هل يمكنك أن تنصحني بمكان شعبي/تقليدي؟", "phonetic": "/poˈtrɛbbe konsiʎˈʎarmi un ˈpɔsto ˈtipiko/" },
+      { "it": "È incluso nel prezzo?", "ar": "هل هذا ضمن السعر؟", "phonetic": "/ɛ inˈkluːzo nel ˈprɛttso/" },
+      { "it": "Dove posso fare il check-in?", "ar": "أين يمكنني عمل تسجيل الدخول؟", "phonetic": "/ˈdove ˈpɔsso ˈfare il ˈtʃɛk in/" },
+      { "it": "A che ora è il check-out?", "ar": "في أي ساعة تسجيل الخروج؟", "phonetic": "/a ke ˈɔra ɛ il ˈtʃɛk aut/" }
+    ]
+  },
+  {
+    "id": "b1_health_emergencies",
+    "title": "الصحة والطوارئ",
+    "icon": "shield",
+    "phrases": [
+      { "it": "Mi fa male da ieri.", "ar": "يؤلمني منذ أمس.", "phonetic": "/mi fa ˈmale da ˈjɛri/" },
+      { "it": "Ho preso questo farmaco, ma non passa.", "ar": "أخذت هذا الدواء لكن لم يتحسن.", "phonetic": "/ɔ ˈprɛzo ˈkwesto ˈfarmako ma non ˈpassa/" },
+      { "it": "Potrebbe essere qualcosa di serio?", "ar": "هل يمكن أن يكون شيئاً خطيراً؟", "phonetic": "/poˈtrɛbbe ˈessere ˈkwalkoza di ˈsɛrjo/" },
+      { "it": "Mi serve un certificato medico.", "ar": "أحتاج شهادة طبية.", "phonetic": "/mi ˈsɛrve un ʧertifiˈkato ˈmɛdiko/" },
+      { "it": "Ho un'assicurazione sanitaria.", "ar": "لدي تأمين صحي.", "phonetic": "/ɔ unassiˌkuratˈtsjone saniˈtarja/" },
+      { "it": "Può chiamare un'ambulanza?", "ar": "هل يمكنك الاتصال بالإسعاف؟", "phonetic": "/pwɔ kjaˈmare unambuˈlantsa/" }
+    ]
+  },
+  {
+    "id": "b1_daily_life_problems",
+    "title": "مشاكل يومية وحلول",
+    "icon": "tool",
+    "phrases": [
+      { "it": "Non mi funziona la carta.", "ar": "بطاقتي لا تعمل.", "phonetic": "/non mi funˈtsjona la ˈkarta/" },
+      { "it": "Mi si è rotto il telefono.", "ar": "انكسر هاتفي.", "phonetic": "/mi si ɛ ˈrɔtto il teˈlɛfono/" },
+      { "it": "Ho fatto un reclamo.", "ar": "قدّمت شكوى.", "phonetic": "/ɔ ˈfatto un reˈklamo/" },
+      { "it": "Potrebbe controllare di nuovo?", "ar": "هل يمكنك أن تتحقق مرة أخرى؟", "phonetic": "/poˈtrɛbbe kontrolˈlare di ˈnuovo/" },
+      { "it": "Mi hanno fatto pagare due volte.", "ar": "جعلوني أدفع مرتين.", "phonetic": "/mi ˈanno ˈfatto paˈɡare ˈdue ˈvɔlte/" },
+      { "it": "Vorrei parlare con il responsabile.", "ar": "أريد التحدث مع المسؤول.", "phonetic": "/vorˈrɛi parˈlare kon il responsaˈbile/" },
+      { "it": "Possiamo trovare un accordo?", "ar": "هل يمكننا التوصل لاتفاق؟", "phonetic": "/posˈsjamo troˈvare un akˈkɔrdo/" },
+      { "it": "Mi può fare uno sconto?", "ar": "هل يمكنك عمل خصم لي؟", "phonetic": "/mi pwɔ ˈfare ˈuno ˈskonto/" },
+      { "it": "Mi conviene farlo online.", "ar": "الأفضل لي أن أفعله أونلاين.", "phonetic": "/mi konˈvjɛne ˈfarlo onˈline/" },
+      { "it": "Mi sono perso/a, può aiutarmi?", "ar": "توهت، هل يمكنك مساعدتي؟", "phonetic": "/mi ˈsono ˈpɛrso a pwɔ ajuˈtarmi/" }
+    ]
+  }
+]
