@@ -126,7 +126,7 @@
       { "speaker": "A", "name": "الزبون", "it": "Sì, grazie. Dov'è il camerino?", "ar": "نعم، شكراً. أين غرفة القياس؟" },
       { "speaker": "B", "name": "البائع", "it": "Il camerino è lì.", "ar": "غرفة القياس هناك." }
     ]
-  },
+  }, 
   {
     "id": "post_office",
     "title": "في مكتب البريد",
