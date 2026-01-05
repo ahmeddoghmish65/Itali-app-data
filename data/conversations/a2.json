@@ -1,31 +1,5 @@
 [
   {
-    "id": "meeting",
-    "title": "التعارف",
-    "icon": "users",
-    "dialogue": [
-      { "speaker": "A", "name": "ماركو", "it": "Ciao! Come ti chiami?", "ar": "مرحباً! ما اسمك؟" },
-      { "speaker": "B", "name": "سارة", "it": "Ciao! Mi chiamo Sara. E tu?", "ar": "مرحباً! اسمي سارة. وأنت؟" },
-      { "speaker": "A", "name": "ماركو", "it": "Io sono Marco. Piacere!", "ar": "أنا ماركو. سعدت بلقائك!" },
-      { "speaker": "B", "name": "سارة", "it": "Piacere mio! Di dove sei?", "ar": "سعادتي أنا! من أين أنت؟" },
-      { "speaker": "A", "name": "ماركو", "it": "Sono di Roma. E tu?", "ar": "أنا من روما. وأنتِ؟" },
-      { "speaker": "B", "name": "سارة", "it": "Io sono di Milano.", "ar": "أنا من ميلانو." }
-    ]
-  },
-  {
-    "id": "cafe",
-    "title": "في المقهى",
-    "icon": "coffee",
-    "dialogue": [
-      { "speaker": "A", "name": "الزبون", "it": "Buongiorno! Un caffè, per favore.", "ar": "صباح الخير! قهوة، من فضلك." },
-      { "speaker": "B", "name": "النادل", "it": "Buongiorno! Normale o macchiato?", "ar": "صباح الخير! عادية أم بالحليب؟" },
-      { "speaker": "A", "name": "الزبون", "it": "Macchiato, grazie.", "ar": "بالحليب، شكراً." },
-      { "speaker": "B", "name": "النادل", "it": "Ecco a Lei. Sono due euro.", "ar": "تفضل. يورو اثنين." },
-      { "speaker": "A", "name": "الزبون", "it": "Ecco. Grazie mille!", "ar": "تفضل. شكراً جزيلاً!" },
-      { "speaker": "B", "name": "النادل", "it": "Prego! Buona giornata!", "ar": "عفواً! يوماً سعيداً!" }
-    ]
-  },
-  {
     "id": "rent_contract",
     "title": "عقد الإيجار",
     "icon": "file-signature",
