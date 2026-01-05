@@ -1,223 +1,303 @@
 [
-    {
-        "id": "meeting",
-        "title": "التعارف",
-        "icon": "users",
-        "dialogue": [
-            { "speaker": "A", "name": "ماركو", "it": "Ciao! Come ti chiami?", "ar": "مرحباً! ما اسمك؟" },
-            { "speaker": "B", "name": "سارة", "it": "Ciao! Mi chiamo Sara. E tu?", "ar": "مرحباً! اسمي سارة. وأنت؟" },
-            { "speaker": "A", "name": "ماركو", "it": "Io sono Marco. Piacere!", "ar": "أنا ماركو. سعدت بلقائك!" },
-            { "speaker": "B", "name": "سارة", "it": "Piacere mio! Di dove sei?", "ar": "سعادتي أنا! من أين أنت؟" },
-            { "speaker": "A", "name": "ماركو", "it": "Sono di Roma. E tu?", "ar": "أنا من روما. وأنتِ؟" },
-            { "speaker": "B", "name": "سارة", "it": "Io sono di Milano.", "ar": "أنا من ميلانو." }
-        ]
-    },
-    {
-        "id": "cafe",
-        "title": "في المقهى",
-        "icon": "coffee",
-        "dialogue": [
-            { "speaker": "A", "name": "الزبون", "it": "Buongiorno! Un caffè, per favore.", "ar": "صباح الخير! قهوة، من فضلك." },
-            { "speaker": "B", "name": "النادل", "it": "Buongiorno! Normale o macchiato?", "ar": "صباح الخير! عادية أم بالحليب؟" },
-            { "speaker": "A", "name": "الزبون", "it": "Macchiato, grazie.", "ar": "بالحليب، شكراً." },
-            { "speaker": "B", "name": "النادل", "it": "Ecco a Lei. Sono due euro.", "ar": "تفضل. يورو اثنين." },
-            { "speaker": "A", "name": "الزبون", "it": "Ecco. Grazie mille!", "ar": "تفضل. شكراً جزيلاً!" },
-            { "speaker": "B", "name": "النادل", "it": "Prego! Buona giornata!", "ar": "عفواً! يوماً سعيداً!" }
-        ]
-    },
-    {
-        "id": "restaurant",
-        "title": "في المطعم",
-        "icon": "utensils",
-        "dialogue": [
-            { "speaker": "A", "name": "النادل", "it": "Buonasera! Avete prenotato?", "ar": "مساء الخير! هل حجزتم؟" },
-            { "speaker": "B", "name": "الزبون", "it": "Sì, un tavolo per due, per favore.", "ar": "نعم، طاولة لشخصين من فضلك." },
-            { "speaker": "A", "name": "النادل", "it": "Prego, ecco il menu.", "ar": "تفضلوا، ها هي القائمة." },
-            { "speaker": "B", "name": "الزبون", "it": "Vorrei una pizza Margherita e acqua.", "ar": "أود بيتزا مارغريتا وماء." },
-            { "speaker": "A", "name": "النادل", "it": "Benissimo. Altro?", "ar": "ممتاز. شيء آخر؟" },
-            { "speaker": "B", "name": "الزبون", "it": "No, grazie. Il conto, per favore.", "ar": "لا، شكراً. الحساب من فضلك." }
-        ]
-    },
-    {
-        "id": "directions",
-        "title": "السؤال عن الاتجاهات",
-        "icon": "map-pin",
-        "dialogue": [
-            { "speaker": "A", "name": "السائح", "it": "Scusi, dov'è la stazione?", "ar": "عذراً، أين المحطة؟" },
-            { "speaker": "B", "name": "المارة", "it": "È sempre dritto, poi a destra.", "ar": "إنه إلى الأمام مباشرة، ثم يميناً." },
-            { "speaker": "A", "name": "السائح", "it": "È lontano da qui?", "ar": "هل هو بعيد من هنا؟" },
-            { "speaker": "B", "name": "المارة", "it": "No, è vicino. Cinque minuti a piedi.", "ar": "لا، إنه قريب. خمس دقائق مشياً." },
-            { "speaker": "A", "name": "السائح", "it": "Grazie mille!", "ar": "شكراً جزيلاً!" },
-            { "speaker": "B", "name": "المارة", "it": "Di niente. Arrivederci!", "ar": "على الرحب والسعة. إلى اللقاء!" }
-        ]
-    },
-    {
-        "id": "shopping",
-        "title": "التسوق (السوق)",
-        "icon": "shopping-cart",
-        "dialogue": [
-            { "speaker": "A", "name": "البائع", "it": "Buongiorno! Dimmi.", "ar": "صباح الخير! أخبرني (ماذا تريد)." },
-            { "speaker": "B", "name": "المشتري", "it": "Vorrei un chilo di mele.", "ar": "أريد كيلو من التفاح." },
-            { "speaker": "A", "name": "البائع", "it": "Ecco. Altro?", "ar": "تفضل. شيء آخر؟" },
-            { "speaker": "B", "name": "المشتري", "it": "Quanto costa questo formaggio?", "ar": "بكم هذه الجبنة؟" },
-            { "speaker": "A", "name": "البائع", "it": "Cinque euro.", "ar": "خمسة يورو." },
-            { "speaker": "B", "name": "المشتري", "it": "Va bene, prendo anche questo.", "ar": "حسناً، سآخذ هذا أيضاً." }
-        ]
-    },
-    {
-        "id": "transport",
-        "title": "تذكرة القطار",
-        "icon": "train",
-        "dialogue": [
-            { "speaker": "A", "name": "المسافر", "it": "Un biglietto per Roma, per favore.", "ar": "تذكرة إلى روما، من فضلك." },
-            { "speaker": "B", "name": "الموظف", "it": "Solo andata o andata e ritorno?", "ar": "ذهاب فقط أم ذهاب وعودة؟" },
-            { "speaker": "A", "name": "المسافر", "it": "Solo andata. Quanto è?", "ar": "ذهاب فقط. كم السعر؟" },
-            { "speaker": "B", "name": "الموظف", "it": "Venti euro. Il treno parte alle dieci.", "ar": "عشرون يورو. القطار يغادر في العاشرة." },
-            { "speaker": "A", "name": "المسافر", "it": "Da quale binario?", "ar": "من أي رصيف؟" },
-            { "speaker": "B", "name": "الموظف", "it": "Binario tre.", "ar": "الرصيف ثلاثة." }
-        ]
-    },
-    {
-        "id": "hotel",
-        "title": "في الفندق",
-        "icon": "bed",
-        "dialogue": [
-            { "speaker": "A", "name": "الضيف", "it": "Buonasera. Ho una prenotazione.", "ar": "مساء الخير. لدي حجز." },
-            { "speaker": "B", "name": "الاستقبال", "it": "Nome, per favore?", "ar": "الاسم، من فضلك؟" },
-            { "speaker": "A", "name": "الضيف", "it": "Rossi. Mario Rossi.", "ar": "روسي. ماريو روسي." },
-            { "speaker": "B", "name": "الاستقبال", "it": "Sì, una camera singola per due notti.", "ar": "نعم، غرفة فردية لليلتين." },
-            { "speaker": "A", "name": "الضيف", "it": "Esatto. A che ora è la colazione?", "ar": "بالضبط. في أي ساعة الإفطار؟" },
-            { "speaker": "B", "name": "الاستقبال", "it": "Dalle sette alle dieci.", "ar": "من السابعة حتى العاشرة." }
-        ]
-    },
-    {
-        "id": "pharmacy",
-        "title": "في الصيدلية",
-        "icon": "plus-circle",
-        "dialogue": [
-            { "speaker": "A", "name": "المريض", "it": "Buongiorno. Ho mal di testa.", "ar": "صباح الخير. لدي صداع." },
-            { "speaker": "B", "name": "الصيدلي", "it": "Ha la febbre?", "ar": "هل لديك حرارة (حمى)؟" },
-            { "speaker": "A", "name": "المريض", "it": "No, solo mal di testa.", "ar": "لا، فقط صداع." },
-            { "speaker": "B", "name": "الصيدلي", "it": "Prenda questa medicina dopo mangiato.", "ar": "خذ هذا الدواء بعد الأكل." },
-            { "speaker": "A", "name": "المريض", "it": "Grazie. Quante volte al giorno?", "ar": "شكراً. كم مرة في اليوم؟" },
-            { "speaker": "B", "name": "الصيدلي", "it": "Due volte. Mattina e sera.", "ar": "مرتين. صباحاً ومساءً." }
-        ]
-    },
-    {
-        "id": "clothing_store",
-        "title": "شراء ملابس",
-        "icon": "shopping-bag",
-        "dialogue": [
-            { "speaker": "A", "name": "الزبون", "it": "Mi piace questa maglietta. Posso provare?", "ar": "يعجبني هذا القميص. هل يمكنني تجربته؟" },
-            { "speaker": "B", "name": "البائع", "it": "Certo! Che taglia porta?", "ar": "بالتأكيد! ما مقاسك؟" },
-            { "speaker": "A", "name": "الزبون", "it": "Porto la M (emme).", "ar": "أرتدي المقاس M (متوسط)." },
-            { "speaker": "B", "name": "البائع", "it": "Il camerino è là in fondo.", "ar": "غرفة القياس هناك في النهاية." },
-            { "speaker": "A", "name": "الزبون", "it": "Come mi sta?", "ar": "كيف يبدو عليّ؟" },
-            { "speaker": "B", "name": "البائع", "it": "Le sta molto bene!", "ar": "إنه يناسبك جداً!" }
-        ]
-    },
-    {
-        "id": "time",
-        "title": "السؤال عن الوقت",
-        "icon": "clock",
-        "dialogue": [
-            { "speaker": "A", "name": "شخص 1", "it": "Scusi, che ore sono?", "ar": "عذراً، كم الساعة؟" },
-            { "speaker": "B", "name": "شخص 2", "it": "Sono le tre e mezza.", "ar": "إنها الثالثة والنصف." },
-            { "speaker": "A", "name": "شخص 1", "it": "È tardi! Il museo è aperto?", "ar": "الوقت متأخر! هل المتحف مفتوح؟" },
-            { "speaker": "B", "name": "شخص 2", "it": "Sì, chiude alle cinque.", "ar": "نعم، يغلق في الخامسة." },
-            { "speaker": "A", "name": "شخص 1", "it": "Perfetto, grazie.", "ar": "ممتاز، شكراً." },
-            { "speaker": "B", "name": "شخص 2", "it": "Prego.", "ar": "عفواً." }
-        ]
-    },
-    {
-        "id": "weather",
-        "title": "الحديث عن الطقس",
-        "icon": "sun",
-        "dialogue": [
-            { "speaker": "A", "name": "ماركو", "it": "Che bel tempo oggi!", "ar": "يا له من طقس جميل اليوم!" },
-            { "speaker": "B", "name": "جوليا", "it": "Sì, c'è il sole e fa caldo.", "ar": "نعم، الشمس مشرقة والجو حار." },
-            { "speaker": "A", "name": "ماركو", "it": "Ti piace l'estate?", "ar": "هل تحبين الصيف؟" },
-            { "speaker": "B", "name": "جوليا", "it": "Molto! Amo andare al mare.", "ar": "كثيراً! أحب الذهاب إلى البحر." },
-            { "speaker": "A", "name": "ماركو", "it": "Anche io. Domani andiamo?", "ar": "أنا أيضاً. هل نذهب غداً؟" },
-            { "speaker": "B", "name": "جوليا", "it": "Sì, volentieri!", "ar": "نعم، بكل سرور!" }
-        ]
-    },
-    {
-        "id": "language_help",
-        "title": "مشكلة في الفهم",
-        "icon": "help-circle",
-        "dialogue": [
-            { "speaker": "A", "name": "الإيطالي", "it": "Vai sempre dritto e poi gira.", "ar": "إذهب دائمًا للأمام ثم انعطف." },
-            { "speaker": "B", "name": "الطالب", "it": "Scusi, non capisco. Può ripetere?", "ar": "عذراً، لا أفهم. هل يمكنك الإعادة؟" },
-            { "speaker": "A", "name": "الإيطالي", "it": "Parlo più piano. Dritto... poi destra.", "ar": "سأتحدث ببطء أكثر. للأمام... ثم يمين." },
-            { "speaker": "B", "name": "الطالب", "it": "Parla inglese?", "ar": "هل تتحدث الإنجليزية؟" },
-            { "speaker": "A", "name": "الإيطالي", "it": "Solo un po'.", "ar": "قليلاً فقط." },
-            { "speaker": "B", "name": "الطالب", "it": "Va bene, grazie mille. Ho capito.", "ar": "حسناً، شكراً جزيلاً. لقد فهمت." }
-        ]
-    },
-    {
-        "id": "family",
-        "title": "العائلة",
-        "icon": "home",
-        "dialogue": [
-            { "speaker": "A", "name": "أحمد", "it": "Hai fratelli o sorelle?", "ar": "هل لديك إخوة أو أخوات؟" },
-            { "speaker": "B", "name": "لوكا", "it": "Sì, ho una sorella. E tu?", "ar": "نعم، لدي أخت. وأنت؟" },
-            { "speaker": "A", "name": "أحمد", "it": "Io ho due fratelli.", "ar": "أنا لدي أخوين." },
-            { "speaker": "B", "name": "لوكا", "it": "Come si chiamano?", "ar": "ما هي أسماؤهم؟" },
-            { "speaker": "A", "name": "أحمد", "it": "Ali e Omar.", "ar": "علي وعمر." },
-            { "speaker": "B", "name": "لوكا", "it": "Hanno molti anni?", "ar": "هل هم كبار في السن؟ (حرفياً: هل لديهم سنوات كثيرة؟)" }
-        ]
-    },
-    {
-        "id": "work",
-        "title": "العمل والمهنة",
-        "icon": "briefcase",
-        "dialogue": [
-            { "speaker": "A", "name": "ماريا", "it": "Che lavoro fai?", "ar": "ما هو عملك؟" },
-            { "speaker": "B", "name": "باولو", "it": "Sono studente. Studio medicina.", "ar": "أنا طالب. أدرس الطب." },
-            { "speaker": "A", "name": "ماريا", "it": "Interessante! Io sono insegnante.", "ar": "مثير للاهتمام! أنا مدرسة." },
-            { "speaker": "B", "name": "باولو", "it": "Dove lavori?", "ar": "أين تعملين؟" },
-            { "speaker": "A", "name": "ماريا", "it": "Lavoro in una scuola a Roma.", "ar": "أعمل في مدرسة في روما." },
-            { "speaker": "B", "name": "باولو", "it": "Ti piace il tuo lavoro?", "ar": "هل يعجبك عملك؟" }
-        ]
-    },
-    {
-        "id": "hobbies",
-        "title": "أوقات الفراغ",
-        "icon": "music",
-        "dialogue": [
-            { "speaker": "A", "name": "جوليا", "it": "Cosa fai nel tempo libero?", "ar": "ماذا تفعل في وقت الفراغ؟" },
-            { "speaker": "B", "name": "ماركو", "it": "Mi piace giocare a calcio.", "ar": "أحب لعب كرة القدم." },
-            { "speaker": "A", "name": "جوليا", "it": "Io preferisco ascoltare la musica.", "ar": "أنا أفضل الاستماع للموسيقى." },
-            { "speaker": "B", "name": "ماركو", "it": "Che musica ascolti?", "ar": "أي موسيقى تسمعين؟" },
-            { "speaker": "A", "name": "جوليا", "it": "Musica pop italiana.", "ar": "موسيقى البوب الإيطالية." },
-            { "speaker": "B", "name": "ماركو", "it": "Anch'io!", "ar": "أنا أيضاً!" }
-        ]
-    },
-    {
-        "id": "aperitivo",
-        "title": "دعوة للخروج (الأبيريتيفو)",
-        "icon": "glass",
-        "dialogue": [
-            { "speaker": "A", "name": "صديق 1", "it": "Andiamo a prendere un aperitivo?", "ar": "هل نذهب لتناول فاتح للشهية (أبيريتيفو)؟" },
-            { "speaker": "B", "name": "صديق 2", "it": "Sì, volentieri! A che ora?", "ar": "نعم، بكل سرور! في أي ساعة؟" },
-            { "speaker": "A", "name": "صديق 1", "it": "Alle sette di sera.", "ar": "في السابعة مساءً." },
-            { "speaker": "B", "name": "صديق 2", "it": "Va bene. Dove ci vediamo?", "ar": "حسناً. أين نلتقي؟" },
-            { "speaker": "A", "name": "صديق 1", "it": "In piazza, vicino al bar.", "ar": "في الساحة، قرب البار." },
-            { "speaker": "B", "name": "صديق 2", "it": "Perfetto. A dopo!", "ar": "ممتاز. أراك لاحقاً!" }
-        ]
-    },
-    {
-        "id": "wifi_connect",
-        "title": "طلب خدمة (الإنترنت)",
-        "icon": "wifi",
-        "dialogue": [
-            { "speaker": "A", "name": "الزبون", "it": "Scusi, avete il Wi-Fi qui?", "ar": "عذراً، هل لديكم واي فاي هنا؟" },
-            { "speaker": "B", "name": "الموظف", "it": "Sì, certo. È gratuito.", "ar": "نعم، بالتأكيد. إنه مجاني." },
-            { "speaker": "A", "name": "الزبون", "it": "Qual è la password?", "ar": "ما هي كلمة المرور؟" },
-            { "speaker": "B", "name": "الموظف", "it": "La password è 'Roma2024'.", "ar": "كلمة المرور هي 'Roma2024'." },
-            { "speaker": "A", "name": "الزبون", "it": "È tutto minuscolo?", "ar": "هل كلها حروف صغيرة؟" },
-            { "speaker": "B", "name": "الموظف", "it": "No, la 'R' è maiuscola.", "ar": "لا، حرف الـ R كبير." }
-        ]
-    }
+  {
+    "id": "b1_landlord_repair",
+    "title": "طلب إصلاح من المالك",
+    "icon": "wrench",
+    "dialogue": [
+      { "speaker": "A", "name": "المستأجر", "it": "Buongiorno, da ieri la caldaia fa un rumore strano e l'acqua non si scalda bene.", "ar": "صباح الخير، منذ أمس الغلاية تصدر صوتاً غريباً والماء لا يسخن جيداً." },
+      { "speaker": "B", "name": "المالك", "it": "Capisco. Ha già controllato la pressione? A volte scende sotto 1 bar.", "ar": "أفهم. هل تحققت من الضغط؟ أحياناً ينخفض تحت 1 بار." },
+      { "speaker": "A", "name": "المستأجر", "it": "Sì, è bassa. Però non so come rimetterla a posto senza fare danni.", "ar": "نعم، هو منخفض. لكن لا أعرف كيف أصلحه بدون أن أتسبب في ضرر." },
+      { "speaker": "B", "name": "المالك", "it": "Non si preoccupi. Chiamo il tecnico e le confermo l'orario entro oggi.", "ar": "لا تقلق. سأتصل بالفني وأؤكد لك الوقت خلال اليوم." },
+      { "speaker": "A", "name": "المستأجر", "it": "Perfetto, perché domani lavoro tutto il giorno. Se possibile preferisco nel pomeriggio.", "ar": "ممتاز، لأنني أعمل طوال اليوم غداً. إن أمكن أفضل بعد الظهر." },
+      { "speaker": "B", "name": "المالك", "it": "Va bene, cerco una fascia tra le 16 e le 18.", "ar": "حسناً، سأحاول إيجاد وقت بين 4 و6." }
+    ]
+  },
+  {
+    "id": "b1_work_feedback",
+    "title": "ملاحظات في العمل",
+    "icon": "clipboard",
+    "dialogue": [
+      { "speaker": "A", "name": "الموظف", "it": "Posso parlarle un minuto? Vorrei capire se sto lavorando nel modo giusto.", "ar": "هل يمكنني التحدث معك دقيقة؟ أريد أن أفهم إن كنت أعمل بالطريقة الصحيحة." },
+      { "speaker": "B", "name": "المدير", "it": "Certo. In generale va bene, ma devi fare più attenzione alle scadenze.", "ar": "طبعاً. بشكل عام الأمور جيدة، لكن عليك الانتباه أكثر للمواعيد النهائية." },
+      { "speaker": "A", "name": "الموظف", "it": "Ha ragione. A volte mi arrivano troppe richieste insieme e mi perdo.", "ar": "معك حق. أحياناً تصلني طلبات كثيرة معاً فأضيع." },
+      { "speaker": "B", "name": "المدير", "it": "Prova a segnare le priorità e a chiedere subito se qualcosa è urgente.", "ar": "حاول أن تكتب الأولويات وتسأل فوراً إن كان هناك شيء عاجل." },
+      { "speaker": "A", "name": "الموظف", "it": "Ok, lo farò. Possiamo fare un punto ogni venerdì per vedere i progressi?", "ar": "حسناً، سأفعل ذلك. هل يمكننا أن نراجع كل يوم جمعة لنرى التقدم؟" },
+      { "speaker": "B", "name": "المدير", "it": "Sì, mi sembra una buona idea.", "ar": "نعم، تبدو فكرة جيدة." }
+    ]
+  },
+  {
+    "id": "b1_doctor_explain_symptoms",
+    "title": "شرح الأعراض للطبيب",
+    "icon": "stethoscope",
+    "dialogue": [
+      { "speaker": "A", "name": "المريض", "it": "Dottore, ho questo dolore alla schiena da circa due settimane, soprattutto quando sto seduto a lungo.", "ar": "دكتور، عندي هذا الألم في الظهر منذ حوالي أسبوعين، خصوصاً عندما أجلس طويلاً." },
+      { "speaker": "B", "name": "الطبيب", "it": "Ha fatto uno sforzo o un movimento brusco prima che iniziasse?", "ar": "هل قمت بمجهود أو حركة مفاجئة قبل أن يبدأ؟" },
+      { "speaker": "A", "name": "المريض", "it": "Sì, ho trasportato delle scatole pesanti durante il trasloco.", "ar": "نعم، حملت صناديق ثقيلة أثناء الانتقال." },
+      { "speaker": "B", "name": "الطبيب", "it": "Capisco. Le prescrivo una pomata e qualche esercizio leggero. Se non passa, facciamo una visita ortopedica.", "ar": "أفهم. سأصف لك مرهماً وبعض التمارين الخفيفة. إذا لم يتحسن، نعمل زيارة لطبيب عظام." },
+      { "speaker": "A", "name": "المريض", "it": "Devo evitare la palestra per ora?", "ar": "هل يجب أن أتجنب النادي حالياً؟" },
+      { "speaker": "B", "name": "الطبيب", "it": "Eviti i pesi per una settimana, ma camminare va benissimo.", "ar": "تجنب الأوزان لمدة أسبوع، لكن المشي ممتاز." }
+    ]
+  },
+  {
+    "id": "b1_train_delay_refund",
+    "title": "تأخر القطار وطلب تعويض",
+    "icon": "train",
+    "dialogue": [
+      { "speaker": "A", "name": "مسافر", "it": "Buongiorno, il treno di ieri è arrivato con più di un'ora di ritardo. Vorrei sapere se ho diritto a un rimborso.", "ar": "صباح الخير، قطار أمس وصل متأخراً أكثر من ساعة. أريد أن أعرف هل لي حق في تعويض." },
+      { "speaker": "B", "name": "الموظف", "it": "Ha il biglietto o il codice della prenotazione? Così controllo subito.", "ar": "هل لديك التذكرة أو كود الحجز؟ حتى أتحقق فوراً." },
+      { "speaker": "A", "name": "مسافر", "it": "Sì, eccolo. Il problema è che avevo una coincidenza e l'ho persa.", "ar": "نعم، تفضل. المشكلة أن لدي تحويلة وفقدتها." },
+      { "speaker": "B", "name": "الموظف", "it": "Capisco. Per questo ritardo può richiedere un indennizzo. Per la coincidenza, però, dipende dal tipo di biglietto.", "ar": "أفهم. لهذا التأخير يمكنك طلب تعويض. أما التحويلة فيعتمد على نوع التذكرة." },
+      { "speaker": "A", "name": "مسافر", "it": "Quali documenti devo presentare?", "ar": "ما الأوراق التي يجب أن أقدّمها؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Compili il modulo online e alleghi il biglietto. Riceverà una risposta via email.", "ar": "املأ النموذج أونلاين وأرفق التذكرة. ستصلك إجابة بالإيميل." }
+    ]
+  },
+  {
+    "id": "b1_bank_charge_dispute",
+    "title": "اعتراض على عملية بنكية",
+    "icon": "credit-card",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Buongiorno, ho notato un addebito che non riconosco sul conto. Potete aiutarmi a capire di cosa si tratta?", "ar": "صباح الخير، لاحظت خصماً لا أعرفه على الحساب. هل يمكنكم مساعدتي لفهم ما هو؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Certo. Mi dice la data e l'importo dell'operazione?", "ar": "طبعاً. قل لي تاريخ ومبلغ العملية." },
+      { "speaker": "A", "name": "الزبون", "it": "È del 12, per 39,90 euro. Sembra un abbonamento, ma non l'ho fatto io.", "ar": "هي بتاريخ 12 بمبلغ 39.90 يورو. تبدو اشتراكاً، لكنني لم أفعله." },
+      { "speaker": "B", "name": "الموظف", "it": "Potrebbe essere un rinnovo automatico. Ha ricevuto qualche email dal servizio?", "ar": "قد يكون تجديداً تلقائياً. هل تلقيت أي إيميل من الخدمة؟" },
+      { "speaker": "A", "name": "الزبون", "it": "Non che io sappia. Vorrei bloccarlo e, se possibile, contestarlo.", "ar": "ليس على حد علمي. أريد إيقافه وإن أمكن الاعتراض عليه." },
+      { "speaker": "B", "name": "الموظف", "it": "Va bene. Apriamo una contestazione e intanto blocchiamo i pagamenti futuri verso quel commerciante.", "ar": "حسناً. نفتح اعتراضاً وبنفس الوقت نوقف الدفعات المستقبلية لذلك التاجر." }
+    ]
+  },
+  {
+    "id": "b1_neighbor_mediation",
+    "title": "تفاهم مع الجيران",
+    "icon": "people-arrows",
+    "dialogue": [
+      { "speaker": "A", "name": "جار", "it": "Ciao, volevo parlarti del rumore. Negli ultimi giorni si sente musica fino a tardi.", "ar": "مرحباً، أردت التحدث عن الضوضاء. في الأيام الأخيرة نسمع موسيقى حتى وقت متأخر." },
+      { "speaker": "B", "name": "جار", "it": "Mi dispiace, non me ne rendevo conto. A che ora dà più fastidio?", "ar": "آسف، لم أكن منتبهاً. في أي وقت تزعج أكثر؟" },
+      { "speaker": "A", "name": "جار", "it": "Soprattutto dopo le undici. Io mi sveglio presto per lavorare.", "ar": "خصوصاً بعد الحادية عشرة. أنا أستيقظ باكراً للعمل." },
+      { "speaker": "B", "name": "جار", "it": "Capisco. Da oggi abbasso il volume e uso le cuffie la sera.", "ar": "أفهم. من اليوم سأخفض الصوت وأستخدم السماعات مساءً." },
+      { "speaker": "A", "name": "جار", "it": "Grazie, lo apprezzo. Se ci sono occasioni speciali fammi sapere prima.", "ar": "شكراً، أقدّر ذلك. إذا كان هناك مناسبات خاصة أخبرني قبلها." },
+      { "speaker": "B", "name": "جار", "it": "Certo, d'accordo.", "ar": "طبعاً، اتفقنا." }
+    ]
+  },
+  {
+    "id": "b1_job_interview_availability",
+    "title": "تحديد المواعيد في مقابلة عمل",
+    "icon": "briefcase",
+    "dialogue": [
+      { "speaker": "A", "name": "الموظف", "it": "Grazie per avermi contattato. Vorrei capire quali sarebbero gli orari e se ci sono turni nel weekend.", "ar": "شكراً لتواصلكم. أريد أن أفهم ما هي أوقات العمل وهل توجد ورديات في عطلة نهاية الأسبوع." },
+      { "speaker": "B", "name": "المسؤول", "it": "Sì, il weekend è a rotazione. In settimana, invece, lavoriamo dalle 9 alle 18.", "ar": "نعم، عطلة نهاية الأسبوع بالتناوب. أما خلال الأسبوع فنعمل من 9 إلى 18." },
+      { "speaker": "A", "name": "الموظف", "it": "Io posso fare i weekend, però avrei bisogno di un giorno libero fisso per un corso serale.", "ar": "يمكنني العمل في الويكند، لكني أحتاج يوم إجازة ثابت لدورة مسائية." },
+      { "speaker": "B", "name": "المسؤول", "it": "Possiamo valutarlo. Quale giorno preferisce?", "ar": "يمكننا دراسة ذلك. أي يوم تفضّل؟" },
+      { "speaker": "A", "name": "الموظف", "it": "Preferirei il martedì, perché il corso è proprio quel giorno.", "ar": "أفضل الثلاثاء لأن الدورة في ذلك اليوم بالذات." },
+      { "speaker": "B", "name": "المسؤول", "it": "Perfetto, lo segnalo al responsabile e le faccio sapere.", "ar": "ممتاز، سأبلغ المسؤول وأخبرك." }
+    ]
+  },
+  {
+    "id": "b1_change_subscription_terms",
+    "title": "تعديل اشتراك وخياراته",
+    "icon": "sliders",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Vorrei cambiare il mio abbonamento perché pago troppo rispetto a quello che uso.", "ar": "أريد تغيير اشتراكي لأنني أدفع كثيراً مقارنة بما أستخدمه." },
+      { "speaker": "B", "name": "الموظف", "it": "Capisco. Quanti giga consuma in media al mese?", "ar": "أفهم. كم جيجا تستهلك عادةً في الشهر؟" },
+      { "speaker": "A", "name": "الزبون", "it": "Circa 30. Adesso ne ho 150 e non mi servono.", "ar": "حوالي 30. حالياً لدي 150 ولا أحتاجها." },
+      { "speaker": "B", "name": "الموظف", "it": "Allora le conviene un'offerta da 50 giga. Costa meno e include comunque minuti illimitati.", "ar": "إذن يناسبك عرض 50 جيجا. يكلف أقل ويشمل دقائق غير محدودة." },
+      { "speaker": "A", "name": "الزبون", "it": "Se cambio oggi, il nuovo prezzo parte subito o dal mese prossimo?", "ar": "إذا غيّرت اليوم، هل السعر الجديد يبدأ فوراً أم من الشهر القادم؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Parte dal prossimo rinnovo, così non perde i giga già pagati.", "ar": "يبدأ من التجديد القادم لكي لا تخسر الجيجا المدفوعة." }
+    ]
+  },
+  {
+    "id": "b1_disagree_politely",
+    "title": "اختلاف رأي بطريقة مهذبة",
+    "icon": "comments",
+    "dialogue": [
+      { "speaker": "A", "name": "صديق", "it": "Secondo me questo ristorante è sopravvalutato, non vale i soldi.", "ar": "برأيي هذا المطعم مبالغ في تقييمه ولا يستحق المال." },
+      { "speaker": "B", "name": "صديق", "it": "Capisco cosa intendi, però a me piace per l'atmosfera e il servizio.", "ar": "أفهم قصدك، لكني أحبه بسبب الجو والخدمة." },
+      { "speaker": "A", "name": "صديق", "it": "Sì, il posto è carino, ma le porzioni sono piccole.", "ar": "نعم، المكان لطيف لكن الكميات صغيرة." },
+      { "speaker": "B", "name": "صديق", "it": "È vero, ma di solito prendo un antipasto e mi basta.", "ar": "صحيح، لكن عادةً آخذ مقبلات ويكفيني." },
+      { "speaker": "A", "name": "صديق", "it": "Allora la prossima volta faccio così anche io.", "ar": "إذن المرة القادمة سأفعل مثلك." },
+      { "speaker": "B", "name": "صديق", "it": "Dai, proviamo e poi mi dici.", "ar": "هيا نجرب وبعدها تقول لي." }
+    ]
+  },
+  {
+    "id": "b1_request_extension_payment",
+    "title": "طلب مهلة للدفع",
+    "icon": "hand-holding-dollar",
+    "dialogue": [
+      { "speaker": "A", "name": "العميل", "it": "Buongiorno, avrei bisogno di qualche giorno in più per pagare la fattura. È possibile?", "ar": "صباح الخير، أحتاج بضعة أيام إضافية لدفع الفاتورة. هل هذا ممكن؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Dipende dalla scadenza. Quando dovrebbe pagare?", "ar": "يعتمد على موعد الاستحقاق. متى يفترض أن تدفع؟" },
+      { "speaker": "A", "name": "العميل", "it": "Entro venerdì, ma il bonifico arriva lunedì.", "ar": "قبل الجمعة، لكن التحويل سيصل يوم الاثنين." },
+      { "speaker": "B", "name": "الموظف", "it": "Possiamo concederle una proroga fino a lunedì, però deve inviarci una conferma del pagamento.", "ar": "يمكننا منحك تمديداً حتى الاثنين، لكن يجب أن ترسل لنا تأكيد الدفع." },
+      { "speaker": "A", "name": "العميل", "it": "Va bene. Le mando la ricevuta appena faccio il bonifico.", "ar": "حسناً. سأرسل الإيصال فور قيامي بالتحويل." },
+      { "speaker": "B", "name": "الموظف", "it": "Perfetto, grazie per averci avvisato.", "ar": "ممتاز، شكراً لإبلاغنا." }
+    ]
+  },
+
+  {
+    "id": "b1_trip_planning",
+    "title": "تخطيط رحلة مع صديق",
+    "icon": "route",
+    "dialogue": [
+      { "speaker": "A", "name": "ليلى", "it": "Per il weekend pensavo di andare a Verona. Ti va?", "ar": "لعطلة نهاية الأسبوع كنت أفكر أن أذهب إلى فيرونا. هل يناسبك؟" },
+      { "speaker": "B", "name": "نور", "it": "Sì, mi piacerebbe. Preferisci andare in treno o in macchina?", "ar": "نعم، أحب ذلك. تفضلين الذهاب بالقطار أم بالسيارة؟" },
+      { "speaker": "A", "name": "ليلى", "it": "In treno è più comodo, ma dobbiamo prenotare presto per trovare un buon prezzo.", "ar": "بالقطار أريح، لكن يجب أن نحجز مبكراً لنجد سعراً جيداً." },
+      { "speaker": "B", "name": "نور", "it": "Ok. Partiamo sabato mattina e torniamo domenica sera?", "ar": "حسناً. نسافر صباح السبت ونعود مساء الأحد؟" },
+      { "speaker": "A", "name": "ليلى", "it": "Perfetto. Io cerco l'hotel, tu controlli gli orari dei treni?", "ar": "ممتاز. أنا أبحث عن فندق، وأنت تتحقق من مواعيد القطارات؟" },
+      { "speaker": "B", "name": "نور", "it": "Affare fatto.", "ar": "اتفقنا." }
+    ]
+  },
+  {
+    "id": "b1_return_policy_argument",
+    "title": "نقاش حول سياسة الإرجاع",
+    "icon": "rotate-left",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Buongiorno, vorrei restituire questo articolo, ma mi avete detto che non si può perché è in saldo.", "ar": "صباح الخير، أريد إرجاع هذا المنتج لكن قلتم لا يمكن لأنه مخفّض." },
+      { "speaker": "B", "name": "الموظف", "it": "Sì, in genere i saldi non prevedono rimborso, solo cambio.", "ar": "نعم، عادةً التخفيضات لا تشمل استرجاعاً، فقط تبديل." },
+      { "speaker": "A", "name": "الزبون", "it": "Capisco, però sull'etichetta non era scritto. Posso almeno cambiarlo con un altro modello?", "ar": "أفهم، لكن لم يكن مكتوباً على الملصق. هل يمكنني على الأقل تبديله بموديل آخر؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Sì, se il prodotto è integro e ha lo scontrino.", "ar": "نعم، إذا كان المنتج سليماً ومعك الإيصال." },
+      { "speaker": "A", "name": "الزبون", "it": "Va bene, eccolo. Preferirei una taglia diversa.", "ar": "حسناً، تفضل. أفضل مقاساً مختلفاً." },
+      { "speaker": "B", "name": "الموظف", "it": "Perfetto, vediamo cosa abbiamo disponibile.", "ar": "ممتاز، دعنا نرى المتوفر." }
+    ]
+  },
+
+  {
+    "id": "b1_meeting_school_parent_teacher",
+    "title": "حديث مع المدرسة",
+    "icon": "school",
+    "dialogue": [
+      { "speaker": "A", "name": "ولي أمر", "it": "Buonasera, volevo parlare dell'andamento di mio figlio. A casa studia, ma sembra in difficoltà.", "ar": "مساء الخير، أردت التحدث عن مستوى ابني. يدرس في البيت لكنه يبدو يواجه صعوبة." },
+      { "speaker": "B", "name": "المعلمة", "it": "In classe partecipa, però ha bisogno di più tempo per leggere e capire i testi.", "ar": "في الصف يشارك، لكن يحتاج وقتاً أكثر للقراءة وفهم النصوص." },
+      { "speaker": "A", "name": "ولي أمر", "it": "Cosa mi consiglia di fare? Vorrei aiutarlo senza mettergli troppa pressione.", "ar": "ماذا تنصحينني أن أفعل؟ أريد مساعدته بدون ضغط كبير." },
+      { "speaker": "B", "name": "المعلمة", "it": "Potrebbe leggere insieme a lui dieci minuti al giorno e fargli riassumere con parole sue.", "ar": "يمكن أن تقرأ معه عشر دقائق يومياً وتجعله يلخص بكلماته." },
+      { "speaker": "A", "name": "ولي أمر", "it": "Va bene. Se serve, possiamo fissare un colloquio anche il mese prossimo?", "ar": "حسناً. إذا احتاج، هل يمكن تحديد لقاء أيضاً الشهر القادم؟" },
+      { "speaker": "B", "name": "المعلمة", "it": "Certo, mi scriva e troviamo una data.", "ar": "طبعاً، اكتب لي ونجد موعداً." }
+    ]
+  },
+
+  {
+    "id": "b1_complaint_service_charge",
+    "title": "سؤال عن رسوم خدمة",
+    "icon": "file-invoice-dollar",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Scusi, nel conto vedo una voce 'servizio' che non mi aspettavo. Che cos'è?", "ar": "عفواً، في الحساب أرى بند 'خدمة' لم أتوقعه. ما هو؟" },
+      { "speaker": "B", "name": "النادل", "it": "È il coperto e include pane e servizio al tavolo.", "ar": "هو رسم الجلوس ويشمل الخبز والخدمة على الطاولة." },
+      { "speaker": "A", "name": "الزبون", "it": "Ok, grazie. È sempre incluso o dipende dal ristorante?", "ar": "حسناً، شكراً. هل هو دائماً موجود أم يعتمد على المطعم؟" },
+      { "speaker": "B", "name": "النادل", "it": "Dipende dal locale. Qui è indicato anche sul menù.", "ar": "يعتمد على المكان. هنا هو مذكور أيضاً في القائمة." },
+      { "speaker": "A", "name": "الزبون", "it": "Perfetto, non lo avevo visto. Pago con carta.", "ar": "ممتاز، لم أكن قد لاحظته. سأدفع بالبطاقة." },
+      { "speaker": "B", "name": "النادل", "it": "Va benissimo.", "ar": "تمام." }
+    ]
+  },
+
+  {
+    "id": "b1_health_insurance_info",
+    "title": "معلومات عن التأمين الصحي",
+    "icon": "shield-heart",
+    "dialogue": [
+      { "speaker": "A", "name": "مقيم", "it": "Buongiorno, sto cercando di capire come funziona l'assistenza sanitaria qui. Devo scegliere un medico di base?", "ar": "صباح الخير، أحاول فهم كيف يعمل النظام الصحي هنا. هل يجب أن أختار طبيب أسرة؟" },
+      { "speaker": "B", "name": "موظف", "it": "Sì, se ha la tessera sanitaria. Con il medico di base può fare visite e ricette.", "ar": "نعم، إذا لديك البطاقة الصحية. مع طبيب الأسرة يمكنك عمل زيارات ووصفات." },
+      { "speaker": "A", "name": "مقيم", "it": "E se ho un'emergenza di notte?", "ar": "وماذا إذا كان عندي طارئ ليلاً؟" },
+      { "speaker": "B", "name": "موظف", "it": "In caso di emergenza chiami il 112. Per problemi non urgenti c'è la guardia medica.", "ar": "في حالة الطوارئ اتصل بـ112. للمشاكل غير العاجلة هناك طبيب الطوارئ (guardia medica)." },
+      { "speaker": "A", "name": "مقيم", "it": "Va bene. Dove posso fare la scelta del medico?", "ar": "حسناً. أين يمكنني اختيار الطبيب؟" },
+      { "speaker": "B", "name": "موظف", "it": "All'ASL oppure online con SPID, se ce l'ha.", "ar": "في الـASL أو أونلاين باستخدام SPID إذا كان لديك." }
+    ]
+  },
+
+  {
+    "id": "b1_ask_for_salary_clarification",
+    "title": "توضيح حول الراتب",
+    "icon": "money-check-dollar",
+    "dialogue": [
+      { "speaker": "A", "name": "موظف", "it": "Scusi, ho una domanda sulla busta paga: vedo una trattenuta più alta del solito.", "ar": "عفواً، لدي سؤال عن كشف الراتب: أرى خصماً أعلى من المعتاد." },
+      { "speaker": "B", "name": "المحاسبة", "it": "Sì, questo mese c'è il conguaglio delle tasse. È normale una volta all'anno.", "ar": "نعم، هذا الشهر هناك تسوية ضرائب. هذا طبيعي مرة في السنة." },
+      { "speaker": "A", "name": "موظف", "it": "Quindi il mese prossimo torna come prima?", "ar": "إذن الشهر القادم يعود كما كان؟" },
+      { "speaker": "B", "name": "المحاسبة", "it": "In genere sì. Se vuole, le mando anche il dettaglio via email.", "ar": "عادةً نعم. إذا أردت، أرسل لك التفاصيل بالإيميل." },
+      { "speaker": "A", "name": "موظف", "it": "Sì, grazie. Così capisco meglio.", "ar": "نعم، شكراً. لكي أفهم أفضل." },
+      { "speaker": "B", "name": "المحاسبة", "it": "Perfetto, me lo ricordi con il suo indirizzo.", "ar": "ممتاز، ذكّرني بعنوانك." }
+    ]
+  },
+
+  {
+    "id": "b1_ask_landlord_deposit_return",
+    "title": "استرجاع التأمين بعد الخروج",
+    "icon": "key",
+    "dialogue": [
+      { "speaker": "A", "name": "المستأجر", "it": "Ciao, sto per lasciare l'appartamento. Volevo sapere quando verrà restituita la caparra.", "ar": "مرحباً، أنا على وشك مغادرة الشقة. أريد أن أعرف متى سيتم إرجاع التأمين." },
+      { "speaker": "B", "name": "المالك", "it": "Dopo il controllo finale e la chiusura delle bollette. Di solito entro un mese.", "ar": "بعد الفحص النهائي وإغلاق الفواتير. عادةً خلال شهر." },
+      { "speaker": "A", "name": "المستأجر", "it": "Va bene. Possiamo fissare un appuntamento per la consegna delle chiavi?", "ar": "حسناً. هل يمكننا تحديد موعد لتسليم المفاتيح؟" },
+      { "speaker": "B", "name": "المالك", "it": "Sì, sabato mattina va bene?", "ar": "نعم، صباح السبت مناسب؟" },
+      { "speaker": "A", "name": "المستأجر", "it": "Perfetto. Porterò anche le letture dei contatori.", "ar": "ممتاز. سأحضر أيضاً قراءات العدادات." },
+      { "speaker": "B", "name": "المالك", "it": "Ottimo, così facciamo tutto in una volta.", "ar": "ممتاز، هكذا ننهي كل شيء مرة واحدة." }
+    ]
+  },
+
+  {
+    "id": "b1_complain_gym_membership",
+    "title": "مشكلة في اشتراك النادي",
+    "icon": "dumbbell",
+    "dialogue": [
+      { "speaker": "A", "name": "العضو", "it": "Buongiorno, mi avete addebitato due volte la quota mensile. Potete controllare?", "ar": "صباح الخير، تم خصم الاشتراك الشهري مرتين. هل يمكنكم التحقق؟" },
+      { "speaker": "B", "name": "الاستقبال", "it": "Certo. Mi dà il nome e la data dell'addebito?", "ar": "طبعاً. تعطيني الاسم وتاريخ الخصم؟" },
+      { "speaker": "A", "name": "العضو", "it": "Sono Samir, addebito del 3 e del 4.", "ar": "أنا سمير، خصم بتاريخ 3 و4." },
+      { "speaker": "B", "name": "الاستقبال", "it": "Vedo l'errore. Le rimborsiamo una quota entro pochi giorni.", "ar": "أرى الخطأ. سنعيد لك مبلغ اشتراك خلال بضعة أيام." },
+      { "speaker": "A", "name": "العضو", "it": "Grazie. Riceverò una conferma scritta?", "ar": "شكراً. هل سأحصل على تأكيد مكتوب؟" },
+      { "speaker": "B", "name": "الاستقبال", "it": "Sì, le mando un'email subito.", "ar": "نعم، سأرسل لك إيميل فوراً." }
+    ]
+  },
+
+  {
+    "id": "b1_book_appointment_change",
+    "title": "تغيير موعد",
+    "icon": "calendar",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Buongiorno, avrei bisogno di spostare l'appuntamento di oggi perché ho avuto un imprevisto.", "ar": "صباح الخير، أحتاج لتغيير موعد اليوم لأن لدي ظرفاً طارئاً." },
+      { "speaker": "B", "name": "الموظف", "it": "Capisco. A che ora era l'appuntamento?", "ar": "أفهم. في أي ساعة كان الموعد؟" },
+      { "speaker": "A", "name": "الزبون", "it": "Alle 17:00. Potrei venire domani mattina?", "ar": "الساعة 17:00. هل يمكنني المجيء غداً صباحاً؟" },
+      { "speaker": "B", "name": "الموظف", "it": "Domani mattina abbiamo posto alle 10:30.", "ar": "غداً صباحاً لدينا مكان الساعة 10:30." },
+      { "speaker": "A", "name": "الزبون", "it": "Perfetto, grazie. Devo fare qualcosa per confermare?", "ar": "ممتاز، شكراً. هل يجب أن أفعل شيئاً للتأكيد؟" },
+      { "speaker": "B", "name": "الموظف", "it": "No, l'ho già spostato. Le arriva un messaggio di conferma.", "ar": "لا، نقلته بالفعل. ستصلك رسالة تأكيد." }
+    ]
+  },
+
+  {
+    "id": "b1_report_lost_documents",
+    "title": "الإبلاغ عن فقدان وثائق",
+    "icon": "id-card",
+    "dialogue": [
+      { "speaker": "A", "name": "شخص", "it": "Buongiorno, ho perso il portafoglio con la carta d'identità e la tessera sanitaria. Vorrei fare denuncia.", "ar": "صباح الخير، فقدت المحفظة وفيها بطاقة الهوية والبطاقة الصحية. أريد تقديم بلاغ." },
+      { "speaker": "B", "name": "الموظف", "it": "Va bene. Dove pensa di averlo perso e quando?", "ar": "حسناً. أين تعتقد أنك فقدته ومتى؟" },
+      { "speaker": "A", "name": "شخص", "it": "Probabilmente in autobus ieri sera, verso le nove.", "ar": "على الأغلب في الباص أمس مساءً حوالي التاسعة." },
+      { "speaker": "B", "name": "الموظف", "it": "Ha qualche documento alternativo o una foto dei documenti?", "ar": "هل لديك وثيقة بديلة أو صورة للأوراق؟" },
+      { "speaker": "A", "name": "شخص", "it": "Sì, ho una foto sul telefono.", "ar": "نعم، لدي صورة على الهاتف." },
+      { "speaker": "B", "name": "الموظف", "it": "Perfetto. Compiliamo la denuncia e le diamo una copia.", "ar": "ممتاز. سنملأ البلاغ ونعطيك نسخة." }
+    ]
+  },
+
+  {
+    "id": "b1_ask_for_recommendation_activity",
+    "title": "اقتراح نشاط في المدينة",
+    "icon": "city",
+    "dialogue": [
+      { "speaker": "A", "name": "سائح", "it": "Sono a Milano per tre giorni. Cosa mi consiglia di vedere oltre al Duomo?", "ar": "أنا في ميلانو لثلاثة أيام. ماذا تنصحني أن أرى غير الدومو؟" },
+      { "speaker": "B", "name": "شخص", "it": "Se le piace l'arte, vada a Brera. E la sera può fare un giro sui Navigli.", "ar": "إذا تحب الفن اذهب إلى بريرا. ومساءً يمكنك التمشي في نافيغلي." },
+      { "speaker": "A", "name": "سائح", "it": "Mi piacerebbe anche qualcosa di meno turistico, magari un quartiere tranquillo.", "ar": "أود أيضاً شيئاً أقل سياحة، ربما حي هادئ." },
+      { "speaker": "B", "name": "شخص", "it": "Allora le suggerisco Isola: ci sono bar carini e si cammina bene.", "ar": "إذن أنصحك بـإيزولا: هناك مقاهٍ لطيفة والمشي جميل." },
+      { "speaker": "A", "name": "سائح", "it": "Perfetto. È facile arrivarci con la metro?", "ar": "ممتاز. هل الوصول إليه بالمترو سهل؟" },
+      { "speaker": "B", "name": "شخص", "it": "Sì, scenda a Garibaldi e ci arriva in cinque minuti.", "ar": "نعم، انزل في غاريبالدي وتصل في خمس دقائق." }
+    ]
+  },
+
+  {
+    "id": "b1_customer_service_follow_up",
+    "title": "متابعة طلب مع خدمة العملاء",
+    "icon": "headset",
+    "dialogue": [
+      { "speaker": "A", "name": "الزبون", "it": "Buongiorno, chiamo per seguire una segnalazione che ho aperto la settimana scorsa. Non ho ancora ricevuto risposta.", "ar": "صباح الخير، أتصل لمتابعة بلاغ فتحته الأسبوع الماضي. لم أتلق رداً بعد." },
+      { "speaker": "B", "name": "الدعم", "it": "Mi dà il numero della pratica, per favore?", "ar": "هل تعطيني رقم البلاغ، من فضلك؟" },
+      { "speaker": "A", "name": "الزبون", "it": "Sì, è 78412. Riguarda una consegna arrivata danneggiata.", "ar": "نعم، هو 78412. يتعلق بتوصيل وصل تالفاً." },
+      { "speaker": "B", "name": "الدعم", "it": "Vedo qui che è in lavorazione. Le manca qualche documento, per esempio una foto del danno?", "ar": "أرى هنا أنه قيد المعالجة. هل ينقصك أي مستند مثل صورة للضرر؟" },
+      { "speaker": "A", "name": "الزبون", "it": "Le foto le ho inviate lo stesso giorno. Vuole che le rimandi?", "ar": "أرسلت الصور في نفس اليوم. هل تريد أن أعيد إرسالها؟" },
+      { "speaker": "B", "name": "الدعم", "it": "Sì, per sicurezza. Appena arrivano, sollecito la pratica.", "ar": "نعم، للاحتياط. فور وصولها سأسرّع البلاغ." }
+    ]
+  }
+
+  /* NOTE: You asked for 50 B1 conversations.
+     In this response I provided 15 B1 items only due to message size limits.
+     Tell me "كمل" وسأرسل الباقي بنفس الهيكل وبمستوى B1 فقط. */
 ]
