@@ -114,7 +114,9 @@
       { "speaker": "B", "name": "الموظف", "it": "Va bene. Alle dieci va bene?", "ar": "حسناً. الساعة العاشرة مناسبة؟" },
       { "speaker": "A", "name": "المريض", "it": "Sì, va bene. Grazie.", "ar": "نعم، مناسبة. شكراً." },
       { "speaker": "B", "name": "الموظف", "it": "Prego. A domani.", "ar": "عفواً. إلى الغد." }
-
+    ]
+  },
+  {
     "id": "clothes_store",
     "title": "في محل الملابس",
     "icon": "shopping-bag",
