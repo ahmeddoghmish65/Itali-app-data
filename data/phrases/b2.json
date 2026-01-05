@@ -1,0 +1,125 @@
+[
+  {
+    "id": "b2_argomentare_opinioni",
+    "title": "B2: النقاش وإبداء الرأي بحجج",
+    "icon": "debate",
+    "phrases": [
+      { "it": "A mio avviso, la questione è più complessa di quanto sembri.", "ar": "برأيي، المسألة أعقد مما تبدو.", "phonetic": "/a ˈmiːo aˈviːzo la kwesˈtjone ɛ pju komˈplɛssa di ˈkwanto ˈsɛmbri/" },
+      { "it": "Non condivido del tutto questa posizione.", "ar": "لا أوافق تماماً على هذا الموقف.", "phonetic": "/non konˈdiːvido del ˈtutto ˈkwesta poziˈtsjone/" },
+      { "it": "Capisco il tuo punto di vista, tuttavia...", "ar": "أتفهم وجهة نظرك، ومع ذلك...", "phonetic": "/kaˈpisko il tuo ˈpunto di ˈvista tutˈtaːvja/" },
+      { "it": "In linea di principio sono d'accordo, ma ci sono delle eccezioni.", "ar": "من حيث المبدأ أنا موافق، لكن توجد استثناءات.", "phonetic": "/in ˈliːnja di prinˈtʃiːpjo ˈsono dakˈkɔrdo ma tʃi ˈsono delˈle ekʧetˈtsjoːni/" },
+      { "it": "Mi sembra un ragionamento coerente.", "ar": "يبدو لي هذا منطقاً متسقاً.", "phonetic": "/mi ˈsɛmbra un radʒonaˈmento koˈɛrɛnte/" },
+      { "it": "Non sono sicuro/a che questa sia la soluzione migliore.", "ar": "لست متأكداً/ة أن هذه هي أفضل حل.", "phonetic": "/non ˈsono siˈkuro a ke ˈkwesta ˈsia la solutˈtsjoːne miʎˈʎore/" },
+      { "it": "Potremmo valutare un'alternativa.", "ar": "يمكننا تقييم بديل.", "phonetic": "/poˈtrɛmmo valuˈtare unalternaˈtiːva/" },
+      { "it": "Il problema è che mancano dei dati affidabili.", "ar": "المشكلة أن البيانات الموثوقة ناقصة.", "phonetic": "/il proˈblɛma ɛ ke ˈmaŋkano dei ˈdaːti affiˈdaːbili/" },
+      { "it": "Detto questo, riconosco che hai sollevato un punto importante.", "ar": "ومع ذلك، أعترف أنك أثرت نقطة مهمة.", "phonetic": "/ˈdetto ˈkwesto rikoˈnɔsko ke ai solleˈvaːto un ˈpunto imporˈtante/" },
+      { "it": "Siamo d'accordo sul fatto che dobbiamo trovare un compromesso.", "ar": "نتفق على أننا يجب أن نجد حلاً وسطاً.", "phonetic": "/ˈsjaːmo dakˈkɔrdo sul ˈfatto ke dobˈbjaːmo troˈvaːre un komproˈmesso/" },
+      { "it": "Se guardiamo la situazione da un'altra prospettiva...", "ar": "إذا نظرنا إلى الوضع من منظور آخر...", "phonetic": "/se ɡwarˈdjaːmo la sitwaˈtsjoːne da unˈaltra prospetˈtiːva/" },
+      { "it": "Non vorrei generalizzare, ma nella maggior parte dei casi è così.", "ar": "لا أريد التعميم، لكن في أغلب الحالات هكذا.", "phonetic": "/non vorˈrɛi dʒeneraˈliddzare ma nelˈla madʒˈdʒor ˈparte dei ˈkaːzi ɛ koˈzi/" }
+    ]
+  },
+  {
+    "id": "b2_riunioni_lavoro",
+    "title": "B2: العمل والاجتماعات والتواصل المهني",
+    "icon": "briefcase-business",
+    "phrases": [
+      { "it": "Ti va di allinearci sui prossimi passi?", "ar": "هل يناسبك أن نتفق/نتزامن حول الخطوات القادمة؟", "phonetic": "/ti va di alliˈneːartʃi sui ˈprɔssimi ˈpassi/" },
+      { "it": "Facciamo un punto della situazione.", "ar": "دعنا نراجع الوضع.", "phonetic": "/fatˈtʃaːmo un ˈpunto delˈla sitwaˈtsjoːne/" },
+      { "it": "Entro fine giornata ti mando un aggiornamento.", "ar": "بنهاية اليوم سأرسل لك تحديثاً.", "phonetic": "/ˈentro ˈfiːne dʒorˈnaːta ti ˈmando un addʒornaˈmento/" },
+      { "it": "Mi puoi condividere il file in formato modificabile?", "ar": "هل يمكنك مشاركة الملف بصيغة قابلة للتعديل؟", "phonetic": "/mi pwɔi kondiˈviːdere il ˈfiːle in forˈmaːto modifiˈkaːbile/" },
+      { "it": "Vorrei chiarire un paio di punti prima di procedere.", "ar": "أود توضيح نقطتين قبل المتابعة.", "phonetic": "/vorˈrɛi kjaˈriːre un ˈpaːjo di ˈpunti ˈpriːma di proˈtʃeːdere/" },
+      { "it": "Possiamo rivedere le priorità?", "ar": "هل يمكننا إعادة مراجعة الأولويات؟", "phonetic": "/posˈsjaːmo riveˈdeːre le priorita/" },
+      { "it": "Questa scadenza è realistica?", "ar": "هل هذا الموعد النهائي واقعي؟", "phonetic": "/ˈkwesta skadˈdɛntsa ɛ reaˈlistika/" },
+      { "it": "C'è margine per negoziare il budget?", "ar": "هل هناك مجال للتفاوض على الميزانية؟", "phonetic": "/tʃɛ ˈmardʒine per negodʒaˈre il ˈbadʒet/" },
+      { "it": "Mi prendo la responsabilità di questa parte.", "ar": "سأتحمل مسؤولية هذا الجزء.", "phonetic": "/mi ˈprɛndo la responsabiˈlita di ˈkwesta ˈparte/" },
+      { "it": "Preferisco mettere tutto per iscritto.", "ar": "أفضل توثيق كل شيء كتابةً.", "phonetic": "/prefeˈrisco metˈteːre ˈtutto per iˈskritto/" },
+      { "it": "Ti chiedo di tenermi aggiornato/a.", "ar": "أطلب منك أن تُبقيني على اطلاع.", "phonetic": "/ti ˈkjɛdo di teˈnermi addʒornaˈto a/" },
+      { "it": "Possiamo rimandare la call a domani?", "ar": "هل يمكننا تأجيل المكالمة للغد؟", "phonetic": "/posˈsjaːmo rimanˈdaːre la kɔl a doˈmaːni/" },
+      { "it": "Non è nelle mie competenze, ma posso indirizzarti alla persona giusta.", "ar": "هذا ليس ضمن اختصاصي، لكن يمكنني توجيهك للشخص المناسب.", "phonetic": "/non ɛ nelˈle miːe kompeˈtɛntse ma ˈpɔsso indiridˈdzarti alla perˈsoːna ˈdʒusta/" },
+      { "it": "Per evitare fraintendimenti, ricapitoliamo.", "ar": "لتجنب سوء الفهم، لنلخص.", "phonetic": "/per eviˈtaːre fraintendiˈmenti rikapitoˈljaːmo/" }
+    ]
+  },
+  {
+    "id": "b2_servizi_burocrazia",
+    "title": "B2: الخدمات والبيروقراطية",
+    "icon": "file-text",
+    "phrases": [
+      { "it": "Vorrei fissare un appuntamento allo sportello.", "ar": "أريد تحديد موعد عند الشباك.", "phonetic": "/vorˈrɛi fisˈsaːre un appuntaˈmento allo sporˈtɛllo/" },
+      { "it": "Quali documenti servono per la richiesta?", "ar": "ما المستندات المطلوبة للطلب؟", "phonetic": "/ˈkwaːli dokuˈmɛnti ˈsɛrvono per la riˈkjɛsta/" },
+      { "it": "Ho bisogno di una copia conforme.", "ar": "أحتاج نسخة مطابقة للأصل.", "phonetic": "/ɔ biˈzɔɲɲo di ˈuːna ˈkɔpja konˈfɔrme/" },
+      { "it": "Potrebbe indicarmi la procedura passo per passo?", "ar": "هل يمكنك شرح الإجراء خطوة بخطوة؟", "phonetic": "/poˈtrɛbbe indiˈkaːrmi la proˈtʃeːdura ˈpasso per ˈpasso/" },
+      { "it": "Ho compilato il modulo, ma non so se è corretto.", "ar": "ملأت الاستمارة لكن لا أعرف إن كانت صحيحة.", "phonetic": "/ɔ kompiˈlaːto il ˈmɔdulo ma non sɔ se ɛ korˈrɛtto/" },
+      { "it": "Mi manca una marca da bollo.", "ar": "تنقصني طابع/دمغة.", "phonetic": "/mi ˈmaŋka ˈuːna ˈmarka da ˈbɔllo/" },
+      { "it": "È possibile pagare tramite bonifico?", "ar": "هل يمكن الدفع عبر تحويل بنكي؟", "phonetic": "/ɛ posˈsiːbile paˈɡaːre ˈtraːmite boniˈfiːko/" },
+      { "it": "Vorrei presentare un ricorso.", "ar": "أريد تقديم طعن/اعتراض.", "phonetic": "/vorˈrɛi prezentˈtaːre un riˈkɔrso/" },
+      { "it": "Mi serve una ricevuta con i dati fiscali.", "ar": "أحتاج إيصالاً مع البيانات الضريبية.", "phonetic": "/mi ˈsɛrve ˈuːna ritʃeˈvuːta kon i ˈdaːti fisˈkaːli/" },
+      { "it": "C'è una scadenza entro cui devo consegnare tutto?", "ar": "هل هناك موعد نهائي يجب أن أسلم فيه كل شيء؟", "phonetic": "/tʃɛ ˈuːna skadˈdɛntsa ˈentro kwi ˈdevo konseɲˈɲaːre ˈtutto/" }
+    ]
+  },
+  {
+    "id": "b2_viaggi_imprevisti",
+    "title": "B2: السفر والمواقف غير المتوقعة",
+    "icon": "luggage",
+    "phrases": [
+      { "it": "Il treno è stato cancellato senza preavviso.", "ar": "تم إلغاء القطار دون إشعار مسبق.", "phonetic": "/il ˈtrɛno ɛ ˈstaːto kantʃelˈlaːto ˈsɛntsa preaˈviːzo/" },
+      { "it": "C'è un'alternativa per arrivare in tempo?", "ar": "هل هناك بديل للوصول في الوقت؟", "phonetic": "/tʃɛ unalternaˈtiːva per arriˈvaːre in ˈtɛmpo/" },
+      { "it": "Mi hanno spostato su un altro volo.", "ar": "نقلوني إلى رحلة أخرى.", "phonetic": "/mi ˈanno spoˈstaːto su un ˈaltro ˈvɔlo/" },
+      { "it": "Ho bisogno di un rimborso o di un voucher.", "ar": "أحتاج استرداداً أو قسيمة.", "phonetic": "/ɔ biˈzɔɲɲo di un rimˈbɔrso o di un ˈvautʃer/" },
+      { "it": "La mia valigia non è arrivata al ritiro bagagli.", "ar": "حقيبتي لم تصل إلى استلام الأمتعة.", "phonetic": "/la ˈmiːa vaˈliːdʒa non ɛ arriˈvaːta al riˈtiːro baˈɡaʎʎi/" },
+      { "it": "Potrebbe aiutarmi a compilare la denuncia di smarrimento?", "ar": "هل يمكنك مساعدتي في ملء بلاغ الفقدان؟", "phonetic": "/poˈtrɛbbe ajuˈtaːrmi a kompiˈlaːre la deˈnuːntʃa di zmarriˈmento/" },
+      { "it": "Ho perso i documenti: come posso fare?", "ar": "فقدت أوراقي: ماذا يمكنني أن أفعل؟", "phonetic": "/ɔ ˈpɛrso i dokuˈmɛnti ˈkome ˈpɔsso ˈfaːre/" },
+      { "it": "Dove si trova l'ufficio oggetti smarriti?", "ar": "أين مكتب المفقودات؟", "phonetic": "/ˈdove si ˈtrɔva luffitʃo odˈdʒɛtti zmarˈriːti/" },
+      { "it": "Mi serve un taxi, ma vorrei sapere il costo indicativo.", "ar": "أحتاج تاكسي، لكن أريد معرفة التكلفة التقريبية.", "phonetic": "/mi ˈsɛrve un ˈtaksi ma vorˈrɛi saˈpɛre il ˈkɔsto indiˈkaːtivo/" },
+      { "it": "Potrebbe lasciarmi una ricevuta, per favore?", "ar": "هل يمكنك إعطائي إيصالاً، من فضلك؟", "phonetic": "/poˈtrɛbbe laʃˈʃaːrmi ˈuːna ritʃeˈvuːta per faˈvoːre/" }
+    ]
+  },
+  {
+    "id": "b2_relazioni_emozioni",
+    "title": "B2: العلاقات والمشاعر بوضوح",
+    "icon": "heart-handshake",
+    "phrases": [
+      { "it": "Ci sono rimasto/a male.", "ar": "زعلت/تضايقت من الأمر.", "phonetic": "/tʃi ˈsono rimaˈsto a ˈmaːle/" },
+      { "it": "Mi ha colpito quello che hai detto.", "ar": "أثر فيّ ما قلته.", "phonetic": "/mi a kolˈpiːto ˈkwello ke ai ˈdetto/" },
+      { "it": "Non me la sono presa, tranquillo/a.", "ar": "لم أزعل، اهدأ/ي.", "phonetic": "/non me la ˈsono ˈprɛːza tranˈkwillo a/" },
+      { "it": "Preferirei che ne parlassimo con calma.", "ar": "أفضل أن نتحدث عن ذلك بهدوء.", "phonetic": "/prefeˈrirɛi ke ne parˈlassimo kon ˈkalma/" },
+      { "it": "Ho bisogno dei miei spazi ogni tanto.", "ar": "أحتاج مساحتي الخاصة أحياناً.", "phonetic": "/ɔ biˈzɔɲɲo dei miːei ˈspaːtsi ˈoɲɲi ˈtanto/" },
+      { "it": "Mi farebbe piacere rivederti presto.", "ar": "سيسعدني أن أراك مرة أخرى قريباً.", "phonetic": "/mi faˈrɛbbe pjaˈtʃeːre riveˈdeːrti ˈprɛsto/" },
+      { "it": "Non voglio mettere pressione, però mi piacerebbe una risposta.", "ar": "لا أريد الضغط، لكني أحب أن أحصل على رد.", "phonetic": "/non ˈvɔʎʎo metˈteːre presˈsjoːne peˈrɔ mi pjaˈtʃeːrebbe ˈuːna risˈpɔsta/" },
+      { "it": "Mi dispiace per come è andata.", "ar": "آسف/ة على كيف سارت الأمور.", "phonetic": "/mi disˈpjaːtʃe per ˈkome ɛ anˈdaːta/" },
+      { "it": "Ti ringrazio per la sincerità.", "ar": "أشكرك على الصراحة.", "phonetic": "/ti riŋˈɡratsjo per la sintʃeriˈta/" },
+      { "it": "Cerchiamo di venirci incontro.", "ar": "لنحاول أن نصل لحل يرضينا معاً.", "phonetic": "/tʃertʃaˈmo di veˈniːrtʃi inˈkɔntro/" }
+    ]
+  },
+  {
+    "id": "b2_media_servizi_tecnologia",
+    "title": "B2: التكنولوجيا والخدمات الرقمية",
+    "icon": "smartphone",
+    "phrases": [
+      { "it": "Non riesco ad accedere al mio account.", "ar": "لا أستطيع الدخول إلى حسابي.", "phonetic": "/non rjeʃˈʃo ad atʃˈtʃeːdere al miːo akˈkaunt/" },
+      { "it": "Mi compare un messaggio di errore.", "ar": "تظهر لي رسالة خطأ.", "phonetic": "/mi komˈpaːre un mesˈsadʒdʒo di erˈrɔre/" },
+      { "it": "Potrebbe guidarmi nella procedura di recupero password?", "ar": "هل يمكنك إرشادي في عملية استرجاع كلمة المرور؟", "phonetic": "/poˈtrɛbbe ˈɡwiːdarmi nelˈla proˈtʃeːdura di rekuˈpero ˈpasˌswɔrd/" },
+      { "it": "Ho attivato l'abbonamento per sbaglio.", "ar": "فعّلت الاشتراك بالخطأ.", "phonetic": "/ɔ attiˈvaːto labbonaˈmento per ˈzbaʎʎo/" },
+      { "it": "Vorrei disdire il rinnovo automatico.", "ar": "أريد إلغاء التجديد التلقائي.", "phonetic": "/vorˈrɛi disˈdiːre il rinˈnɔvo autoˈmaːtiko/" },
+      { "it": "La connessione è instabile.", "ar": "الاتصال غير مستقر.", "phonetic": "/la konneʃˈʃoːne ɛ instaˈbile/" },
+      { "it": "Può verificare se ci sono problemi di linea nella mia zona?", "ar": "هل يمكنك التحقق إن كانت هناك مشاكل في الخط بمنطقتي؟", "phonetic": "/pwɔ veriˈfiːkare se tʃi ˈsono proˈblɛmi di ˈliːnja nelˈla miːa ˈdzoːna/" },
+      { "it": "Mi serve la fattura intestata a nome della mia azienda.", "ar": "أحتاج فاتورة باسم شركتي.", "phonetic": "/mi ˈsɛrve la fatˈtuːra inteˈstata a ˈnoːme delˈla miːa adˈdzɛnda/" }
+    ]
+  },
+  {
+    "id": "b2_idiomi_collocazioni",
+    "title": "B2: تعبيرات شائعة وتراكيب (بدون عامية ثقيلة)",
+    "icon": "sparkles",
+    "phrases": [
+      { "it": "In poche parole, non ne vale la pena.", "ar": "باختصار، لا يستحق الأمر.", "phonetic": "/in ˈpɔke paˈrɔle non ne ˈvaːle la ˈpeːna/" },
+      { "it": "Alla fine dei conti, è andata bene.", "ar": "في النهاية، سارت الأمور بشكل جيد.", "phonetic": "/alla ˈfiːne dei ˈkɔnti ɛ anˈdaːta ˈbɛne/" },
+      { "it": "Te lo dico con sincerità.", "ar": "أقول لك بصراحة.", "phonetic": "/te lo ˈdiːko kon sintʃeriˈta/" },
+      { "it": "Non è detto che funzioni.", "ar": "ليس مؤكداً أنه سينجح.", "phonetic": "/non ɛ ˈdetto ke funˈtsjona/" },
+      { "it": "Mi sono messo/a nei tuoi panni.", "ar": "وضعت نفسي مكانك.", "phonetic": "/mi ˈsono ˈmɛsso a nei tuoi ˈpanni/" },
+      { "it": "Non voglio fare polemica.", "ar": "لا أريد افتعال جدال.", "phonetic": "/non ˈvɔʎʎo ˈfaːre poˈlɛmika/" },
+      { "it": "Mi trovi d'accordo su questo.", "ar": "أتفق معك في هذا.", "phonetic": "/mi ˈtrɔvi dakˈkɔrdo su ˈkwesto/" },
+      { "it": "Per come la vedo io, è così.", "ar": "حسب ما أراه أنا، الأمر هكذا.", "phonetic": "/per ˈkome la ˈveːdo iːo ɛ koˈzi/" },
+      { "it": "Sarà pure vero, però non mi convince.", "ar": "قد يكون صحيحاً، لكنه لا يقنعني.", "phonetic": "/saˈra ˈpuːre ˈveːro peˈrɔ non mi konˈvintʃe/" },
+      { "it": "Mi ci è voluto un po' per capirlo.", "ar": "استغرقني وقتاً لأفهمه.", "phonetic": "/mi tʃi ɛ voˈluːto un pɔ per kaˈpirlo/" }
+    ]
+  }
+]
