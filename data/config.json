@@ -15,7 +15,7 @@
   "contact": {
     "title": "تواصل معنا",
     "email": "support@sahlitaly.com",
-    "content": "نسعد بتواصلك معنا! إذا كانت لديك أي استفسارات، اقتراحات لتحسين التطبيق، أو واجهت أي مشكلة تقنية، لا تتردد في مراسلتنا عبر البريد الإلكتروني. فريق الدعم لدينا جاهز للرد على رسائلك خلال 24-48 ساعة. رأيك يهمنا ويساعدنا في تطوير التطبيق بشكل مستمر."
+    "content": "<h2><i class='fas fa-graduation-cap'></i> عن التطبيق</h2><p>سهل إيطالي هو تطبيق تعليمي مجاني يهدف لمساعدتك في تعلم اللغة الإيطالية من الصفر حتى الاحتراف.</p><div class='info-section'><div class='info-section-title'>🎯 هدفنا</div><p>نسعى لجعل تعلم اللغة الإيطالية سهلاً وممتعاً للجميع، من خلال تقديم محتوى تعليمي عالي الجودة بأسلوب تفاعلي وحديث.</p></div><div class='info-section'><div class='info-section-title'>✨ مميزاتنا</div><ul><li>محتوى من المستوى A1 إلى B2</li><li>أكثر من 5000 كلمة وعبارة</li><li>تمارين واختبارات تفاعلية</li><li>نطق صوتي لجميع الكلمات</li><li>محادثات واقعية</li><li>قواعد نحوية مبسطة</li><li>تتبع التقدم والإنجازات</li><li>يعمل بدون إنترنت</li></ul></div><div class='info-section'><div class='info-section-title'>👥 فريق العمل</div><div class='team-member'><div class='team-member-avatar'>👨‍💻</div><div class='team-member-info'><h4>فريق سهل إيطالي</h4><p>التطوير والتصميم</p></div></div></div><div class='info-section'><div class='info-section-title'>📱 الإصدار</div><p>الإصدار الحالي: 2.0.0</p><p>تاريخ التحديث: يناير 2025</p></div>"
   },
   "privacy": {
     "title": "سياسة الخصوصية",
