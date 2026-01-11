@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "سهل إيطالي",
+    "version": "2.0.0"
+  },
+  "social": {
+    "facebook": "https://facebook.com/YOUR_PAGE",
+    "instagram": "https://instagram.com/YOUR_PAGE",
+    "tiktok": "https://tiktok.com/@YOUR_PAGE"
+  },
+  "about": {
+    "title": "من نحن",
+    "content": "تطبيق سهل إيطالي هو تطبيق تعليمي مجاني لتعلم اللغة الإيطالية من المستوى A1 إلى B2."
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "email": "support@sahlitaly.com",
+    "content": "يمكنك التواصل معنا عبر البريد الإلكتروني."
+  },
+  "privacy": {
+    "title": "سياسة الخصوصية",
+    "content": "نحن نحترم خصوصيتك. لا نجمع أي بيانات شخصية."
+  },
+  "terms": {
+    "title": "شروط الخدمة",
+    "content": "باستخدام هذا التطبيق، أنت توافق على استخدامه للأغراض التعليمية فقط."
+  }
+}
