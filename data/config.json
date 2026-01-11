@@ -1,28 +1,589 @@
 {
   "app": {
     "name": "سهل إيطالي",
-    "version": "2.0.0"
+    "name_en": "Sahl Italy",
+    "version": "2.0.0",
+    "build_number": 25,
+    "release_date": "2025-01-15",
+    "min_android_version": "6.0",
+    "min_ios_version": "12.0",
+    "default_language": "ar",
+    "supported_languages": ["ar", "it", "en"],
+    "theme": {
+      "primary_color": "#009246",
+      "secondary_color": "#CE2B37",
+      "accent_color": "#F1F2F1",
+      "dark_mode_enabled": true
+    },
+    "features": {
+      "offline_mode": true,
+      "push_notifications": true,
+      "audio_lessons": true,
+      "speech_recognition": true,
+      "gamification": true,
+      "daily_reminders": true
+    }
   },
+
+  "levels": {
+    "available": ["A1", "A2", "B1", "B2"],
+    "coming_soon": ["C1", "C2"],
+    "details": {
+      "A1": {
+        "name": "مبتدئ",
+        "name_it": "Principiante",
+        "lessons_count": 30,
+        "estimated_hours": 40,
+        "icon": "🌱",
+        "color": "#4CAF50",
+        "is_free": true
+      },
+      "A2": {
+        "name": "أساسي",
+        "name_it": "Elementare",
+        "lessons_count": 35,
+        "estimated_hours": 50,
+        "icon": "🌿",
+        "color": "#8BC34A",
+        "is_free": true
+      },
+      "B1": {
+        "name": "متوسط",
+        "name_it": "Intermedio",
+        "lessons_count": 40,
+        "estimated_hours": 60,
+        "icon": "🌳",
+        "color": "#FF9800",
+        "is_free": true
+      },
+      "B2": {
+        "name": "فوق المتوسط",
+        "name_it": "Intermedio superiore",
+        "lessons_count": 45,
+        "estimated_hours": 80,
+        "icon": "🏆",
+        "color": "#F44336",
+        "is_free": true
+      }
+    }
+  },
+
+  "categories": [
+    {
+      "id": "grammar",
+      "name": "القواعد",
+      "name_it": "Grammatica",
+      "icon": "📚",
+      "color": "#3F51B5"
+    },
+    {
+      "id": "vocabulary",
+      "name": "المفردات",
+      "name_it": "Vocabolario",
+      "icon": "📝",
+      "color": "#009688"
+    },
+    {
+      "id": "conversation",
+      "name": "المحادثة",
+      "name_it": "Conversazione",
+      "icon": "💬",
+      "color": "#E91E63"
+    },
+    {
+      "id": "listening",
+      "name": "الاستماع",
+      "name_it": "Ascolto",
+      "icon": "🎧",
+      "color": "#9C27B0"
+    },
+    {
+      "id": "reading",
+      "name": "القراءة",
+      "name_it": "Lettura",
+      "icon": "📖",
+      "color": "#795548"
+    },
+    {
+      "id": "writing",
+      "name": "الكتابة",
+      "name_it": "Scrittura",
+      "icon": "✍️",
+      "color": "#607D8B"
+    },
+    {
+      "id": "culture",
+      "name": "الثقافة الإيطالية",
+      "name_it": "Cultura Italiana",
+      "icon": "🇮🇹",
+      "color": "#FF5722"
+    }
+  ],
+
   "social": {
-    "facebook": "https://facebook.com/YOUR_PAGE",
-    "instagram": "https://instagram.com/YOUR_PAGE",
-    "tiktok": "https://tiktok.com/@YOUR_PAGE"
+    "facebook": {
+      "url": "https://facebook.com/SahlItaly",
+      "page_id": "SahlItaly",
+      "icon": "facebook",
+      "color": "#1877F2"
+    },
+    "instagram": {
+      "url": "https://instagram.com/sahl_italy",
+      "username": "@sahl_italy",
+      "icon": "instagram",
+      "color": "#E4405F"
+    },
+    "tiktok": {
+      "url": "https://tiktok.com/@sahlitaly",
+      "username": "@sahlitaly",
+      "icon": "tiktok",
+      "color": "#000000"
+    },
+    "youtube": {
+      "url": "https://youtube.com/@SahlItaly",
+      "channel_id": "SahlItaly",
+      "icon": "youtube",
+      "color": "#FF0000"
+    },
+    "telegram": {
+      "url": "https://t.me/sahlitaly",
+      "group_name": "مجتمع سهل إيطالي",
+      "icon": "telegram",
+      "color": "#0088CC"
+    },
+    "whatsapp": {
+      "url": "https://wa.me/393XXXXXXXXX",
+      "number": "+39 3XX XXX XXXX",
+      "icon": "whatsapp",
+      "color": "#25D366"
+    }
   },
+
   "about": {
     "title": "من نحن",
-    "content": "تطبيق سهل إيطالي هو تطبيق تعليمي مجاني لتعلم اللغة الإيطالية من المستوى A1 إلى B2."
+    "title_it": "Chi siamo",
+    "short_description": "تطبيق سهل إيطالي هو تطبيق تعليمي مجاني لتعلم اللغة الإيطالية",
+    "content": {
+      "ar": "تطبيق سهل إيطالي هو تطبيق تعليمي مجاني ومتكامل لتعلم اللغة الإيطالية من المستوى A1 إلى B2. نقدم لك تجربة تعليمية فريدة تجمع بين القواعد والمفردات والمحادثة والاستماع بطريقة سهلة وممتعة.",
+      "it": "Sahl Italy è un'applicazione educativa gratuita e completa per imparare la lingua italiana dal livello A1 al B2. Ti offriamo un'esperienza educativa unica che combina grammatica, vocabolario, conversazione e ascolto in modo facile e divertente.",
+      "en": "Sahl Italy is a free and comprehensive educational app for learning Italian from level A1 to B2. We offer you a unique learning experience that combines grammar, vocabulary, conversation, and listening in an easy and fun way."
+    },
+    "mission": {
+      "title": "مهمتنا",
+      "content": "جعل تعلم اللغة الإيطالية سهلاً ومتاحاً للجميع في العالم العربي"
+    },
+    "vision": {
+      "title": "رؤيتنا",
+      "content": "أن نكون التطبيق الأول لتعلم اللغة الإيطالية للناطقين بالعربية"
+    },
+    "stats": {
+      "total_users": "100,000+",
+      "total_lessons": "150+",
+      "total_words": "5,000+",
+      "app_rating": 4.8,
+      "countries_reached": 25
+    },
+    "team": [
+      {
+        "name": "فريق المحتوى التعليمي",
+        "description": "معلمون معتمدون للغة الإيطالية"
+      },
+      {
+        "name": "فريق التطوير",
+        "description": "مطورون محترفون لتجربة مستخدم مميزة"
+      }
+    ]
   },
+
   "contact": {
     "title": "اتصل بنا",
-    "email": "support@sahlitaly.com",
-    "content": "يمكنك التواصل معنا عبر البريد الإلكتروني."
+    "title_it": "Contattaci",
+    "subtitle": "نحن هنا لمساعدتك",
+    "content": {
+      "ar": "يسعدنا تواصلك معنا! يمكنك إرسال استفساراتك أو اقتراحاتك أو الإبلاغ عن أي مشكلة. فريقنا سيرد عليك في أقرب وقت ممكن.",
+      "it": "Siamo felici di sentirti! Puoi inviare le tue domande, suggerimenti o segnalare qualsiasi problema. Il nostro team ti risponderà il prima possibile."
+    },
+    "email": {
+      "support": "support@sahlitaly.com",
+      "business": "business@sahlitaly.com",
+      "feedback": "feedback@sahlitaly.com"
+    },
+    "response_time": "نرد خلال 24-48 ساعة",
+    "form_fields": [
+      {
+        "id": "name",
+        "label": "الاسم",
+        "type": "text",
+        "required": true
+      },
+      {
+        "id": "email",
+        "label": "البريد الإلكتروني",
+        "type": "email",
+        "required": true
+      },
+      {
+        "id": "subject",
+        "label": "الموضوع",
+        "type": "select",
+        "options": [
+          "استفسار عام",
+          "مشكلة تقنية",
+          "اقتراح",
+          "شراكة",
+          "أخرى"
+        ],
+        "required": true
+      },
+      {
+        "id": "message",
+        "label": "الرسالة",
+        "type": "textarea",
+        "required": true,
+        "min_length": 20
+      }
+    ],
+    "faq_link": "https://sahlitaly.com/faq"
   },
+
   "privacy": {
     "title": "سياسة الخصوصية",
-    "content": "نحن نحترم خصوصيتك. لا نجمع أي بيانات شخصية."
+    "title_it": "Informativa sulla Privacy",
+    "last_updated": "2025-01-01",
+    "version": "2.0",
+    "sections": [
+      {
+        "id": "intro",
+        "title": "مقدمة",
+        "content": "نحن في تطبيق سهل إيطالي نحترم خصوصيتك ونلتزم بحماية بياناتك الشخصية. توضح هذه السياسة كيفية جمع واستخدام وحماية معلوماتك."
+      },
+      {
+        "id": "data_collection",
+        "title": "البيانات التي نجمعها",
+        "content": "نجمع الحد الأدنى من البيانات اللازمة لتقديم خدماتنا:",
+        "items": [
+          "البريد الإلكتروني (اختياري للتسجيل)",
+          "تقدمك في الدروس",
+          "إعدادات التطبيق المفضلة",
+          "بيانات الجهاز الأساسية لتحسين الأداء"
+        ]
+      },
+      {
+        "id": "data_usage",
+        "title": "كيف نستخدم بياناتك",
+        "items": [
+          "تحسين تجربة التعلم",
+          "حفظ تقدمك في الدروس",
+          "إرسال إشعارات مفيدة (بموافقتك)",
+          "تحسين التطبيق وإصلاح الأخطاء"
+        ]
+      },
+      {
+        "id": "data_protection",
+        "title": "حماية البيانات",
+        "content": "نستخدم تقنيات تشفير متقدمة لحماية بياناتك. لا نبيع أو نشارك بياناتك مع أطراف ثالثة."
+      },
+      {
+        "id": "data_sharing",
+        "title": "مشاركة البيانات",
+        "content": "لا نشارك بياناتك الشخصية مع أي طرف ثالث إلا في الحالات التالية:",
+        "items": [
+          "بموافقتك الصريحة",
+          "للامتثال للمتطلبات القانونية",
+          "لحماية حقوقنا القانونية"
+        ]
+      },
+      {
+        "id": "user_rights",
+        "title": "حقوقك",
+        "items": [
+          "الوصول إلى بياناتك",
+          "تعديل بياناتك",
+          "حذف حسابك وبياناتك",
+          "إلغاء الاشتراك في الإشعارات"
+        ]
+      },
+      {
+        "id": "cookies",
+        "title": "ملفات تعريف الارتباط",
+        "content": "نستخدم ملفات تعريف الارتباط لتحسين تجربتك. يمكنك التحكم في إعدادات ملفات تعريف الارتباط من خلال إعدادات جهازك."
+      },
+      {
+        "id": "children",
+        "title": "خصوصية الأطفال",
+        "content": "تطبيقنا آمن للاستخدام من قبل جميع الأعمار. لا نجمع بيانات شخصية من الأطفال دون سن 13 عاماً دون موافقة ولي الأمر."
+      },
+      {
+        "id": "changes",
+        "title": "تغييرات السياسة",
+        "content": "قد نقوم بتحديث هذه السياسة من وقت لآخر. سنخطرك بأي تغييرات جوهرية عبر التطبيق أو البريد الإلكتروني."
+      },
+      {
+        "id": "contact",
+        "title": "اتصل بنا",
+        "content": "إذا كان لديك أي أسئلة حول سياسة الخصوصية، تواصل معنا عبر: privacy@sahlitaly.com"
+      }
+    ],
+    "gdpr_compliant": true,
+    "ccpa_compliant": true
   },
+
   "terms": {
     "title": "شروط الخدمة",
-    "content": "باستخدام هذا التطبيق، أنت توافق على استخدامه للأغراض التعليمية فقط."
+    "title_it": "Termini di Servizio",
+    "last_updated": "2025-01-01",
+    "version": "2.0",
+    "sections": [
+      {
+        "id": "acceptance",
+        "title": "قبول الشروط",
+        "content": "باستخدام تطبيق سهل إيطالي، فإنك توافق على الالتزام بهذه الشروط والأحكام. إذا كنت لا توافق على أي جزء من هذه الشروط، يرجى عدم استخدام التطبيق."
+      },
+      {
+        "id": "service_description",
+        "title": "وصف الخدمة",
+        "content": "سهل إيطالي هو تطبيق تعليمي مجاني لتعلم اللغة الإيطالية. نقدم دروساً في القواعد والمفردات والمحادثة والاستماع."
+      },
+      {
+        "id": "user_accounts",
+        "title": "حسابات المستخدمين",
+        "items": [
+          "يجب أن تكون المعلومات المقدمة صحيحة ودقيقة",
+          "أنت مسؤول عن الحفاظ على سرية حسابك",
+          "يحق لنا تعليق أو إلغاء الحسابات المخالفة"
+        ]
+      },
+      {
+        "id": "acceptable_use",
+        "title": "الاستخدام المقبول",
+        "content": "يجب استخدام التطبيق للأغراض التعليمية فقط. يُحظر:",
+        "prohibited_items": [
+          "استخدام التطبيق لأغراض غير قانونية",
+          "نسخ أو توزيع محتوى التطبيق",
+          "محاولة اختراق أو تعطيل التطبيق",
+          "إنشاء حسابات متعددة بشكل مسيء",
+          "استخدام برامج آلية للوصول للتطبيق"
+        ]
+      },
+      {
+        "id": "intellectual_property",
+        "title": "حقوق الملكية الفكرية",
+        "content": "جميع المحتويات في التطبيق (نصوص، صور، صوتيات، فيديوهات) محمية بحقوق الملكية الفكرية ولا يجوز نسخها أو توزيعها دون إذن كتابي."
+      },
+      {
+        "id": "disclaimer",
+        "title": "إخلاء المسؤولية",
+        "content": "نسعى لتقديم محتوى دقيق وعالي الجودة، لكننا لا نضمن خلو المحتوى من الأخطاء. التطبيق مقدم 'كما هو' دون ضمانات."
+      },
+      {
+        "id": "limitation_liability",
+        "title": "تحديد المسؤولية",
+        "content": "لن نكون مسؤولين عن أي أضرار مباشرة أو غير مباشرة ناتجة عن استخدام التطبيق."
+      },
+      {
+        "id": "modifications",
+        "title": "تعديل الخدمة والشروط",
+        "content": "نحتفظ بالحق في تعديل أو إيقاف الخدمة أو تغيير هذه الشروط في أي وقت. سيتم إخطارك بالتغييرات الجوهرية."
+      },
+      {
+        "id": "termination",
+        "title": "إنهاء الخدمة",
+        "content": "يحق لنا إنهاء أو تعليق وصولك للتطبيق في حالة مخالفة هذه الشروط."
+      },
+      {
+        "id": "governing_law",
+        "title": "القانون الحاكم",
+        "content": "تخضع هذه الشروط للقوانين السارية. أي نزاعات سيتم حلها عبر التحكيم."
+      },
+      {
+        "id": "contact",
+        "title": "اتصل بنا",
+        "content": "لأي استفسارات حول شروط الخدمة، تواصل معنا عبر: legal@sahlitaly.com"
+      }
+    ]
+  },
+
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "title_it": "Domande Frequenti",
+    "categories": [
+      {
+        "id": "general",
+        "name": "أسئلة عامة",
+        "questions": [
+          {
+            "q": "هل التطبيق مجاني؟",
+            "a": "نعم، تطبيق سهل إيطالي مجاني بالكامل مع جميع المستويات من A1 إلى B2."
+          },
+          {
+            "q": "هل يعمل التطبيق بدون إنترنت؟",
+            "a": "نعم، يمكنك تحميل الدروس والوصول إليها بدون اتصال بالإنترنت."
+          },
+          {
+            "q": "ما المستويات المتاحة؟",
+            "a": "نقدم حالياً المستويات A1, A2, B1, B2. المستويات C1 و C2 قريباً."
+          }
+        ]
+      },
+      {
+        "id": "account",
+        "name": "الحساب والبيانات",
+        "questions": [
+          {
+            "q": "هل التسجيل إلزامي؟",
+            "a": "لا، يمكنك استخدام التطبيق كضيف، لكن التسجيل يتيح حفظ تقدمك."
+          },
+          {
+            "q": "كيف أحذف حسابي؟",
+            "a": "من الإعدادات > الحساب > حذف الحساب، أو تواصل معنا عبر البريد."
+          }
+        ]
+      },
+      {
+        "id": "technical",
+        "name": "مشاكل تقنية",
+        "questions": [
+          {
+            "q": "التطبيق لا يعمل، ماذا أفعل؟",
+            "a": "جرب إعادة تشغيل التطبيق أو تحديثه. إذا استمرت المشكلة، تواصل معنا."
+          },
+          {
+            "q": "الصوت لا يعمل",
+            "a": "تأكد من رفع صوت الجهاز وعدم تفعيل وضع الصامت."
+          }
+        ]
+      }
+    ]
+  },
+
+  "notifications": {
+    "daily_reminder": {
+      "enabled": true,
+      "default_time": "09:00",
+      "title": "وقت التعلم! 🇮🇹",
+      "body": "لا تنسَ درسك اليومي في الإيطالية!"
+    },
+    "streak_reminder": {
+      "enabled": true,
+      "title": "حافظ على سلسلتك! 🔥",
+      "body": "لديك سلسلة {streak} يوم، لا تفقدها!"
+    },
+    "new_content": {
+      "enabled": true,
+      "title": "محتوى جديد! 🆕",
+      "body": "تمت إضافة دروس جديدة، اكتشفها الآن!"
+    },
+    "achievement": {
+      "enabled": true,
+      "title": "مبروك! 🏆",
+      "body": "حصلت على إنجاز جديد: {achievement_name}"
+    }
+  },
+
+  "gamification": {
+    "points_system": {
+      "lesson_complete": 10,
+      "quiz_correct": 5,
+      "daily_streak": 15,
+      "level_complete": 100
+    },
+    "badges": [
+      {
+        "id": "first_lesson",
+        "name": "البداية",
+        "name_it": "L'inizio",
+        "description": "أكملت درسك الأول",
+        "icon": "🎯"
+      },
+      {
+        "id": "week_streak",
+        "name": "أسبوع متواصل",
+        "name_it": "Una settimana consecutiva",
+        "description": "تعلمت لمدة 7 أيام متتالية",
+        "icon": "🔥"
+      },
+      {
+        "id": "vocabulary_master",
+        "name": "خبير المفردات",
+        "name_it": "Esperto di vocabolario",
+        "description": "تعلمت 500 كلمة",
+        "icon": "📚"
+      },
+      {
+        "id": "perfect_quiz",
+        "name": "إجابة مثالية",
+        "name_it": "Risposta perfetta",
+        "description": "حصلت على 100% في اختبار",
+        "icon": "⭐"
+      }
+    ],
+    "levels": [
+      { "level": 1, "points_required": 0, "title": "مبتدئ" },
+      { "level": 2, "points_required": 100, "title": "متعلم" },
+      { "level": 3, "points_required": 300, "title": "متقدم" },
+      { "level": 4, "points_required": 600, "title": "خبير" },
+      { "level": 5, "points_required": 1000, "title": "أستاذ" }
+    ]
+  },
+
+  "ads": {
+    "enabled": false,
+    "banner_id": "",
+    "interstitial_id": "",
+    "rewarded_id": "",
+    "show_after_lessons": 5
+  },
+
+  "analytics": {
+    "enabled": true,
+    "provider": "firebase",
+    "track_events": [
+      "lesson_started",
+      "lesson_completed",
+      "quiz_completed",
+      "level_changed",
+      "app_opened"
+    ]
+  },
+
+  "updates": {
+    "check_on_startup": true,
+    "force_update_enabled": true,
+    "min_required_version": "1.5.0",
+    "update_url": {
+      "android": "https://play.google.com/store/apps/details?id=com.sahlitaly",
+      "ios": "https://apps.apple.com/app/sahl-italy/id123456789"
+    }
+  },
+
+  "api": {
+    "base_url": "https://api.sahlitaly.com/v2",
+    "timeout": 30,
+    "retry_attempts": 3,
+    "cache_duration_hours": 24
+  },
+
+  "support": {
+    "help_center_url": "https://help.sahlitaly.com",
+    "community_url": "https://community.sahlitaly.com",
+    "bug_report_url": "https://sahlitaly.com/report-bug",
+    "feature_request_url": "https://sahlitaly.com/feature-request"
+  },
+
+  "localization": {
+    "default_locale": "ar",
+    "supported_locales": ["ar", "it", "en"],
+    "rtl_languages": ["ar"],
+    "date_format": {
+      "ar": "dd/MM/yyyy",
+      "it": "dd/MM/yyyy",
+      "en": "MM/dd/yyyy"
+    }
+  },
+
+  "meta": {
+    "config_version": "2.0.0",
+    "last_updated": "2025-01-15T10:00:00Z",
+    "schema_version": 2
   }
 }
