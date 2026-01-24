@@ -306,7 +306,7 @@
       { "it": "Caramella", "ar": "حلوى", "phonetic": "/karaˈmɛlla/", "type": "اسم", "example": { "it": "Caramelle alla menta.", "ar": "حلوى بالنعناع." } },
       { "it": "Succo", "ar": "عصير", "phonetic": "/ˈsukko/", "type": "اسم", "example": { "it": "Succo di mela.", "ar": "عصير تفاح." } },
       { "it": "Tè", "ar": "شاي", "phonetic": "/tɛ/", "type": "اسم", "example": { "it": "Una tazza di tè.", "ar": "كوب شاي." } },
-      { "it": "Birra", "ar": "بيرة", "phonetic": "/ˈbirra/", "type": "اسم", "example": { "it": "Una birra fredda.", "ar": "بيرة باردة." } },
+      { "it": "succo", "ar": "عصير", "phonetic": "/ˈsucco/", "type": "اسم", "example": { "it": "Una succo freddo.", "ar": "عصير بارد." } },
       { "it": "Spremuta", "ar": "عصير طازج", "phonetic": "/spreˈmuta/", "type": "اسم", "example": { "it": "Spremuta d'arancia.", "ar": "عصير برتقال طازج." } },
       { "it": "Minestra", "ar": "حساء", "phonetic": "/miˈnestra/", "type": "اسم", "example": { "it": "Minestra di verdure.", "ar": "حساء خضار." } },
       { "it": "Zuppa", "ar": "شوربة", "phonetic": "/ˈtsuppa/", "type": "اسم", "example": { "it": "Zuppa calda.", "ar": "شوربة ساخنة." } },
