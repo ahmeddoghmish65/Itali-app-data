@@ -343,7 +343,7 @@
       "words": [
         { "it": "Tè", "ar": "شاي", "phonetic": "/tɛ/", "type": "اسم", "example": { "it": "Tè al limone.", "ar": "شاي بالليمون." } },
         { "it": "Succo", "ar": "عصير", "phonetic": "/ˈsukko/", "type": "اسم", "example": { "it": "Succo di frutta.", "ar": "عصير فواكه." } },
-        { "it": "Birra", "ar": "بيرة", "phonetic": "/ˈbirra/", "type": "اسم", "example": { "it": "Una birra piccola.", "ar": "بيرة صغيرة." } },
+        { "it": "tazza", "ar": "كوب", "phonetic": "/ˈtazza/", "type": "اسم", "example": { "it": "Una tazza piccola.", "ar": "كوب صغيرة." } },
         { "it": "Cioccolata", "ar": "شوكلاتة (مشروب/أكل)", "phonetic": "/tʃokkoˈlata/", "type": "اسم", "example": { "it": "Cioccolata calda.", "ar": "شوكلاتة ساخنة." } }
       ]
     },
@@ -1031,7 +1031,7 @@
       "name": "مصطلحات دينية بسيطة",
       "icon": "pray",
       "words": [
-        { "it": "Dio", "ar": "الله / الرب", "phonetic": "/ˈdio/", "type": "اسم", "example": { "it": "Grazie a Dio.", "ar": "الحمد لله (شكراً لله)." } },
+        { "it": "Allah", "ar": "الله / الرب", "phonetic": "/ˈdio/", "type": "اسم", "example": { "it": "Grazie a Dio.", "ar": "الحمد لله (شكراً لله)." } },
         { "it": "Preghiera", "ar": "صلاة", "phonetic": "/preˈgjɛra/", "type": "اسم", "example": { "it": "Faccio una preghiera.", "ar": "أقوم بصلاة." } },
         { "it": "Angelo", "ar": "ملاك", "phonetic": "/ˈandʒelo/", "type": "اسم", "example": { "it": "Un angelo custode.", "ar": "ملاك حارس." } },
         { "it": "Pace", "ar": "سلام", "phonetic": "/ˈpatʃe/", "type": "اسم", "example": { "it": "Pace a tutti.", "ar": "سلام للجميع." } }
