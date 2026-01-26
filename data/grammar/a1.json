@@ -15,13 +15,13 @@
         { "pronoun": "Gn", "conjugation": "gn", "meaning": "نطق (نيـ): Bagno (حمام), Gnocchi" }
       ],
       "examples": [
-        { "it": "Mi piace il gelato al cioccolato.", "ar": "أحب آيس كريم الشوكولاتة." },
-        { "it": "Chi è quella ragazza?", "ar": "من تلك الفتاة؟ (Chi تُنطق كِي)." },
-        { "it": "Spaghetti con formaggio.", "ar": "سباغيتي مع الجبن." },
-        { "it": "Andiamo al cinema.", "ar": "لنذهب إلى السينما." },
-        { "it": "Ho un cane bianco.", "ar": "عندي كلب أبيض." },
-        { "it": "Ciao, come stai?", "ar": "أهلاً، كيف حالك؟" },
-        { "it": "Grazie mille.", "ar": "شكراً جزيلاً." }
+        { "it": "Ciao, come stai?", "ar": "أهلاً، كيف حالك؟ (نطق ناعم Ci)" },
+        { "it": "Grazie mille.", "ar": "شكراً جزيلاً. (نطق قاسي Gra)" },
+        { "it": "Ho un cane bianco.", "ar": "عندي كلب أبيض. (نطق قاسي Ca)" },
+        { "it": "Mi piace il gelato.", "ar": "أحب الآيس كريم. (نطق ناعم Ge)" },
+        { "it": "Andiamo al cinema.", "ar": "لنذهب إلى السينما. (نطق ناعم Ci)" },
+        { "it": "Chi è quella ragazza?", "ar": "من تلك الفتاة؟ (نطق قاسي Ch)" },
+        { "it": "Spaghetti con formaggio.", "ar": "سباغيتي مع الجبن. (نطق قاسي Gh + ناعم gi)" }
       ]
     }
   },
@@ -42,13 +42,13 @@
         { "pronoun": "Loro", "conjugation": "هم / هن", "meaning": "الغائب الجمع" }
       ],
       "examples": [
-        { "it": "Loro sono a casa.", "ar": "هم في المنزل." },
+        { "it": "Io abito qui.", "ar": "أنا أسكن هنا." },
         { "it": "Tu sei speciale.", "ar": "أنت مميز." },
+        { "it": "Lui lavora in banca.", "ar": "هو يعمل في بنك." },
         { "it": "Lei di dov'è?", "ar": "من أين حضرتك؟ (رسمي)" },
         { "it": "Noi andiamo al cinema.", "ar": "نحن ذاهبون للسينما." },
-        { "it": "Io abito qui.", "ar": "أنا أسكن هنا." },
         { "it": "Voi siete pronti?", "ar": "هل أنتم جاهزون؟" },
-        { "it": "Lui lavora in banca.", "ar": "هو يعمل في بنك." }
+        { "it": "Loro sono a casa.", "ar": "هم في المنزل." }
       ]
     }
   },
@@ -70,12 +70,12 @@
       "examples": [
         { "it": "Io sono stanco ma felice.", "ar": "أنا متعب ولكن سعيد." },
         { "it": "Tu sei molto gentile.", "ar": "أنت لطيف جداً." },
-        { "it": "Lei è il professor Rossi?", "ar": "هل حضرتك البروفيسور روسي؟ (صيغة احترام)" },
         { "it": "Lui è spagnolo, non è italiano.", "ar": "هو إسباني، ليس إيطالياً." },
+        { "it": "Lei è il professor Rossi?", "ar": "هل حضرتك البروفيسور روسي؟ (صيغة احترام)" },
+        { "it": "La mela è rossa.", "ar": "التفاحة حمراء (لغير العاقل)." },
         { "it": "Noi siamo a Roma ora.", "ar": "نحن في روما الآن." },
         { "it": "Voi siete amici?", "ar": "هل أنتم أصدقاء؟" },
-        { "it": "Loro sono a casa.", "ar": "هم في المنزل." },
-        { "it": "La mela è rossa.", "ar": "التفاحة حمراء." }
+        { "it": "Loro sono a casa.", "ar": "هم في المنزل." }
       ]
     }
   },
@@ -93,13 +93,12 @@
         { "pronoun": "استثناءات", "conjugation": "Il problema (م)، La mano (ث)", "meaning": "كلمات شاذة يجب حفظها" }
       ],
       "examples": [
-        { "it": "Il gelato è freddo.", "ar": "الآيس كريم بارد." },
-        { "it": "La macchina è nuova.", "ar": "السيارة جديدة." },
-        { "it": "Il problema è difficile.", "ar": "المشكلة صعبة (مشكلة مذكر في الإيطالية)." },
-        { "it": "La chiave è piccola.", "ar": "المفتاح صغير (مؤنث)." },
-        { "it": "Il sole è caldo.", "ar": "الشمس حارة (مذكر)." },
-        { "it": "La luna è bella.", "ar": "القمر جميل (مؤنث)." },
-        { "it": "Questo sport è divertente.", "ar": "هذه الرياضة ممتعة (كلمة أجنبية تعامل كمذكر)." }
+        { "it": "Il gelato è freddo.", "ar": "الآيس كريم بارد. (ينتهي بـ O)" },
+        { "it": "La macchina è nuova.", "ar": "السيارة جديدة. (تنتهي بـ A)" },
+        { "it": "Il sole è caldo.", "ar": "الشمس حارة. (تنتهي بـ E مذكر)" },
+        { "it": "La chiave è piccola.", "ar": "المفتاح صغير. (تنتهي بـ E مؤنث)" },
+        { "it": "Questo sport è divertente.", "ar": "هذه الرياضة ممتعة. (كلمة أجنبية مذكر)" },
+        { "it": "Il problema è difficile.", "ar": "المشكلة صعبة. (استثناء: تنتهي بـ A لكنها مذكر)" }
       ]
     }
   },
@@ -117,13 +116,12 @@
         { "pronoun": "un' (مؤنث متحرك)", "conjugation": "un'amica, un'ora", "meaning": "حصرياً للمؤنث المبدوء بمتحرك" }
       ],
       "examples": [
-        { "it": "Ho un problema.", "ar": "عندي مشكلة." },
-        { "it": "Cerco uno zaino nero.", "ar": "أبحث عن حقيبة ظهر سوداء." },
+        { "it": "Prendo un caffè.", "ar": "سأخذ قهوة." },
         { "it": "Vuoi una birra?", "ar": "أتريد بيرة؟" },
-        { "it": "È un'idea interessante.", "ar": "إنها فكرة مثيرة للاهتمام." },
-        { "it": "Prendo un caffè.", "ar": "سأخذ قهوة (واحدة)." },
-        { "it": "C'è uno stadio grande.", "ar": "يوجد ملعب (ستاد) كبير." },
-        { "it": "Ho una domanda.", "ar": "عندي سؤال." }
+        { "it": "Ho un problema.", "ar": "عندي مشكلة." },
+        { "it": "Cerco uno zaino nero.", "ar": "أبحث عن حقيبة ظهر سوداء (حالة خاصة Uno)." },
+        { "it": "È un'idea interessante.", "ar": "إنها فكرة مثيرة للاهتمام (مؤنث متحرك)." },
+        { "it": "C'è uno stadio grande.", "ar": "يوجد ملعب كبير." }
       ]
     }
   },
@@ -143,14 +141,14 @@
         { "pronoun": "la / le (مؤنث)", "conjugation": "la casa → le case", "meaning": "La للمفرد و Le لكل أنواع الجمع المؤنث" }
       ],
       "examples": [
-        { "it": "Lo studente studia la lezione.", "ar": "الطالب يدرس الدرس." },
-        { "it": "Gli alberi sono alti.", "ar": "الأشجار عالية." },
-        { "it": "L'isola è bella.", "ar": "الجزيرة جميلة." },
         { "it": "Il caffè è caldo.", "ar": "القهوة ساخنة." },
         { "it": "La pizza è buona.", "ar": "البيتزا لذيذة." },
-        { "it": "I ragazzi giocano a calcio.", "ar": "الأولاد يلعبون كرة القدم." },
         { "it": "L'uomo è alto.", "ar": "الرجل طويل." },
-        { "it": "Le donne parlano.", "ar": "النساء يتحدثن." }
+        { "it": "L'isola è bella.", "ar": "الجزيرة جميلة." },
+        { "it": "Lo studente studia.", "ar": "الطالب يدرس." },
+        { "it": "I ragazzi giocano a calcio.", "ar": "الأولاد يلعبون كرة القدم." },
+        { "it": "Le donne parlano.", "ar": "النساء يتحدثن." },
+        { "it": "Gli alberi sono alti.", "ar": "الأشجار عالية." }
       ]
     }
   },
@@ -170,13 +168,12 @@
         { "pronoun": "Loro", "conjugation": "hanno", "meaning": "هم يملكون / عندهم" }
       ],
       "examples": [
-        { "it": "Ho 25 anni.", "ar": "عمري 25 سنة (حرفياً: أملك 25 سنة)." },
-        { "it": "Hai fame o hai sete?", "ar": "هل تشعر بالجوع أم بالعطش؟" },
-        { "it": "Lui ha una bella macchina.", "ar": "هو يملك سيارة جميلة." },
+        { "it": "Lui ha una bella macchina.", "ar": "هو يملك سيارة جميلة (ملكية)." },
+        { "it": "Ho 25 anni.", "ar": "عمري 25 سنة (العمر)." },
+        { "it": "Hai fame o hai sete?", "ar": "هل تشعر بالجوع أم بالعطش؟ (إحساس)." },
+        { "it": "Hai tempo?", "ar": "هل لديك وقت؟" },
         { "it": "Noi abbiamo freddo.", "ar": "نحن نشعر بالبرد." },
         { "it": "Voi avete un gatto?", "ar": "هل عندكم قطة؟" },
-        { "it": "Loro hanno paura dei cani.", "ar": "هم يخافون من الكلاب." },
-        { "it": "Hai tempo?", "ar": "هل لديك وقت؟" },
         { "it": "Ho sonno, buonanotte.", "ar": "أشعر بالنعاس، تصبح على خير." }
       ]
     }
@@ -194,13 +191,12 @@
         { "pronoun": "نفي", "conjugation": "Non mangio una mela.", "meaning": "Non تأتي دائماً قبل الفعل مباشرة." }
       ],
       "examples": [
-        { "it": "Parlo italiano molto bene.", "ar": "أتحدث الإيطالية جيداً جداً." },
-        { "it": "Abitiamo a Milano.", "ar": "نسكن في ميلانو (بدون 'نحن')." },
-        { "it": "Laura legge un libro.", "ar": "لورا تقرأ كتاباً." },
-        { "it": "Non capisco.", "ar": "لا أفهم." },
-        { "it": "Oggi mangiamo pasta.", "ar": "اليوم نأكل المعكرونة." },
-        { "it": "Marco guarda la TV.", "ar": "ماركو يشاهد التلفاز." },
-        { "it": "Amo l'Italia.", "ar": "أحب إيطاليا." }
+        { "it": "Laura legge un libro.", "ar": "لورا تقرأ كتاباً. (جملة قياسية)" },
+        { "it": "Parlo italiano molto bene.", "ar": "أتحدث الإيطالية جيداً جداً. (بدون ضمير)" },
+        { "it": "Amo l'Italia.", "ar": "أحب إيطاليا." },
+        { "it": "Non capisco.", "ar": "لا أفهم. (نفي بسيط)" },
+        { "it": "Abitiamo a Milano.", "ar": "نسكن في ميلانو." },
+        { "it": "Oggi mangiamo pasta.", "ar": "اليوم نأكل المعكرونة." }
       ]
     }
   },
@@ -217,13 +213,12 @@
         { "pronoun": "مع ضمير", "conjugation": "Non mi piace.", "meaning": "لا يعجبني (Non قبل الضمير)." }
       ],
       "examples": [
-        { "it": "Non parlo giapponese.", "ar": "لا أتحدث اليابانية." },
-        { "it": "Non è vero!", "ar": "هذا ليس صحيحاً!" },
-        { "it": "Perché non mangi?", "ar": "لماذا لا تأكل؟" },
         { "it": "Non ho tempo.", "ar": "ليس لدي وقت." },
+        { "it": "Non parlo giapponese.", "ar": "لا أتحدث اليابانية." },
         { "it": "Non abito a Milano.", "ar": "لا أسكن في ميلانو." },
-        { "it": "Questo non è giusto.", "ar": "هذا ليس عدلاً." },
-        { "it": "Non siamo stanchi.", "ar": "نحن لسنا متعبين." }
+        { "it": "Non è vero!", "ar": "هذا ليس صحيحاً!" },
+        { "it": "Non siamo stanchi.", "ar": "نحن لسنا متعبين." },
+        { "it": "Perché non mangi?", "ar": "لماذا لا تأكل؟" }
       ]
     }
   },
@@ -241,12 +236,11 @@
       ],
       "examples": [
         { "it": "Sei italiano?", "ar": "هل أنت إيطالي؟" },
-        { "it": "Studi o lavori?", "ar": "هل تدرس أم تعمل؟" },
-        { "it": "Come ti chiami?", "ar": "ما اسمك؟" },
         { "it": "Ti piace il caffè?", "ar": "هل تحب القهوة؟" },
         { "it": "Andiamo al mare?", "ar": "هل نذهب للبحر؟" },
-        { "it": "Tutto bene?", "ar": "هل كل شيء بخير؟" },
-        { "it": "Parli inglese?", "ar": "هل تتحدث الإنجليزية؟" }
+        { "it": "Parli inglese?", "ar": "هل تتحدث الإنجليزية؟" },
+        { "it": "Studi o lavori?", "ar": "هل تدرس أم تعمل؟" },
+        { "it": "Come ti chiami?", "ar": "ما اسمك؟" }
       ]
     }
   },
@@ -264,10 +258,10 @@
         { "pronoun": "ألوان أساسية", "conjugation": "rosso, nero, bianco, verde (صفة E)", "meaning": "أحمر، أسود، أبيض، أخضر" }
       ],
       "examples": [
-        { "it": "Ho una casa piccola ma bella.", "ar": "لدي منزل صغير ولكنه جميل." },
+        { "it": "Ho una casa piccola.", "ar": "لدي منزل صغير." },
         { "it": "Il caffè italiano è molto buono.", "ar": "القهوة الإيطالية جيدة جداً." },
-        { "it": "Sei molto gentile.", "ar": "أنت مهذب جداً." },
         { "it": "L'esercizio è facile.", "ar": "التمرين سهل." },
+        { "it": "Sei molto gentile.", "ar": "أنت مهذب جداً." },
         { "it": "Oggi sono felice.", "ar": "اليوم أنا سعيد." },
         { "it": "Il cielo è blu.", "ar": "السماء زرقاء (لون لا يتغير)." },
         { "it": "Il film è triste.", "ar": "الفيلم حزين." }
@@ -289,13 +283,13 @@
         { "pronoun": "صفات الـ E", "conjugation": "Libro interessante / Casa interessante", "meaning": "تظل كما هي في المفرد وتصبح interessanti في الجمع" }
       ],
       "examples": [
-        { "it": "La pizza è calda.", "ar": "البيتزا ساخنة." },
-        { "it": "Gli spaghetti sono buoni.", "ar": "السباغيتي لذيذة." },
-        { "it": "Maria è intelligente.", "ar": "ماريا ذكية (صفة منتهية بـ e)." },
         { "it": "Marco è italiano.", "ar": "ماركو إيطالي." },
         { "it": "Anna è italiana.", "ar": "آنا إيطالية." },
-        { "it": "Le scarpe sono nere.", "ar": "الأحذية سوداء." },
+        { "it": "La pizza è calda.", "ar": "البيتزا ساخنة." },
         { "it": "Questo libro è importante.", "ar": "هذا الكتاب مهم." },
+        { "it": "Gli spaghetti sono buoni.", "ar": "السباغيتي لذيذة (جمع مذكر)." },
+        { "it": "Le scarpe sono nere.", "ar": "الأحذية سوداء (جمع مؤنث)." },
+        { "it": "Maria è intelligente.", "ar": "ماريا ذكية (صفة منتهية بـ e)." },
         { "it": "Sono ragazze simpatiche.", "ar": "إنهن فتيات لطيفات." }
       ]
     }
@@ -314,11 +308,11 @@
         { "pronoun": "كلمات أجنبية", "conjugation": "il computer ← i computer", "meaning": "لا تتغير نهايتها، تتغير الأداة فقط" }
       ],
       "examples": [
-        { "it": "Compro due panini.", "ar": "أشتري شطيرتين (مفردها panino)." },
-        { "it": "Le chiavi sono qui.", "ar": "المفاتيح هنا (مفردها chiave)." },
-        { "it": "Gli studenti italiani.", "ar": "الطلاب الإيطاليون." },
-        { "it": "Mangio due mele.", "ar": "آكل تفاحتين." },
-        { "it": "I cani corrono.", "ar": "الكلاب تجري." },
+        { "it": "Mangio due mele.", "ar": "آكل تفاحتين (المفرد mela)." },
+        { "it": "Compro due panini.", "ar": "أشتري شطيرتين (المفرد panino)." },
+        { "it": "Le chiavi sono qui.", "ar": "المفاتيح هنا (المفرد chiave)." },
+        { "it": "Gli studenti italiani.", "ar": "الطلاب الإيطاليون (المفرد studente)." },
+        { "it": "I cani corrono.", "ar": "الكلاب تجري (المفرد cane)." },
         { "it": "Le pizze sono pronte.", "ar": "البيتزا (للجمع) جاهزة." },
         { "it": "Mi piacciono i fiori.", "ar": "تعجبني الزهور." }
       ]
@@ -338,13 +332,13 @@
         { "pronoun": "النفي", "conjugation": "Non c'è pane.", "meaning": "لا يوجد خبز." }
       ],
       "examples": [
-        { "it": "A Roma ci sono molti turisti.", "ar": "في روما يوجد سياح كثيرون." },
-        { "it": "C'è un problema con il computer.", "ar": "توجد مشكلة في الكمبيوتر." },
-        { "it": "Cosa c'è?", "ar": "ماذا هناك؟ (ما الأمر؟)" },
+        { "it": "C'è un problema.", "ar": "توجد مشكلة." },
         { "it": "Nel frigo c'è del latte.", "ar": "يوجد بعض الحليب في الثلاجة." },
-        { "it": "Non c'è tempo.", "ar": "لا يوجد وقت." },
         { "it": "Ci sono due gatti sul divano.", "ar": "يوجد قطتان على الأريكة." },
-        { "it": "C'è un ristorante qui vicino?", "ar": "هل يوجد مطعم قريب من هنا؟" }
+        { "it": "A Roma ci sono molti turisti.", "ar": "في روما يوجد سياح كثيرون." },
+        { "it": "Non c'è tempo.", "ar": "لا يوجد وقت." },
+        { "it": "C'è un ristorante qui vicino?", "ar": "هل يوجد مطعم قريب من هنا؟" },
+        { "it": "Cosa c'è?", "ar": "ماذا هناك؟ (ما الأمر؟)" }
       ]
     }
   },
@@ -365,12 +359,12 @@
       ],
       "examples": [
         { "it": "Io lavoro in banca.", "ar": "أعمل في بنك." },
-        { "it": "Noi mangiamo la pizza.", "ar": "نحن نأكل البيتزا." },
-        { "it": "Dove abiti?", "ar": "أين تسكن؟" },
         { "it": "Parli italiano?", "ar": "هل تتحدث الإيطالية؟" },
-        { "it": "Loro ascoltano la musica.", "ar": "هم يستمعون للموسيقى." },
+        { "it": "Maria studia molto.", "ar": "ماريا تدرس كثيراً." },
+        { "it": "Dove abiti?", "ar": "أين تسكن؟" },
+        { "it": "Noi mangiamo la pizza.", "ar": "نحن نأكل البيتزا." },
         { "it": "Guardo la TV ogni sera.", "ar": "أشاهد التلفاز كل مساء." },
-        { "it": "Maria studia molto.", "ar": "ماريا تدرس كثيراً." }
+        { "it": "Loro ascoltano la musica.", "ar": "هم يستمعون للموسيقى." }
       ]
     }
   },
@@ -392,11 +386,11 @@
       "examples": [
         { "it": "Prendo un caffè.", "ar": "سآخذ قهوة." },
         { "it": "Vedi quel ragazzo?", "ar": "أتر ذلك الفتى؟" },
-        { "it": "Loro scrivono una mail.", "ar": "هم يكتبون إيميلاً." },
+        { "it": "Lei legge un libro.", "ar": "هي تقرأ كتاباً." },
         { "it": "Viviamo a Roma.", "ar": "نحن نعيش في روما." },
+        { "it": "Metti lo zucchero?", "ar": "أتضع السكر؟" },
         { "it": "Chiudi la porta, per favore.", "ar": "أغلق الباب، من فضلك." },
-        { "it": "Lei legge un libro interessante.", "ar": "هي تقرأ كتاباً ممتعاً." },
-        { "it": "Metti lo zucchero?", "ar": "أتضع السكر؟" }
+        { "it": "Loro scrivono una mail.", "ar": "هم يكتبون إيميلاً." }
       ]
     }
   },
@@ -416,12 +410,12 @@
         { "pronoun": "Loro", "conjugation": "-ono / -iscono", "meaning": "Dorm-ono / Cap-iscono" }
       ],
       "examples": [
-        { "it": "Non capisco l'italiano.", "ar": "لا أفهم الإيطالية (نوع ISC)." },
-        { "it": "Dormi bene?", "ar": "هل تنام جيداً؟ (نوع عادي)." },
-        { "it": "Il film finisce alle otto.", "ar": "الفيلم ينتهي في الثامنة (نوع ISC)." },
         { "it": "Parto domani mattina.", "ar": "أغادر غداً صباحاً (نوع عادي)." },
-        { "it": "Preferisco il tè.", "ar": "أفضّل الشاي (نوع ISC)." },
+        { "it": "Dormi bene?", "ar": "هل تنام جيداً؟ (نوع عادي)." },
         { "it": "Apriamo la finestra.", "ar": "نحن نفتح النافذة (نوع عادي)." },
+        { "it": "Non capisco l'italiano.", "ar": "لا أفهم الإيطالية (نوع ISC)." },
+        { "it": "Preferisco il tè.", "ar": "أفضّل الشاي (نوع ISC)." },
+        { "it": "Il film finisce alle otto.", "ar": "الفيلم ينتهي في الثامنة (نوع ISC)." },
         { "it": "Pulisco la mia camera.", "ar": "أنظف غرفتي (نوع ISC)." }
       ]
     }
@@ -441,12 +435,12 @@
       ],
       "examples": [
         { "it": "Vado al cinema stasera.", "ar": "سأذهب للسينما الليلة." },
-        { "it": "Faccio una doccia.", "ar": "سأخذ حماماً (أقوم بدش)." },
-        { "it": "Noi usciamo spesso.", "ar": "نحن نخرج غالباً." },
-        { "it": "Cosa fai?", "ar": "ماذا تفعل؟" },
         { "it": "Loro vanno a scuola.", "ar": "هم يذهبون إلى المدرسة." },
+        { "it": "Cosa fai?", "ar": "ماذا تفعل؟" },
+        { "it": "Faccio una doccia.", "ar": "سأخذ حماماً (أقوم بدش)." },
         { "it": "Non bevo caffè.", "ar": "لا أشرب القهوة." },
-        { "it": "Esci stasera?", "ar": "هل ستخرج الليلة؟" }
+        { "it": "Esci stasera?", "ar": "هل ستخرج الليلة؟" },
+        { "it": "Noi usciamo spesso.", "ar": "نحن نخرج غالباً." }
       ]
     }
   },
@@ -467,13 +461,13 @@
         { "pronoun": "Quanto", "conjugation": "Quanto costa?", "meaning": "كم يكلف؟" }
       ],
       "examples": [
+        { "it": "Chi è quel ragazzo?", "ar": "من ذلك الفتى؟" },
         { "it": "Di dove sei?", "ar": "من أين أنت؟" },
         { "it": "Che cosa mangiamo stasera?", "ar": "ماذا سنأكل الليلة؟" },
-        { "it": "Quanti anni hai?", "ar": "كم سنة لديك (كم عمرك)؟" },
-        { "it": "Chi è quel ragazzo?", "ar": "من ذلك الفتى؟" },
-        { "it": "Perché studi l'italiano?", "ar": "لماذا تدرس الإيطالية؟" },
         { "it": "Quando parte il treno?", "ar": "متى ينطلق القطار؟" },
-        { "it": "Quanto costa il biglietto?", "ar": "كم سعر التذكرة؟" }
+        { "it": "Perché studi l'italiano?", "ar": "لماذا تدرس الإيطالية؟" },
+        { "it": "Quanto costa il biglietto?", "ar": "كم سعر التذكرة؟" },
+        { "it": "Quanti anni hai?", "ar": "كم سنة لديك (كم عمرك)؟" }
       ]
     }
   },
@@ -490,13 +484,13 @@
         { "pronoun": "سؤال رسمي", "conjugation": "Lei come si chiama?", "meaning": "ما اسم حضرتك؟" }
       ],
       "examples": [
+        { "it": "Ti piace la pizza?", "ar": "هل تحب البيتزا؟" },
         { "it": "Andiamo al mare?", "ar": "هل نذهب للبحر؟" },
         { "it": "Sì, andiamo!", "ar": "نعم، لنذهب!" },
-        { "it": "Quando parte il treno?", "ar": "متى ينطلق القطار؟" },
-        { "it": "Ti piace la pizza?", "ar": "هل تحب البيتزا؟" },
         { "it": "Capisci l'inglese?", "ar": "هل تفهم الإنجليزية؟" },
         { "it": "È libero questo posto?", "ar": "هل هذا المقعد فارغ؟" },
-        { "it": "Cosa fai nel tempo libero?", "ar": "ماذا تفعل في وقت الفراغ؟" }
+        { "it": "Cosa fai nel tempo libero?", "ar": "ماذا تفعل في وقت الفراغ؟" },
+        { "it": "Quando parte il treno?", "ar": "متى ينطلق القطار؟" }
       ]
     }
   },
@@ -516,11 +510,11 @@
         { "pronoun": "مع (Loro)", "conjugation": "il loro / la loro", "meaning": "لهم (تأخذ أداة دائماً حتى مع العائلة)" }
       ],
       "examples": [
-        { "it": "Dov'è la mia macchina?", "ar": "أين سيارتي؟ (مؤنث لأن 'سيارة' مؤنث)." },
-        { "it": "Mio fratello è alto.", "ar": "أخي طويل (بدون أداة تعريف لأنه فرد عائلة)." },
         { "it": "Amo il mio gatto.", "ar": "أحب قطتي." },
+        { "it": "Dov'è la mia macchina?", "ar": "أين سيارتي؟" },
         { "it": "Il tuo telefono suona.", "ar": "هاتفك يرن." },
         { "it": "La nostra casa è vicina.", "ar": "منزلنا قريب." },
+        { "it": "Mio fratello è alto.", "ar": "أخي طويل (بدون أداة تعريف لأنه فرد عائلة)." },
         { "it": "I miei amici sono simpatici.", "ar": "أصدقائي ظرفاء (جمع، لذا نضع الأداة)." },
         { "it": "Qual è il suo nome?", "ar": "ما اسمه؟ (أو اسمها)." }
       ]
@@ -540,12 +534,12 @@
         { "pronoun": "Quelli (جمع بعيد)", "conjugation": "Quei libri / Quelle case", "meaning": "تلك الكتب / تلك الدور" }
       ],
       "examples": [
-        { "it": "Quanto costa questo vestito?", "ar": "كم ثمن هذا الفستان؟" },
-        { "it": "Non mi piace quella macchina.", "ar": "لا تعجبني تلك السيارة." },
-        { "it": "Questi sono i miei amici.", "ar": "هؤلاء أصدقائي." },
         { "it": "Questa pizza è buonissima.", "ar": "هذه البيتزا لذيذة جداً." },
+        { "it": "Quanto costa questo vestito?", "ar": "كم ثمن هذا الفستان؟" },
+        { "it": "Questi sono i miei amici.", "ar": "هؤلاء أصدقائي." },
+        { "it": "Queste scarpe sono comode.", "ar": "هذه الأحذية مريحة." },
         { "it": "Preferisco quello zaino.", "ar": "أفضل تلك الحقيبة (البعيدة)." },
-        { "it": "Queste scarpe sono comode.", "ar": "هذه الأحذية مريحة." }
+        { "it": "Non mi piace quella macchina.", "ar": "لا تعجبني تلك السيارة." }
       ]
     }
   },
@@ -564,11 +558,11 @@
       ],
       "examples": [
         { "it": "Parli molto bene.", "ar": "تتحدث جيداً جداً (حال)." },
-        { "it": "Ho tanta fame.", "ar": "أنا جائع جداً (صفة للجوع)." },
-        { "it": "Ci sono poche persone.", "ar": "يوجد أشخاص قليلون." },
         { "it": "Loro lavorano tanto.", "ar": "هم يعملون كثيراً." },
-        { "it": "Ho molti amici italiani.", "ar": "عندي أصدقاء إيطاليون كثيرون." },
         { "it": "Fa molto freddo oggi.", "ar": "الجو بارد جداً اليوم." },
+        { "it": "Ho tanta fame.", "ar": "أنا جائع جداً (صفة لاسم)." },
+        { "it": "Ho molti amici italiani.", "ar": "عندي أصدقاء إيطاليون كثيرون." },
+        { "it": "Ci sono poche persone.", "ar": "يوجد أشخاص قليلون." },
         { "it": "Bevo poca acqua.", "ar": "أشرب قليلاً من الماء." }
       ]
     }
@@ -590,13 +584,13 @@
       ],
       "examples": [
         { "it": "Vado a casa.", "ar": "أنا ذاهب للمنزل." },
-        { "it": "Parto per l'Italia.", "ar": "أغادر إلى إيطاليا." },
-        { "it": "Il regalo è per te.", "ar": "الهدية لك." },
         { "it": "Sono a Roma.", "ar": "أنا في روما." },
+        { "it": "Andiamo in pizzeria.", "ar": "لنذهب إلى مطعم البيتزا." },
+        { "it": "Parto per l'Italia.", "ar": "أغادر إلى إيطاليا." },
         { "it": "Il libro è di Marco.", "ar": "الكتاب ملك لماركو." },
         { "it": "Vado da Antonio.", "ar": "ذاهب عند أنطونيو (إلى منزله)." },
-        { "it": "Andiamo in pizzeria.", "ar": "لنذهب إلى مطعم البيتزا." },
-        { "it": "Esco con Maria.", "ar": "أخرج مع ماريا." }
+        { "it": "Esco con Maria.", "ar": "أخرج مع ماريا." },
+        { "it": "Il regalo è per te.", "ar": "الهدية لك." }
       ]
     }
   },
@@ -615,12 +609,12 @@
         { "pronoun": "Da + il", "conjugation": "Dal", "meaning": "عند الـ / من الـ (Dal dottore)" }
       ],
       "examples": [
-        { "it": "Le chiavi sono sul tavolo.", "ar": "المفاتيح على الطاولة (su + il)." },
-        { "it": "Vado dal medico.", "ar": "أنا ذاهب للطبيب (da + il)." },
-        { "it": "Ci vediamo al ristorante.", "ar": "نلتقي في المطعم." },
-        { "it": "Il gatto è nel giardino.", "ar": "القط في الحديقة." },
-        { "it": "Andiamo alla stazione.", "ar": "نذهب إلى المحطة (a + la)." },
-        { "it": "Vengo dagli Stati Uniti.", "ar": "أنا قادم من الولايات المتحدة (da + gli)." }
+        { "it": "Ci vediamo al ristorante.", "ar": "نلتقي في المطعم (a+il)." },
+        { "it": "Il gatto è nel giardino.", "ar": "القط في الحديقة (in+il)." },
+        { "it": "Le chiavi sono sul tavolo.", "ar": "المفاتيح على الطاولة (su+il)." },
+        { "it": "Vado dal medico.", "ar": "أنا ذاهب للطبيب (da+il)." },
+        { "it": "Andiamo alla stazione.", "ar": "نذهب إلى المحطة (a+la)." },
+        { "it": "Vengo dagli Stati Uniti.", "ar": "أنا قادم من الولايات المتحدة (da+gli)." }
       ]
     }
   },
@@ -642,11 +636,11 @@
       "examples": [
         { "it": "Mi sveglio alle 7.", "ar": "أستيقظ في السابعة." },
         { "it": "Come ti chiami?", "ar": "ما اسمك؟ (كيف تسمي نفسك؟)." },
-        { "it": "Loro si sposano domani.", "ar": "هم سيتزوجون غداً." },
+        { "it": "Ti vesti elegante.", "ar": "أنت ترتدي ملابس أنيقة." },
+        { "it": "Marco si alza presto.", "ar": "ماركو ينهض باكراً." },
         { "it": "Mi lavo le mani.", "ar": "أغسل يديّ." },
         { "it": "Ci riposiamo un po'.", "ar": "نرتاح قليلاً." },
-        { "it": "Ti vesti elegante.", "ar": "أنت ترتدي ملابس أنيقة." },
-        { "it": "Marco si alza presto.", "ar": "ماركو ينهض باكراً." }
+        { "it": "Loro si sposano domani.", "ar": "هم سيتزوجون غداً." }
       ]
     }
   },
@@ -665,12 +659,12 @@
       ],
       "examples": [
         { "it": "Ascolta la musica!", "ar": "استمع للموسيقى!" },
-        { "it": "Andiamo al mare!", "ar": "فلنذهب للبحر!" },
-        { "it": "Non fumare qui.", "ar": "لا تدخن هنا." },
         { "it": "Mangia la frutta!", "ar": "كُل الفاكهة!" },
-        { "it": "Prendi questo libro.", "ar": "خذ هذا الكتاب." },
         { "it": "Entra, per favore.", "ar": "ادخل، من فضلك." },
-        { "it": "Aspetta un momento!", "ar": "انتظر لحظة!" }
+        { "it": "Aspetta un momento!", "ar": "انتظر لحظة!" },
+        { "it": "Prendi questo libro.", "ar": "خذ هذا الكتاب." },
+        { "it": "Andiamo al mare!", "ar": "فلنذهب للبحر!" },
+        { "it": "Non fumare qui.", "ar": "لا تدخن هنا." }
       ]
     }
   }
