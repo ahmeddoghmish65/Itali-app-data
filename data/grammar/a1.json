@@ -78,26 +78,29 @@
       ]
     }
   },
-  {
+    {
     "id": "gender_m_f",
-    "title": "المذكر والمؤنث",
-    "subtitle": "كيف نميز جنس الكلمة؟",
+    "title": "جنس الأسماء (مذكر/مؤنث)",
+    "subtitle": "النهايات، الخواذع، والاستثناءات",
     "icon": "venus-mars",
     "content": {
-      "explanation": "في الإيطالية، كل اسم له جنس (مذكر أو مؤنث). القاعدة الذهبية هي النظر إلى <b>الحرف الأخير</b>:<br><br><b>1️⃣ القاعدة الأساسية:</b><ul><li>نهاية <b>-O</b> = مذكر (Ragazzo, Libro).</li><li>نهاية <b>-A</b> = مؤنث (Ragazza, Casa).</li></ul><b>2️⃣ النهاية المشتركة (-E):</b><ul><li>الكلمات المنتهية بـ <b>-E</b> محيرة، قد تكون مذكراً (Padre, Fiore) أو مؤنثاً (Madre, Chiave).</li><li>الحل؟ حفظ هذه الكلمات مع أداة تعريفها.</li></ul><b>3️⃣ الكلمات الأجنبية:</b><ul><li>الكلمات الدخيلة المنتهية بحرف ساكن (Bar, Sport, Computer) تُعامل دائماً معاملة <b>المذكر</b>.</li></ul>",
+      "explanation": "في الإيطالية، لكل اسم جنس. القاعدة العامة سهلة، لكن (الاستثناءات) هي التي تميز الطالب المتمكن. إليك الخريطة الكاملة:<br><br><b>1️⃣ القاعدة الذهبية (The Standard):</b><ul><li>نهاية <b>-o</b> ⬅️ مذكر (Amico, Treno).</li><li>نهاية <b>-a</b> ⬅️ مؤنث (Amica, Casa).</li></ul><b>2️⃣ المنطقة الرمادية (نهاية -e):</b><br>الكلمات المنتهية بـ <b>-e</b> قد تكون أي شيء، لكن هناك مفاتيح مساعدة:<ul><li>إذا انتهت بـ <b>-zione</b> فهي دائماً <b>مؤنث</b> (Stazione, Colazione).</li><li>إذا انتهت بـ <b>-ore</b> فهي دائماً <b>مذكر</b> (Attore, Amore).</li><li>غير ذلك يجب حفظها (Ristorante 🚹, Notte 🚺).</li></ul><b>3️⃣ الخواذع (مهم جداً):</b><ul><li>كلمات تنتهي بـ <b>-ma</b> لكنها <b>مذكر</b>! (Il problema, Il cinema, Il programma).</li><li>كلمات أجنبية تنتهي بـ <b>ساكن</b> تعامل كـ <b>مذكر</b> (Il Bar, Lo Sport).</li><li>كلمات تنتهي بنبرة <b>-à</b> تكون غالباً <b>مؤنث</b> (La città, L'università).</li></ul>",
       "table": [
-        { "pronoun": "نهاية -o (مذكر)", "conjugation": "Tavolo, Libro, Ragazzo", "meaning": "طاولة، كتاب، ولد" },
-        { "pronoun": "نهاية -a (مؤنث)", "conjugation": "Pizza, Casa, Ragazza", "meaning": "بيتزا، منزل، بنت" },
-        { "pronoun": "نهاية -e (مشترك)", "conjugation": "Ristorante (مذكر)، Notte (مؤنث)", "meaning": "يجب حفظ جنسها" },
-        { "pronoun": "كلمات أجنبية", "conjugation": "Sport, Bar, Computer", "meaning": "دائماً مذكر" }
+        { "pronoun": "نهاية -o (مذكر)", "conjugation": "Il ragazzo, Il libro", "meaning": "القاعدة الأصلية للمذكر" },
+        { "pronoun": "نهاية -a (مؤنث)", "conjugation": "La ragazza, La casa", "meaning": "القاعدة الأصلية للمؤنث" },
+        { "pronoun": "نهاية -e (مذكر)", "conjugation": "Il fiore, Il padre, L'amore", "meaning": "غالباً ما ينتهي بـ -ore يكون مذكراً" },
+        { "pronoun": "نهاية -e (مؤنث)", "conjugation": "La madre, La stazione", "meaning": "غالباً ما ينتهي بـ -zione يكون مؤنثاً" },
+        { "pronoun": "استثناء (شكل مؤنث/جنس مذكر)", "conjugation": "Il problema, Il cinema", "meaning": "تنتهي بـ A لكنها مذكر (شاذة)" },
+        { "pronoun": "السواكن (مذكر)", "conjugation": "Il computer, Il film", "meaning": "الكلمات الدخيلة مذكر دائماً" }
       ],
       "examples": [
-        { "it": "Il gelato è freddo.", "ar": "الآيس كريم بارد. (ينتهي بـ O)" },
-        { "it": "La macchina è nuova.", "ar": "السيارة جديدة. (تنتهي بـ A)" },
-        { "it": "Il sole è caldo.", "ar": "الشمس حارة. (تنتهي بـ E مذكر)" },
-        { "it": "La chiave è piccola.", "ar": "المفتاح صغير. (تنتهي بـ E مؤنث)" },
-        { "it": "Questo sport è divertente.", "ar": "هذه الرياضة ممتعة. (كلمة أجنبية مذكر)" },
-        { "it": "Il problema è difficile.", "ar": "المشكلة صعبة. (استثناء: تنتهي بـ A لكنها مذكر)" }
+        { "it": "Il bambino mangia.", "ar": "الطفل يأكل (مذكر قياسي)." },
+        { "it": "La scuola è aperta.", "ar": "المدرسة مفتوحة (مؤنث قياسي)." },
+        { "it": "Il problema è difficile.", "ar": "المشكلة صعبة (استثناء هام: تنتهي بـ a ومذكر)." },
+        { "it": "Andiamo al cinema.", "ar": "لنذهب للسينما (استثناء هام: مذكر)." },
+        { "it": "La stazione è vicina.", "ar": "المحطة قريبة (تنتهي بـ e لكنها مؤنث)." },
+        { "it": "Il computer è nuovo.", "ar": "الكمبيوتر جديد (كلمة أجنبية مذكر)." },
+        { "it": "Roma è una bella città.", "ar": "روما مدينة جميلة (تنتهي بنبرة، مؤنث)." }
       ]
     }
   },
