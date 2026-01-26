@@ -78,29 +78,29 @@
       ]
     }
   },
-    {
+      {
     "id": "gender_m_f",
-    "title": "جنس الأسماء (مذكر/مؤنث)",
-    "subtitle": "النهايات، الخواذع، والاستثناءات",
+    "title": "جنس الأسماء: القواعد والخدع",
+    "subtitle": "كيف تكتشف جنس الكلمة بذكاء؟",
     "icon": "venus-mars",
     "content": {
-      "explanation": "في الإيطالية، لكل اسم جنس. القاعدة العامة سهلة، لكن (الاستثناءات) هي التي تميز الطالب المتمكن. إليك الخريطة الكاملة:<br><br><b>1️⃣ القاعدة الذهبية (The Standard):</b><ul><li>نهاية <b>-o</b> ⬅️ مذكر (Amico, Treno).</li><li>نهاية <b>-a</b> ⬅️ مؤنث (Amica, Casa).</li></ul><b>2️⃣ المنطقة الرمادية (نهاية -e):</b><br>الكلمات المنتهية بـ <b>-e</b> قد تكون أي شيء، لكن هناك مفاتيح مساعدة:<ul><li>إذا انتهت بـ <b>-zione</b> فهي دائماً <b>مؤنث</b> (Stazione, Colazione).</li><li>إذا انتهت بـ <b>-ore</b> فهي دائماً <b>مذكر</b> (Attore, Amore).</li><li>غير ذلك يجب حفظها (Ristorante 🚹, Notte 🚺).</li></ul><b>3️⃣ الخواذع (مهم جداً):</b><ul><li>كلمات تنتهي بـ <b>-ma</b> لكنها <b>مذكر</b>! (Il problema, Il cinema, Il programma).</li><li>كلمات أجنبية تنتهي بـ <b>ساكن</b> تعامل كـ <b>مذكر</b> (Il Bar, Lo Sport).</li><li>كلمات تنتهي بنبرة <b>-à</b> تكون غالباً <b>مؤنث</b> (La città, L'università).</li></ul>",
+      "explanation": "الأصل في الإيطالية بسيط (O مذكر، A مؤنث)، لكن هناك 4 مجموعات من (الخدع) يجب أن تعرفها لتتحدث كالمحترفين:<br><br><b>1️⃣ الخداع البصري (شكل مؤنث لكنه مذكر):</b><br>كلمات تنتهي بـ <b>-ma</b> (أصلها يوناني) وهي دائماً مذكر.<br>أهمها: <i>Il problema, Il tema, Il cinema, Il sistema, Il clima</i>.<br><br><b>2️⃣ الكلمات المبتورة (شكل مذكر لكنه مؤنث):</b><br>كلمات تبدو مذكر لأنها تنتهي بـ <b>-o</b>، لكنها في الأصل اختصار لكلمات مؤنثة طويلة، لذا تبقى مؤنثة:<br><ul><li><b>La foto</b> (أصلها La fotografia).</li><li><b>L'auto</b> (أصلها L'automobile).</li><li><b>La moto</b> (أصلها La motocicletta).</li><li>⚠️ استثناء وحيد: <b>La mano</b> (اليد) هي كلمة أصلية مؤنثة تنتهي بـ O.</li></ul><b>3️⃣ المهن المحايدة (-ista):</b><br>كلمات تنتهي بـ <b>-ista</b> وتصلح للجنسين، والفرق في الأداة فقط:<br><i>Il dentista</i> (طبيب) - <i>La dentista</i> (طبيبة).<br><br><b>4️⃣ فك شفرة النهاية (-e):</b><br><ul><li>إذا انتهت بـ <b>-zione / -sione</b> ⬅️ مؤنث (La stazione, La televisione).</li><li>إذا انتهت بـ <b>-ore</b> ⬅️ مذكر (L'attore, Il professore).</li></ul>",
       "table": [
-        { "pronoun": "نهاية -o (مذكر)", "conjugation": "Il ragazzo, Il libro", "meaning": "القاعدة الأصلية للمذكر" },
-        { "pronoun": "نهاية -a (مؤنث)", "conjugation": "La ragazza, La casa", "meaning": "القاعدة الأصلية للمؤنث" },
-        { "pronoun": "نهاية -e (مذكر)", "conjugation": "Il fiore, Il padre, L'amore", "meaning": "غالباً ما ينتهي بـ -ore يكون مذكراً" },
-        { "pronoun": "نهاية -e (مؤنث)", "conjugation": "La madre, La stazione", "meaning": "غالباً ما ينتهي بـ -zione يكون مؤنثاً" },
-        { "pronoun": "استثناء (شكل مؤنث/جنس مذكر)", "conjugation": "Il problema, Il cinema", "meaning": "تنتهي بـ A لكنها مذكر (شاذة)" },
-        { "pronoun": "السواكن (مذكر)", "conjugation": "Il computer, Il film", "meaning": "الكلمات الدخيلة مذكر دائماً" }
+        { "pronoun": "القاعدة (O / A)", "conjugation": "Il libro (م) - La casa (ث)", "meaning": "القاعدة الأساسية (80% من الكلمات)" },
+        { "pronoun": "خدعة (-ma)", "conjugation": "Il problema, Il cinema", "meaning": "مذكر رغم انتهاءه بـ A" },
+        { "pronoun": "خدعة (المبتور)", "conjugation": "La foto, L'auto, La bici", "meaning": "مؤنث رغم انتهاءه بـ O أو I" },
+        { "pronoun": "الاستثناء الأشهر", "conjugation": "La mano (اليد)", "meaning": "مؤنث شاذ ينتهي بـ O" },
+        { "pronoun": "المهن (-ista)", "conjugation": "Il turista / La turista", "meaning": "نفس الكلمة للجنسين (سائح/سائحة)" },
+        { "pronoun": "نهايات (-e)", "conjugation": "Stazione (ث) / Amore (م)", "meaning": "Zione مؤنث دائماً، Ore مذكر دائماً" }
       ],
       "examples": [
-        { "it": "Il bambino mangia.", "ar": "الطفل يأكل (مذكر قياسي)." },
-        { "it": "La scuola è aperta.", "ar": "المدرسة مفتوحة (مؤنث قياسي)." },
-        { "it": "Il problema è difficile.", "ar": "المشكلة صعبة (استثناء هام: تنتهي بـ a ومذكر)." },
-        { "it": "Andiamo al cinema.", "ar": "لنذهب للسينما (استثناء هام: مذكر)." },
-        { "it": "La stazione è vicina.", "ar": "المحطة قريبة (تنتهي بـ e لكنها مؤنث)." },
-        { "it": "Il computer è nuovo.", "ar": "الكمبيوتر جديد (كلمة أجنبية مذكر)." },
-        { "it": "Roma è una bella città.", "ar": "روما مدينة جميلة (تنتهي بنبرة، مؤنث)." }
+        { "it": "Ho un problema grande.", "ar": "لدي مشكلة كبيرة (Problem-a مذكر)." },
+        { "it": "La tua foto è bella.", "ar": "صورتك جميلة (Fot-o مؤنث)." },
+        { "it": "Mi fa male la mano.", "ar": "يدي تؤلمني (Man-o مؤنث)." },
+        { "it": "Lui è un bravo dentista.", "ar": "هو طبيب أسنان ماهر." },
+        { "it": "Lei è una brava dentista.", "ar": "هي طبيبة أسنان ماهرة." },
+        { "it": "Andiamo alla stazione.", "ar": "لنذهب للمحطة (Stazion-e مؤنث)." },
+        { "it": "Compro una nuova auto.", "ar": "سأشتري سيارة جديدة (Aut-o مؤنث)." }
       ]
     }
   },
