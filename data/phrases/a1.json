@@ -3,8 +3,6 @@
   "id": "greetings_intro",
   "title": "التعارف والتحيات الكاملة",
   "icon": "hand-wave",
-  "level": "A1",
-  "order": 1,
   "phrases": [
     { "it": "Ciao!", "ar": "مرحبا! (غير رسمي)", "phonetic": "/tʃao/" },
     { "it": "Salve!", "ar": "مرحبا! (رسمي أو لأكثر من شخص)", "phonetic": "/ˈsalve/" },
