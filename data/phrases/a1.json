@@ -426,5 +426,215 @@
       { "it": "Posso accendere una candela?", "ar": "هل يمكنني إشعال شمعة؟", "phonetic": "/ˈpɔsso attʃenˈdeːre ˈuːna kanˈdeːla/" },
       { "it": "È un luogo molto sacro.", "ar": "إنه مكان مقدس جداً.", "phonetic": "/ɛ un ˈlwɔːɡo ˈmolto ˈsaːkro/" }
     ]
+  },
+  {
+    "id": "post_office",
+    "title": "في مكتب البريد",
+    "icon": "mail",
+    "phrases": [
+      { "it": "Vorrei spedire questo pacco in Italia.", "ar": "أود إرسال هذا الطرد إلى إيطاليا.", "phonetic": "/vorˈrɛi speˈdiːre ˈkwesto ˈpakko in iˈtaːlja/" },
+      { "it": "Quanto costa un francobollo per l'estero?", "ar": "كم سعر طابع البريد للخارج؟", "phonetic": "/ˈkwanto ˈkɔsta un fraŋkoˈbollo per ˈlɛstero/" },
+      { "it": "C'è posta per me oggi?", "ar": "هل يوجد بريد لي اليوم؟", "phonetic": "/tʃɛ ˈpɔsta per me ˈɔddʒi/" },
+      { "it": "Vorrei inviare una raccomandata.", "ar": "أود إرسال بريد مسجل.", "phonetic": "/vorˈrɛi inˈvjaːre ˈuːna rakkomanˈdaːta/" },
+      { "it": "Dov'è la buca delle lettere?", "ar": "أين صندوق البريد (لإلقاء الرسائل)؟", "phonetic": "/doˈvɛ la ˈbuːka ˈdelle ˈlɛttere/" },
+      { "it": "Devo compilare questo modulo?", "ar": "هل يجب أن أملأ هذه الاستمارة؟", "phonetic": "/ˈdeːvo kompiˈlaːre ˈkwesto ˈmɔːdulo/" },
+      { "it": "Quanto tempo ci vuole per arrivare?", "ar": "كم من الوقت يستغرق للوصول؟", "phonetic": "/ˈkwanto ˈtɛmpo tʃi ˈvwɔːle per arriˈvaːre/" }
+    ]
+  },
+  {
+    "id": "car_rental_driving",
+    "title": "القيادة واستئجار السيارات",
+    "icon": "car",
+    "phrases": [
+      { "it": "Vorrei noleggiare una macchina piccola.", "ar": "أود استئجار سيارة صغيرة.", "phonetic": "/vorˈrɛi noledˈdʒaːre ˈuːna ˈmakkina ˈpikkola/" },
+      { "it": "Quanto costa al giorno?", "ar": "كم التكلفة في اليوم؟", "phonetic": "/ˈkwanto ˈkɔsta al ˈdʒorno/" },
+      { "it": "L'assicurazione è inclusa nel prezzo?", "ar": "هل التأمين مشمول في السعر؟", "phonetic": "/lassikuratˈtsjoːne ɛ inˈkluːza nel ˈprɛttso/" },
+      { "it": "La macchina ha il cambio automatico?", "ar": "هل السيارة بها ناقل حركة أوتوماتيكي؟", "phonetic": "/la ˈmakkina a il ˈkambjo autoˈmaːtiko/" },
+      { "it": "Dove posso fare benzina?", "ar": "أين يمكنني تعبئة الوقود؟", "phonetic": "/ˈdoːve ˈpɔsso ˈfaːre benˈdziːna/" },
+      { "it": "C'è molto traffico oggi in centro.", "ar": "هناك ازدحام مروري كبير اليوم في الوسط.", "phonetic": "/tʃɛ ˈmolto ˈtraffiko ˈɔddʒi in ˈtʃɛntro/" },
+      { "it": "Ho bisogno della patente di guida.", "ar": "أحتاج إلى رخصة القيادة.", "phonetic": "/o biˈzoɲɲo ˈdella paˈtɛnte di ˈɡwiːda/" }
+    ]
+  },
+  {
+    "id": "past_tense_basics",
+    "title": "الماضي البسيط (حدث وانتهى)",
+    "icon": "history",
+    "phrases": [
+      { "it": "Ieri sono andato al cinema.", "ar": "البارحة ذهبتُ إلى السينما.", "phonetic": "/ˈjɛːri ˈsoːno anˈdaːto al ˈtʃiːnema/" },
+      { "it": "Hai mangiato la pizza ieri sera?", "ar": "هل أكلتَ البيتزا الليلة الماضية؟", "phonetic": "/ai manˈdʒaːto la ˈpittsa ˈjɛːri ˈseːra/" },
+      { "it": "Ho dormito molto bene stanotte.", "ar": "نمتُ جيداً جداً هذه الليلة.", "phonetic": "/o dorˈmiːto ˈmolto ˈbɛne staˈnɔtte/" },
+      { "it": "Non ho capito cosa hai detto.", "ar": "لم أفهم ماذا قلتَ.", "phonetic": "/non o kaˈpiːto ˈkɔza ai ˈdetto/" },
+      { "it": "Abbiamo finito il lavoro.", "ar": "لقد أنهينا العمل.", "phonetic": "/abˈbjaːmo fiˈniːto il laˈvoːro/" },
+      { "it": "Sei arrivato in ritardo oggi.", "ar": "لقد وصلتَ متأخراً اليوم.", "phonetic": "/sɛi arriˈvaːto in riˈtardo ˈɔddʒi/" },
+      { "it": "Ho visto un bel film.", "ar": "رأيتُ فيلماً جميلاً.", "phonetic": "/o ˈvisto un bɛl film/" }
+    ]
+  },
+  {
+    "id": "job_interview_basic",
+    "title": "مقابلة عمل (مستوى مبتدئ)",
+    "icon": "user-tie",
+    "phrases": [
+      { "it": "Ho un colloquio di lavoro domani.", "ar": "لدي مقابلة عمل غداً.", "phonetic": "/o un kolˈlɔkwjo di laˈvoːro doˈmaːni/" },
+      { "it": "Parlo inglese, arabo e un po' di italiano.", "ar": "أتحدث الإنجليزية والعربية وقليلاً من الإيطالية.", "phonetic": "/ˈparlo inˈɡleːze ˈaːrabo e un pɔ di itaˈljaːno/" },
+      { "it": "Sono una persona puntuale e seria.", "ar": "أنا شخص دقيق في المواعيد وجاد.", "phonetic": "/ˈsoːno ˈuːna perˈsoːna punˈtwaːle e ˈsɛːrja/" },
+      { "it": "Ho esperienza in questo settore.", "ar": "لدي خبرة في هذا المجال.", "phonetic": "/o espeˈrjɛntsa in ˈkwesto setˈtoːre/" },
+      { "it": "Quando posso iniziare a lavorare?", "ar": "متى يمكنني البدء في العمل؟", "phonetic": "/ˈkwando ˈpɔsso iniˈtsjaːre a lavoˈraːre/" },
+      { "it": "Cerco un lavoro a tempo pieno.", "ar": "أبحث عن عمل بدوام كامل.", "phonetic": "/ˈtʃerko un laˈvoːro a ˈtɛmpo ˈpjeːno/" },
+      { "it": "Ecco il mio curriculum.", "ar": "تفضل سيرتي الذاتية.", "phonetic": "/ˈɛkko il ˈmiːo kurˈriːkulum/" }
+    ]
+  },
+  {
+    "id": "clothing_wearing",
+    "title": "الملابس والارتداء",
+    "icon": "tshirt",
+    "phrases": [
+      { "it": "Cosa indossi stasera per la festa?", "ar": "ماذا سترتدي الليلة للحفلة؟", "phonetic": "/ˈkɔza inˈdɔssi staˈseːra per la ˈfɛsta/" },
+      { "it": "Oggi indosso una camicia bianca.", "ar": "اليوم أرتدي قميصاً أبيض.", "phonetic": "/ˈɔddʒi inˈdɔsso ˈuːna kaˈmiːtʃa ˈbjaŋka/" },
+      { "it": "Devo comprare un paio di scarpe nuove.", "ar": "يجب أن أشتري زوجاً جديداً من الأحذية.", "phonetic": "/ˈdeːvo komˈpraːre un ˈpaːjo di ˈskarpe ˈnwɔːve/" },
+      { "it": "Mettiti il cappotto, fa freddo fuori.", "ar": "ارتدِ المعطف، الجو بارد في الخارج.", "phonetic": "/ˈmettiti il kapˈpɔtto fa ˈfreddo ˈfwɔːri/" },
+      { "it": "Queste scarpe sono molto comode.", "ar": "هذه الأحذية مريحة جداً.", "phonetic": "/ˈkweste ˈskarpe ˈsoːno ˈmolto ˈkɔːmode/" },
+      { "it": "Mi piace il tuo stile.", "ar": "يعجبني أسلوبك (في اللبس).", "phonetic": "/mi ˈpjaːtʃe il ˈtuːo ˈstiːle/" },
+      { "it": "Dove sono i miei occhiali da sole?", "ar": "أين نظارتي الشمسية؟", "phonetic": "/doˈvɛ ˈsoːno i ˈmjɛi okˈkjaːli da ˈsoːle/" }
+    ]
+  },
+  {
+    "id": "cooking_kitchen",
+    "title": "في المطبخ والطبخ",
+    "icon": "utensils",
+    "phrases": [
+      { "it": "Sto cucinando la pasta per cena.", "ar": "أنا أطبخ المعكرونة للعشاء.", "phonetic": "/sto kutʃiˈnando la ˈpasta per ˈtʃeːna/" },
+      { "it": "Mi passi il sale, per favore?", "ar": "هل تمرر لي الملح، من فضلك؟", "phonetic": "/mi ˈpassi il ˈsaːle per faˈvore/" },
+      { "it": "L'acqua bolle, butta la pasta!", "ar": "الماء يغلي، ضع المعكرونة!", "phonetic": "/ˈlakkwa ˈbolle ˈbutta la ˈpasta/" },
+      { "it": "Ho bisogno di un coltello e una forchetta.", "ar": "أحتاج إلى سكين وشوكة.", "phonetic": "/o biˈzoɲɲo di un kolˈtɛllo e ˈuːna forˈketta/" },
+      { "it": "Attenzione, il piatto è molto caldo.", "ar": "انتبه، الطبق ساخن جداً.", "phonetic": "/attenˈtsjoːne il ˈpjatto ɛ ˈmolto ˈkaldo/" },
+      { "it": "Ti piace cucinare o preferisci mangiare?", "ar": "هل تحب الطبخ أم تفضل الأكل؟", "phonetic": "/ti ˈpjaːtʃe kutʃiˈnaːre o prefeˈrisʃi manˈdʒaːre/" },
+      { "it": "Questo dolce è fatto in casa.", "ar": "هذه الحلوى منزلية الصنع (بيتي).", "phonetic": "/ˈkwesto ˈdoltʃe ɛ ˈfatto in ˈkaːza/" }
+    ]
+  },
+  {
+    "id": "family_kids",
+    "title": "السفر مع الأطفال",
+    "icon": "baby",
+    "phrases": [
+      { "it": "Avete un seggiolone per il bambino?", "ar": "هل لديكم كرسي مرتفع للطفل؟", "phonetic": "/aˈveːte un seddʒoˈloːne per il bamˈbiːno/" },
+      { "it": "Dov'è il bagno per cambiare il bambino?", "ar": "أين الحمام لتغيير حفاظة الطفل؟", "phonetic": "/doˈvɛ il ˈbaɲɲo per kamˈbjaːre il bamˈbiːno/" },
+      { "it": "Mio figlio ha fame, avete latte?", "ar": "ابني جائع، هل لديكم حليب؟", "phonetic": "/ˈmiːo ˈfiʎʎo a ˈfaːme aˈveːte ˈlatte/" },
+      { "it": "Per favore, riscalda questo biberon.", "ar": "من فضلك، سخن رضاعة الطفل هذه.", "phonetic": "/per faˈvore riˈskalda ˈkwesto bibeˈrɔn/" },
+      { "it": "I bambini pagano il biglietto?", "ar": "هل يدفع الأطفال ثمن التذكرة؟", "phonetic": "/i bamˈbiːni ˈpaːɡano il biʎˈʎetto/" },
+      { "it": "Fate piano, il bambino dorme.", "ar": "هدوء من فضلكم، الطفل نائم.", "phonetic": "/ˈfaːte ˈpjaːno il bamˈbiːno ˈdɔrme/" },
+      { "it": "Questo posto è sicuro per i bambini?", "ar": "هل هذا المكان آمن للأطفال؟", "phonetic": "/ˈkwesto ˈpɔsto ɛ siˈkuːro per i bamˈbiːni/" }
+    ]
+  },
+  {
+    "id": "social_media_digital",
+    "title": "السوشيال ميديا والتواصل",
+    "icon": "smartphone",
+    "phrases": [
+      { "it": "Qual è il tuo profilo Instagram?", "ar": "ما هو حسابك على إنستغرام؟", "phonetic": "/kwal ɛ il ˈtuːo proˈfiːlo ˈinstagram/" },
+      { "it": "Ti mando la foto su WhatsApp.", "ar": "سأرسل لك الصورة عبر واتساب.", "phonetic": "/ti ˈmando la ˈfɔːto su whatsapp/" },
+      { "it": "Seguimi, ti seguo anche io.", "ar": "تابعني، وسأتابعك أنا أيضاً.", "phonetic": "/ˈseːɡwimi ti ˈseːɡwo ˈanke ˈiːo/" },
+      { "it": "Hai visto il mio ultimo post?", "ar": "هل رأيت منشوري الأخير؟", "phonetic": "/ai ˈvisto il ˈmiːo ˈultimo pɔst/" },
+      { "it": "Non ho segnale qui.", "ar": "لا توجد لدي إشارة (شبكة) هنا.", "phonetic": "/non o seɲˈɲaːle kwi/" },
+      { "it": "Posso fare una foto con te?", "ar": "هل يمكنني التقاط صورة معك؟", "phonetic": "/ˈpɔsso ˈfaːre ˈuːna ˈfɔːto kon te/" },
+      { "it": "Il mio telefono è quasi scarico.", "ar": "هاتفي أوشك على النفاد (شحنه قليل).", "phonetic": "/il ˈmiːo teˈlɛfono ɛ ˈkwaːzi ˈskaːriko/" }
+    ]
+  },
+  {
+    "id": "agreement_opinion",
+    "title": "الموافقة والرفض (المحادثة)",
+    "icon": "check-circle",
+    "phrases": [
+      { "it": "Sono d'accordo con te.", "ar": "أنا أتفق معك.", "phonetic": "/ˈsoːno dakˈkɔrdo kon te/" },
+      { "it": "Non sono d'accordo, mi dispiace.", "ar": "لا أتفق معك، أنا آسف.", "phonetic": "/non ˈsoːno dakˈkɔrdo mi disˈpjaːtʃe/" },
+      { "it": "Anch'io la penso così.", "ar": "أنا أيضاً أفكر هكذا (رأيي من رأيك).", "phonetic": "/anˈkiːo la ˈpɛnso koˈzi/" },
+      { "it": "Neanch'io lo so.", "ar": "ولا أنا أعرف ذلك.", "phonetic": "/neanˈkiːo lo sɔ/" },
+      { "it": "Forse hai ragione.", "ar": "ربما أنت محق.", "phonetic": "/ˈfɔrse ai raˈdʒoːne/" },
+      { "it": "Assolutamente sì!", "ar": "بالتأكيد نعم!", "phonetic": "/assolutaˈmente si/" },
+      { "it": "Assolutamente no!", "ar": "بالتأكيد لا (مستحيل)!", "phonetic": "/assolutaˈmente nɔ/" }
+    ]
+  },
+  {
+    "id": "future_plans_simple",
+    "title": "الخطط المستقبلية البسيطة",
+    "icon": "hourglass-start",
+    "phrases": [
+      { "it": "Domani vado a visitare Roma.", "ar": "غداً سأذهب لزيارة روما.", "phonetic": "/doˈmaːni ˈvaːdo a viziˈtaːre ˈroːma/" },
+      { "it": "L'anno prossimo voglio imparare il francese.", "ar": "العام القادم أريد تعلم الفرنسية.", "phonetic": "/ˈlanno ˈprɔssimo ˈvɔʎʎo impaˈraːre il franˈtʃeːze/" },
+      { "it": "Cosa farai questo fine settimana?", "ar": "ماذا ستفعل في عطلة نهاية الأسبوع هذه؟", "phonetic": "/ˈkɔza faˈrai ˈkwesto ˈfiːne settiˈmaːna/" },
+      { "it": "Tra un mese finisco la scuola.", "ar": "بعد شهر سأنهي المدرسة.", "phonetic": "/tra un ˈmeːze fiˈnisko la ˈskwɔːla/" },
+      { "it": "Presto comprerò una macchina nuova.", "ar": "قريباً سأشتري سيارة جديدة.", "phonetic": "/ˈprɛsto kompreˈrɔ ˈuːna ˈmakkina ˈnwɔːva/" },
+      { "it": "Un giorno visiterò l'Italia.", "ar": "يوماً ما سأزور إيطاليا.", "phonetic": "/un ˈdʒorno viziteˈrɔ liˈtaːlja/" },
+      { "it": "Spero di vederti presto.", "ar": "آمل أن أراك قريباً.", "phonetic": "/ˈspɛːro di veˈderti ˈprɛsto/" }
+    ]
+  },
+  {
+    "id": "hotel_problems",
+    "title": "مشاكل في الفندق / السكن",
+    "icon": "bed",
+    "phrases": [
+      { "it": "L'aria condizionata non funziona.", "ar": "مكيف الهواء لا يعمل.", "phonetic": "/ˈlarja kondittsjoˈnaːta non funˈtsjoːna/" },
+      { "it": "Non c'è acqua calda nella doccia.", "ar": "لا يوجد ماء ساخن في الدش.", "phonetic": "/non tʃɛ ˈakkwa ˈkalda ˈnella ˈdɔtʃtʃa/" },
+      { "it": "La camera è troppo rumorosa.", "ar": "الغرفة صاخبة جداً (مزعجة).", "phonetic": "/la ˈkaːmera ɛ ˈtrɔppo rumoˈroːza/" },
+      { "it": "Mancano gli asciugamani in bagno.", "ar": "المناشف ناقصة في الحمام.", "phonetic": "/ˈmaŋkano ʎi aʃʃuɡaˈmaːni in ˈbaɲɲo/" },
+      { "it": "La luce non si accende.", "ar": "الضوء لا يشتغل.", "phonetic": "/la ˈluːtʃe non si atˈtʃɛnde/" },
+      { "it": "Posso cambiare camera, per favore?", "ar": "هل يمكنني تغيير الغرفة من فضلك؟", "phonetic": "/ˈpɔsso kamˈbjaːre ˈkaːmera per faˈvore/" },
+      { "it": "Ho perso la chiave della camera.", "ar": "أضعت مفتاح الغرفة.", "phonetic": "/o ˈpɛrso la ˈkjaːve ˈdella ˈkaːmera/" }
+    ]
+  },
+  {
+    "id": "connecting_words",
+    "title": "أدوات الربط (لأن، لكن، أو)",
+    "icon": "link",
+    "phrases": [
+      { "it": "Non esco perché piove.", "ar": "لن أخرج لأنها تمطر.", "phonetic": "/non ˈɛsko perˈke ˈpjɔːve/" },
+      { "it": "Vorrei venire, ma devo studiare.", "ar": "أود المجيء، لكن يجب أن أدرس.", "phonetic": "/vorˈrɛi veˈniːre ma ˈdeːvo stuˈdjaːre/" },
+      { "it": "Vuoi caffè o tè?", "ar": "هل تريد قهوة أم شاي؟", "phonetic": "/vwɔi kafˈfɛ o tɛ/" },
+      { "it": "Parlo italiano e anche inglese.", "ar": "أتحدث الإيطالية والإنجليزية أيضاً.", "phonetic": "/ˈparlo itaˈljaːno e ˈaŋke inˈɡleːze/" },
+      { "it": "Sono stanco, quindi vado a dormire.", "ar": "أنا متعب، لذلك سأذهب للنوم.", "phonetic": "/ˈsoːno ˈstanko ˈkwindi ˈvaːdo a dorˈmiːre/" },
+      { "it": "Forse vengo domani.", "ar": "ربما سآتي غداً.", "phonetic": "/ˈfɔrse ˈvɛnɡo doˈmaːni/" },
+      { "it": "Prima mangiamo, poi usciamo.", "ar": "نأكل أولاً، ثم نخرج.", "phonetic": "/ˈpriːma manˈdʒaːmo pɔi uʃˈʃaːmo/" }
+    ]
+  },
+  {
+    "id": "describing_people",
+    "title": "وصف الأشخاص والمظهر",
+    "icon": "user",
+    "phrases": [
+      { "it": "Lui è alto e magro.", "ar": "هو طويل ونحيف.", "phonetic": "/luːi ɛ ˈalto e ˈmaːɡro/" },
+      { "it": "Lei ha i capelli biondi e lunghi.", "ar": "هي لديها شعر أشقر وطويل.", "phonetic": "/lɛi a i kaˈpelli ˈbjondi e ˈlunɡi/" },
+      { "it": "Lui ha gli occhi azzurri.", "ar": "هو لديه عينان زرقاوان.", "phonetic": "/luːi a ʎi ˈɔkki adˈdzurri/" },
+      { "it": "Mio fratello è basso e robusto.", "ar": "أخي قصير وممتلئ الجسم.", "phonetic": "/ˈmiːo fraˈtɛllo ɛ ˈbasso e roˈbusto/" },
+      { "it": "Lei è una ragazza molto bella.", "ar": "إنها فتاة جميلة جداً.", "phonetic": "/lɛi ɛ ˈuːna raˈɡattsa ˈmolto ˈbɛlla/" },
+      { "it": "Lui porta gli occhiali.", "ar": "هو يرتدي نظارة.", "phonetic": "/luːi ˈpɔrta ʎi okˈkjaːli/" },
+      { "it": "Sembra molto giovane.", "ar": "يبدو صغيراً جداً في السن.", "phonetic": "/ˈsembra ˈmolto ˈdʒoːvane/" }
+    ]
+  },
+  {
+    "id": "italian_expressions",
+    "title": "تعابير إيطالية شائعة (عامية)",
+    "icon": "comment-dots",
+    "phrases": [
+      { "it": "Mamma mia!", "ar": "يا إلهي! (للدهشة أو الصدمة).", "phonetic": "/ˈmamma ˈmiːa/" },
+      { "it": "Boh, non lo so.", "ar": "لا أدري (تعبير شائع جداً لعدم المعرفة).", "phonetic": "/bɔ non lo sɔ/" },
+      { "it": "Dai, andiamo!", "ar": "هيا، لنذهب! (للتشجيع).", "phonetic": "/dai anˈdjaːmo/" },
+      { "it": "Magari!", "ar": "يا ليت! / أتمنى ذلك!", "phonetic": "/maˈɡaːri/" },
+      { "it": "Che casino!", "ar": "يا لها من فوضى!", "phonetic": "/ke kaˈziːno/" },
+      { "it": "Tutto a posto?", "ar": "هل كل شيء تمام؟", "phonetic": "/ˈtutto a ˈpɔsto/" },
+      { "it": "Meno male!", "ar": "الحمد لله / لحسن الحظ.", "phonetic": "/ˈmeːno ˈmaːle/" }
+    ]
+  },
+  {
+    "id": "professions_jobs",
+    "title": "المهن والوظائف",
+    "icon": "briefcase",
+    "phrases": [
+      { "it": "Mio padre fa il medico.", "ar": "والدي يعمل طبيباً.", "phonetic": "/ˈmiːo ˈpaːdre fa il ˈmɛːdiko/" },
+      { "it": "Mia madre è insegnante.", "ar": "أمي معلمة.", "phonetic": "/ˈmiːa ˈmaːdre ɛ inseɲˈɲante/" },
+      { "it": "Lui lavora come ingegnere.", "ar": "هو يعمل مهندساً.", "phonetic": "/luːi laˈvoːra ˈkome indʒeɲˈɲeːre/" },
+      { "it": "Vorrei diventare un avvocato.", "ar": "أود أن أصبح محامياً.", "phonetic": "/vorˈrɛi divenˈtaːre un avvoˈkaːto/" },
+      { "it": "Il meccanico ripara la macchina.", "ar": "الميكانيكي يصلح السيارة.", "phonetic": "/il mekˈkaːniko riˈpaːra la ˈmakkina/" },
+      { "it": "Sono casalinga.", "ar": "أنا ربة منزل.", "phonetic": "/ˈsoːno kazaˈlinɡa/" },
+      { "it": "Lui è un poliziotto.", "ar": "هو شرطي.", "phonetic": "/luːi ɛ un politˈtsjɔtto/" }
+    ]
   }
 ]
