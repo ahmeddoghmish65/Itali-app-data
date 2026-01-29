@@ -6,14 +6,11 @@
   "level": "A1",
   "order": 1,
   "phrases": [
-    // 1. التحيات الأساسية حسب الوقت
     { "it": "Ciao!", "ar": "مرحبا! (غير رسمي)", "phonetic": "/tʃao/" },
     { "it": "Salve!", "ar": "مرحبا! (رسمي أو لأكثر من شخص)", "phonetic": "/ˈsalve/" },
     { "it": "Buongiorno!", "ar": "صباح الخير!", "phonetic": "/ˌbwɔnˈdʒorno/" },
     { "it": "Buonasera!", "ar": "مساء الخير!", "phonetic": "/ˌbwɔnaˈseːra/" },
     { "it": "Buonanotte!", "ar": "تصبح على خير!", "phonetic": "/ˌbwɔnaˈnɔtte/" },
-
-    // 2. السؤال عن الحال + الردود
     { "it": "Come stai?", "ar": "كيف حالك؟ (غير رسمي)", "phonetic": "/ˌkome ˈstai/" },
     { "it": "Come sta?", "ar": "كيف حالك؟ (رسمي)", "phonetic": "/ˌkome ˈsta/" },
     { "it": "Come va?", "ar": "كيف الأحوال؟", "phonetic": "/ˌkome va/" },
@@ -24,8 +21,6 @@
     { "it": "Così così.", "ar": "على قد الحال.", "phonetic": "/koˈsi koˈsi/" },
     { "it": "E tu?", "ar": "وأنت؟ (غير رسمي)", "phonetic": "/e tu/" },
     { "it": "E Lei?", "ar": "وأنت؟ (رسمي)", "phonetic": "/e lɛːi/" },
-
-    // 3. تقديم النفس
     { "it": "Mi chiamo Ahmed.", "ar": "اسمي أحمد.", "phonetic": "/mi ˈkjaːmo ˈaːhmed/" },
     { "it": "Io sono Fatima.", "ar": "أنا فاطمة.", "phonetic": "/iˈo ˈsɔːno ˈfaːtima/" },
     { "it": "Piacere!", "ar": "تشرفت!", "phonetic": "/pjaˈtʃeːre/" },
@@ -33,8 +28,6 @@
     { "it": "Piacere di conoscerLa!", "ar": "تشرفت بمعرفتك! (رسمي)", "phonetic": "/pjaˈtʃeːre di konoˈʃɛrla/" },
     { "it": "Molto lieto!", "ar": "تشرفت جداً! (للذكر)", "phonetic": "/ˈmolto ˈljɛːto/" },
     { "it": "Molto lieta!", "ar": "تشرفت جداً! (للأنثى)", "phonetic": "/ˈmolto ˈljɛːta/" },
-
-    // 4. الأسئلة الشخصية الأساسية
     { "it": "Come ti chiami?", "ar": "ما اسمك؟ (غير رسمي)", "phonetic": "/ˌkome ti ˈkjaːmi/" },
     { "it": "Come si chiama?", "ar": "ما اسمك؟ (رسمي)", "phonetic": "/ˌkome si ˈkjaːma/" },
     { "it": "Di dove sei?", "ar": "من أين أنت؟", "phonetic": "/di ˈdoːve sɛi/" },
@@ -44,16 +37,12 @@
     { "it": "Vengo dall'Egitto.", "ar": "أنا من مصر.", "phonetic": "/ˈvɛŋɡo dalˈlɛdʒitto/" },
     { "it": "Quanti anni hai?", "ar": "كم عمرك؟ (غير رسمي)", "phonetic": "/ˈkwanti ˈanni ai/" },
     { "it": "Ho venticinque anni.", "ar": "عمري خمسة وعشرون عاماً.", "phonetic": "/ɔ ventiˈtʃiŋkwe ˈanni/" },
-
-    // 5. عبارات مفيدة أثناء التعارف
     { "it": "Parli arabo?", "ar": "هل تتكلم العربية؟", "phonetic": "/ˈparli ˈaːrabo/" },
     { "it": "Parla arabo?", "ar": "هل تتكلم العربية؟ (رسمي)", "phonetic": "/ˈparla ˈaːrabo/" },
     { "it": "Un po'.", "ar": "قليلاً.", "phonetic": "/un pɔ/" },
     { "it": "Scusa, non ho capito.", "ar": "عفواً، لم أفهم.", "phonetic": "/ˈskuːza non ɔ kaˈpiːto/" },
     { "it": "Puoi ripetere, per favore?", "ar": "هل يمكنك التكرار من فضلك؟", "phonetic": "/ˈpwɔi ripɛˈteːre per faˈvoːre/" },
     { "it": "Parla più lentamente, per favore.", "ar": "تكلم ببطء أكثر من فضلك.", "phonetic": "/ˈparla pju lentaˈmente per faˈvoːre/" },
-
-    // 6. الوداع
     { "it": "Arrivederci!", "ar": "إلى اللقاء! (رسمي)", "phonetic": "/arriveˈdɛrtʃi/" },
     { "it": "Ciao!", "ar": "مع السلامة! (غير رسمي)", "phonetic": "/tʃao/" },
     { "it": "A presto!", "ar": "أراك قريباً!", "phonetic": "/a ˈprɛsto/" },
