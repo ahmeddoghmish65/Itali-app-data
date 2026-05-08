@@ -1,1 +1,118 @@
+عندي تطبيق اخر وعايز اسحب البيانات في ملف json لاكن تطبيقي بيدعم هذا الصيغه 
+دي صيغه الاقسام
+
+[
+  {
+    "id": "a1b2c3d4-0001-4b88-8d88-000000000001",
+    "nameAr": "تعريفات عامة وواجبات استخدام الطريق",
+    "nameIt": "Definizioni generali e doveri nell'uso della strada",
+    "descriptionAr": "تعرف على القواعد العامة والمصطلحات الأساسية للطريق",
+    "descriptionIt": "Definizioni generali e doveri fondamentali sulla strada",
+    "image": "",
+    "icon": "auto_stories",
+    "color": "#64748b",
+    "order": 1,
+    "status": "active",
+    "deletedAt": null,
+    "createdAt": "2026-02-26T10:40:31.832+00:00"
+  },
+  {
+    "id": "a1b2c3d4-0002-4b88-8d88-000000000002",
+    "nameAr": "إشارات الخطر",
+    "nameIt": "Segnali di pericolo",
+    "descriptionAr": "تعرف على إشارات التحذير من الأخطار",
+    "descriptionIt": "Impara i segnali di pericolo",
+    "image": "",
+    "icon": "warning",
+    "color": "#ef4444",
+    "order": 2,
+    "status": "active",
+    "deletedAt": null,
+    "createdAt": "2026-02-26T10:40:31.832+00:00"
+}
+]
+
+ودي صيغه الدروس
+[
+  {
+    "sectionId": "a1b2c3d4-0002-4b88-8d88-000000000002",
+    "titleAr": "",
+    "titleIt": "Altri pericoli",
+    "contentAr": "",
+    "contentIt": "<div>E' un segnale di pericolo che preannuncia (di norma a 150 metri) un pericolo generico, diverso da quelli indicati dagli altri segnali di pericolo.</div><div>Sotto al segnale è obbligatorio un pannello integrativo che specifica il tipo di pericolo (esempio ATTRAVERSAMENTO BINARI, GHIACCIO, SGOMBRANEVE IN AZIONE, MEZZI DI LAVORO IN AZIONE, etc.)</div><div>Può essere usato senza pannelli integrativi per indicare un pericolo generico in caso di emergenza</div><div>Indica di procedere con prudenza.</div>",
+    "image": "",
+    "order": 82,
+    "id": "036623a5-9f24-4d8c-846a-52a87923205a",
+    "createdAt": "2026-04-20T14:42:22.718+00:00",
+    "deletedAt": null
+  },
+  {
+    "sectionId": "a1b2c3d4-0002-4b88-8d88-000000000002",
+    "titleAr": "",
+    "titleIt": "Dosso",
+    "contentAr": "",
+    "contentIt": "<div>E' un segnale di pericolo che preannuncia (di norma a 150 metri) un dosso (una salita, seguita da una discesa), ossia un tratto di strada con variazione di pendenza pericoloso per la limitata visibilità.</div><div>Può presegnalare anche dossi artificiali.</div><div>In presenza del segnale:</div><div>- è necessario moderare la velocità in relazione alla visibilità</div><div>- è vietata l'inversione di marcia, la sosta e la fermata sia sul tratto in salita che su quello in</div><div>discesa</div><div>- è vietato il sorpasso sul tratto in salita, se la strada è a doppio senso di circolazione con due sole corsie<br><br></div><div>Da non confondere con segnale 'STRADA</div><div>DEFORMATA' o 'CUNETTA'.</div>",
+    "image": "",
+    "order": 46,
+    "id": "0547f161-5e84-4746-ad90-6289057beda0",
+    "createdAt": "2026-04-19T11:38:21.762+00:00",
+    "deletedAt": null
+  },
+  {
+    "sectionId": "a1b2c3d4-0002-4b88-8d88-000000000002",
+    "titleAr": "",
+    "titleIt": "Pannelli distanziometrici",
+    "contentAr": "",
+    "contentIt": "<div>Sono segnali di pericolo e si trovano in prossimità di tutti i tipi di passaggi a livello (con barriere, semibarriere e senza barriere).</div><div>Servono ad indicare che ci si sta avvicinando all'attraversamento ferroviario.</div><div>Sono posti, di norma, a circa 150 metri (3 barre rosse), 100 metri (2 barre rosse) e 50 metri (1 barra rossa) dall'attraversamento ferroviario.</div>",
+    "image": "",
+    "order": 56,
+    "id": "05dd4c59-ccd8-42d7-a135-7617ce440c99",
+    "createdAt": "2026-04-19T16:35:20.273+00:00",
+    "deletedAt": null
+  }
+]
+
+ودي صيغه الاسئله 
+[
+  {
+    "id": "4307bbe9-d56f-44a5-afcc-5bbf7ebc1458",
+    "lessonId": "Ciclomotori",
+    "sectionId": "i_veicoli",
+    "questionAr": "",
+    "questionIt": "I veicoli a due ruote, con motore termico fino a 50 cm3 di cilindrata e velocità massima di 45 km/h sono ciclomotori",
+    "isTrue": true,
+    "explanationAr": "",
+    "explanationIt": "",
+    "difficulty": "easy",
+    "image": "",
+    "order": 1,
+    "status": "active",
+    "deletedAt": null,
+    "createdAt": "2026-05-05T09:09:59.014+00:00"
+  },
+  {
+    "id": "d24f3139-ff00-47ce-88c4-c429978f502f",
+    "lessonId": "Ciclomotori",
+    "sectionId": "i_veicoli",
+    "questionAr": "",
+    "questionIt": "I ciclomotori possono avere due o tre ruote",
+    "isTrue": true,
+    "explanationAr": "",
+    "explanationIt": "",
+    "difficulty": "easy",
+    "image": "",
+    "order": 2,
+    "status": "active",
+    "deletedAt": null,
+    "createdAt": "2026-05-05T09:09:59.014+00:00"
+  }
+]
+بس عايزك  تحط الصورة كـ base64 مباشرة في الـ JSON (بدون سيرفر).
+وتكون كل شي مربوط ببعض زي هنا
+
+
+
+
+
+
 
